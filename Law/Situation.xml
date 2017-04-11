@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<test>
-	 	<question><ti>người điều khiển giao thông</ti> ra hiệu lệnh bằng hai tay hoặc một <if4>tay giang ngang</if4> để báo hiệu thì người tham giao giao thông <qt>phải đi như thế nào</qt> đúng quy tắc giao thông</question>
+	 	<question><ti>người điều khiển giao thông</ti> ra hiệu lệnh bằng <if4>hai tay hoặc một tay giang ngang</if4> để báo hiệu thì người tham giao giao thông <qt>phải đi như thế nào</qt> đúng quy tắc giao thông</question>
 	 	<answer>người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điểu khiển được đi.</answer>
 	</test>
 	<test>
 	 	<question><l>tại nơi đường giao nhau</l>, khi <ti>người điều khiển giao thông</ti> ra hiệu tay <if4>giơ thẳng đứng</if4> để báo hiệu thì người tham gia giao thông <qt>phải đi như thế nào</qt></question>
 	 	<answer>đáp án: ý 2 người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điểu khiển được đi. người tham gia giao thông ở các hướng phải dừng lại. tất cả các trường hợp trên. </answer>
+	</test>
+	<test>
+		<question><if4>ban đêm</if4> <tv>xe cơ giới</tv> đi ngược chiều gặp nhau, <if1>đèn chiếu sáng</if1> phải được <qt>sử dụng như thế nào</qt></question>
+		<answer>phải chuyển từ đèn chiếu xa sang đèn chiếu gần.</answer>
 	</test>
 	<test>
 		<question><ti>người điều khiển giao thông</ti> ra hiệu lệnh bằng <if4>tay phải giơ về phía trước</if4> để báo hiệu thì người tham gia giao thông <qt>phải đi như thế nào</qt></question>
@@ -25,7 +29,7 @@
 	 	<answer>xe thô sơ phải đi trên làn đường bên phải trong cùng; xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.</answer>
 	</test>
 	<test>
-	 	<question>xe sau có thể <a>vượt lên bên phải xe khác</a> đang chạy phía trước <qt>trong trường hợp nào</qt></question>
+	 	<question>xe sau có thể <a>vượt lên bên phải xe khác</a> đang chạy phía trước trong <qt>trường hợp nào</qt></question>
 	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
 	</test>
 	<test>
@@ -73,7 +77,7 @@
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l>, <qt>loại xe cơ giới nào</qt> tham gia giao thông với <sp>tốc độ</sp> tối đa cho phép là <v>50 km/h</v></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l>, <qt>loại xe cơ giới nào</qt> tham gia giao thông với <sp>tốc độ</sp> tối đa cho phép là <v>50  km/h</v></question>
 		<answer>ô tô chở người đến 30 chỗ ngồi, ô tô tải có trọng tải dưới 3.500 kg.</answer>
 	</test>
 	<test>
@@ -185,7 +189,7 @@
 		<answer>phải nhường đường cho xe đi đến từ bên phải.</answer>
 	</test>
 	<test>
-		<question><l>trên đoạn đường bộ giao nhau cùng mức với đường sắt</l>, <l>cầu đường bộ đi chung với đường sắt</l> thì <qt>loại phương tiện nào được quyền ưu tiên đi trước</qt></question>
+		<question><l>trên đoạn đường bộ giao nhau cùng mức với đường sắt</l>, <l>cầu đường bộ đi chung với đường sắt</l> thì loại <qt>phương tiện nào</qt> <a>được quyền ưu tiên đi trước</a></question>
 		<answer>phương tiện giao thông đường sắt.</answer>
 	</test>
 	<test>
@@ -333,7 +337,7 @@
 		<answer>người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu hoặc hơi thở có nồng độ cồn.</answer>
 	</test>
 	<test>
-		<question>người lái <tv>ô tô</tv> <qt>xử lý như thế nào</qt> khi <a>cho xe mô tô phía sau vượt</a></question>
+		<question>người lái <tv>ô tô</tv> <qt>xử lý như thế nào</qt> <if4>khi cho xe mô tô phía sau vượt</if4></question>
 		<answer>lái xe vào lề đường bên phải và giảm tốc độ để xe phía sau vượt qua.</answer>
 	</test>
 	<test>

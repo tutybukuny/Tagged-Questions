@@ -197,7 +197,7 @@
 		<answer>là hàng có kích thước hoặc trọng lượng vượt quá giới hạn quy định nhưng không thể tháo rời ra được.</answer>
 	</test>
 		<test>
-		<question><if4>ban đêm</if4> <tv>xe cơ giới</tv> đi ngược chiều gặp nhau, <ano>đèn chiếu sáng</ano> phải được sử dụng <qt>như thế nào</qt></question>
+		<question><if4>ban đêm</if4> <tv>xe cơ giới</tv> đi ngược chiều gặp nhau, <if1>đèn chiếu sáng</if1> phải được <qt> sử dụng như thế nào</qt></question>
 		<answer>phải chuyển từ đèn chiếu xa sang đèn chiếu gần.</answer>
 	</test>
 		<test>
@@ -249,7 +249,19 @@
 		<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông.</answer>
 	</test>
 		<test>
-		<question><qt>cơ quan nào</qt> quy định <ano>các đoạn đường cấm đi</ano>, <ano>đường đi một chiều</ano>, <ano>nơi cấm dừng, cấm đỗ, cấm quay đầu xe, lắp đặt báo hiệu đường bộ</ano> thuộc địa phương quản lý</question>
+		<question><qt>cơ quan nào quy định</qt> <ano>các đoạn đường cấm đi</ano> thuộc địa phương quản lý</question>
+		<answer>Ủy ban nhân dân cấp tỉnh.</answer>
+	</test>
+	<test>
+		<question><qt>cơ quan nào quy định</qt> <ano>đường đi một chiều</ano> thuộc địa phương quản lý</question>
+		<answer>Ủy ban nhân dân cấp tỉnh.</answer>
+	</test>
+	<test>
+		<question><qt>cơ quan nào quy định</qt> <ano>nơi cấm dừng, cấm đỗ, cấm quay đầu xe</ano> thuộc địa phương quản lý</question>
+		<answer>Ủy ban nhân dân cấp tỉnh.</answer>
+	</test>
+	<test>
+		<question><qt>cơ quan nào quy định</qt> <ano>lắp đặt báo hiệu đường bộ </ano>thuộc địa phương quản lý</question>
 		<answer>Ủy ban nhân dân cấp tỉnh.</answer>
 	</test>
 	<test>
@@ -269,11 +281,11 @@
 		<answer>là hàng hóa có chứa các chất nguy hiểm, khi chở trên đường có khả năng nguy hại tới tính mạng, sức khoẻ con gười, môi trường, an toàn và an ninh quốc gia.</answer>
 	</test>
 		<test>
-		<question>việc <ano>sát hạch cấp giấy phép lái xe</ano> <tv>ô tô</tv> phải thực hiện <qt>ở đâu</qt></question>
+		<question>việc <ano>sát hạch cấp giấy phép lái xe</ano> <tv>ô tô</tv> phải <qt>thực hiện ở đâu</qt></question>
 		<answer>tại các trung tâm sát hạch lái xe có đủ điều kiện và phải bảo đảm công khai, minh bạch.</answer>
 	</test>
 	<test>
-		<question>việc <ano>sát hạch cấp giấy phép lái xe</ano> <tv>ô tô</tv> phải thực hiện <qt>như thế nào</qt></question>
+		<question>việc <ano>sát hạch cấp giấy phép lái xe</ano> <tv>ô tô</tv> phải <qt>thực hiện như thế nào</qt></question>
 		<answer>tại các trung tâm sát hạch lái xe có đủ điều kiện và phải bảo đảm công khai, minh bạch.</answer>
 	</test>
 		<test>

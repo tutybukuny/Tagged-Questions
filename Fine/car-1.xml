@@ -436,7 +436,7 @@
 		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <a>trái quy định</a> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <a>trái quy định</a> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm i khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -446,7 +446,7 @@
 		<base>điểm i khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>ở phần đường cho người đi bộ qua đường</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <l>ở phần đường cho người đi bộ qua đường</l> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -461,7 +461,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>trên cầu</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <l>trên cầu</l> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -471,7 +471,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> ở <l>đầu cầu</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> ở <l>đầu cầu</l> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -481,7 +481,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>tại gầm cầu vượt</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <l>tại gầm cầu vượt</l> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -491,7 +491,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> tại nơi <if4>đường hẹp</if4> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> tại nơi <if4>đường hẹp</if4> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -501,7 +501,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv>  tại nơi <if4>đường dốc</if4> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv>  tại nơi <if4>đường dốc</if4> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -511,7 +511,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> tại nơi <if4>đường cong</if4> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> tại nơi <if4>đường cong</if4> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -521,7 +521,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <if4>tại nơi tầm nhìn bị che khuất</if4> <qt>phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <if4>tại nơi tầm nhìn bị che khuất</if4> <qt>phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -531,7 +531,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>tại nơi có biển báo cấm quay đầu xe</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <l>tại nơi có biển báo cấm quay đầu xe</l> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -541,7 +541,7 @@
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>tại nơi cấm quay đầu xe</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <l>tại nơi cấm quay đầu xe</l> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -631,18 +631,18 @@
 		<base>điểm m khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>ô tô</tv> <a>chạy quá tốc độ quy định</a> từ <v>5 đến 10 km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question>lái <tv>ô tô</tv> <a>chạy quá tốc độ quy định</a> từ <v>5 đến 10   km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 3 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>6km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>6  km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 3 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>9km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>9  km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 3 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
@@ -1091,7 +1091,7 @@
 		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <a>gây ùn tắc giao thông</a> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <a>gây ùn tắc giao thông</a> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>800.000 đồng đến 1.200.000 đồng</answer>
 		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
 	</test>
@@ -1166,7 +1166,7 @@
 		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu xe</a> <tv>ô tô</tv> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>800.000 đồng đến 1.200.000 đồng</answer>
 		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
 	</test>
@@ -1326,23 +1326,23 @@
 		<base>điểm d khoản 6 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> từ <v>10 km/h đến 20 km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> từ <v>10   km/h đến 20   km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>chạy quá tốc độ</a> <v>11km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><tv>ô tô</tv> <a>chạy quá tốc độ</a> <v>11  km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> từ <v>20 km/h đến 35km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> từ <v>20   km/h đến 35  km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>chạy quá tốc độ</a> <v>25km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><tv>ô tô</tv> <a>chạy quá tốc độ</a> <v>25  km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
@@ -1561,23 +1561,23 @@
 		<base>khoản 10 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển xe <tv>ô tô</tv> <a>chạy</a> <a>quá tốc độ</a> quy định <v>35km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question>điều khiển xe <tv>ô tô</tv> <a>chạy</a> <a>quá tốc độ</a> quy định <v>35  km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm đ khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>điều khiển xe <tv>ô tô</tv> mà trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 80miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>lái <tv>ô tô</tv> với <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>điều khiển xe <tv>ô tô</tv> mà trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 0.4miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
@@ -1691,28 +1691,28 @@
 		<base>điểm d khoản 6 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>dưới 20 km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>dưới 20   km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>10 km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>10   km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>chạy</a> <a>quá tốc độ</a> <v>10 km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><tv>ô tô</tv> <a>chạy</a> <a>quá tốc độ</a> <v>10   km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>20 km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>20   km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>35km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>35  km/h</v> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
@@ -1826,8 +1826,8 @@
 		<base>khoản 10 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>chạy quá tốc độ</a> quy định <v>35km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<question><tv>ô tô</tv> <a>chạy quá tốc độ quy định</a> <v>35  km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05   km/h đến dưới 10   km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10   km/h đến 20   km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20   km/h đến 35   km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35   km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm đ khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>

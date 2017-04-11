@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<test>
-		<question>có <qt>cần</qt> <if3>mang theo giấy phép lái xe</if3> <if4>khi đi xe</if4> <qt>không</qt></question>
+		<question><qt>có cần</qt> <if3>mang theo giấy phép lái xe</if3> <if4>khi đi xe</if4> <qt>không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
