@@ -89,15 +89,15 @@
 	 	<answer>không cho phép.</answer>
 	</test>
 	<test>
-	 	<question>người ngồi trên  xe <tv>mô tô 3 bánh</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang; vác vật cồng kềnh</if3> <qt>hay không</qt></question>
+	 	<question>người ngồi trên  xe <tv>mô tô 3 bánh</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang; vác vật cồng kềnh</if3> hay <qt>không</qt></question>
 	 	<answer>được mang, vác nhưng phải đảm bảo an toàn.</answer>
 	</test>
 		<test>
-	 	<question>người ngồi trên xe <tv>mô tô 2 bánh</tv>  khi tham gia giao thông <qt>có được</qt> <if3>mang; vác vật cồng kềnh</if3> <qt>hay không</qt></question>
+	 	<question>người ngồi trên xe <tv>mô tô 2 bánh</tv>  khi tham gia giao thông <qt>có được</qt> <if3>mang; vác vật cồng kềnh</if3> hay <qt>không</qt></question>
 	 	<answer>được mang, vác nhưng phải đảm bảo an toàn.</answer>
 	</test>
 		<test>
-	 	<question>người ngồi trên <tv>xe gắn máy</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang; vác vật cồng kềnh</if3> <qt>hay không</qt></question>
+	 	<question>người ngồi trên <tv>xe gắn máy</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang; vác vật cồng kềnh</if3> hay <qt>không</qt></question>
 	 	<answer>được mang, vác nhưng phải đảm bảo an toàn.</answer>
 	</test>
 	<test>
@@ -157,13 +157,45 @@
 		<answer>30  km/h.</answer>
 	</test>
 	<test>
-		<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>dừng xe</a> <l>trên đường xe điện</l>, <l>trên miệng cống thoát nước</l>, <l>miệng hầm của đường điện thoại, điện cao thế</l>, <l>chỗ dành riêng cho xe chữa cháy lấy nước</l> <qt>hay không</qt></question>
-		<answer>không được dừng xe, đỗ xe.</answer>
-	</test>
-	<test>
-		<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>đỗ xe</a> <l>trên đường xe điện</l>, <l>trên miệng cống thoát nước</l>, <l>miệng hầm của đường điện thoại, điện cao thế</l>, <l>chỗ dành riêng cho xe chữa cháy lấy nước</l> <qt>hay không</qt></question>
-		<answer>không được dừng xe, đỗ xe.</answer>
-	</test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>dừng</a> xe <l>trên đường xe điện</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>dừng</a> xe <l>trên miệng cống thoát nước</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>dừng</a> xe <l>trên miệng hầm của đường điện thoại</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>dừng</a> xe <l>chỗ đường điện cao thế</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>dừng</a> xe  <l>chỗ dành riêng cho xe chữa cháy lấy nước</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>đỗ</a> xe <l>trên đường xe điện</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>đỗ</a> xe <l>trên miệng cống thoát nước</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>đỗ</a> xe <l>miệng hầm của đường điện thoại</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>đỗ</a> xe <l>chỗ đường điện cao thế</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
+<test>
+	<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>đỗ</a> xe  <l>chỗ dành riêng cho xe chữa cháy lấy nước</l> hay <qt>không</qt></question>
+	<answer>không được dừng xe, đỗ xe.</answer>
+</test>
 	<test>
 		<question><qt>ở những nơi nào</qt> <a>không được lùi xe</a></question>
 		<answer>ở khu vực cấm dừng và trên phần đường dành cho người đi bộ qua đường. nơi đường bộ giao nhau, đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ, đường cao tốc.</answer>
@@ -173,27 +205,27 @@
 		<answer>ở phần đường dành cho người đi bộ qua đường, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất. trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt.</answer>
 	</test>
 	<test>
-		<question>người ngồi trên <tv>xe gắn máy</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang, vác vật cồng kềnh</if3> <qt>hay không</qt></question>
+		<question>người ngồi trên <tv>xe gắn máy</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang, vác vật cồng kềnh</if3> hay <qt>không</qt></question>
 		<answer>không được mang, vác.</answer>
 	</test>
 	<test>
-		<question>người ngồi trên xe <tv>mô tô 2 bánh</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang, vác vật cồng kềnh</if3> <qt>hay không</qt></question>
+		<question>người ngồi trên xe <tv>mô tô 2 bánh</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang, vác vật cồng kềnh</if3> hay <qt>không</qt></question>
 		<answer>không được mang, vác.</answer>
 	</test>
 	<test>
-		<question>người ngồi trên xe <tv>mô tô 3 bánh</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang, vác vật cồng kềnh</if3> <qt>hay không</qt></question>
+		<question>người ngồi trên xe <tv>mô tô 3 bánh</tv> khi tham gia giao thông <qt>có được</qt> <if3>mang, vác vật cồng kềnh</if3> hay <qt>không</qt></question>
 		<answer>không được mang, vác.</answer>
 	</test>
 	<test>
-		<question><if3>việc họp chợ trên đường bộ</if3> <qt>có được phép hay không</qt></question>
+		<question><if3>việc họp chợ trên đường bộ</if3> <qt>có được</qt> phép hay <qt>không</qt></question>
 		<answer>không được phép.</answer>
 	</test>
 	<test>
-		<question><if3>tụ tập đông người trái phép trên đường bộ</if3> <qt>có được phép hay không</qt></question>
+		<question><if3>tụ tập đông người trái phép trên đường bộ</if3> <qt>có được</qt> phép hay <qt>không</qt></question>
 		<answer>không được phép.</answer>
 	</test>
 	<test>
-		<question><if3>thả rông súc vật trên đường bộ</if3> <qt>có được phép hay không</qt></question>
+		<question><if3>thả rông súc vật trên đường bộ</if3> <qt>có được</qt> phép hay <qt>không</qt></question>
 		<answer>không được phép.</answer>
 	</test>
 	<test>
@@ -265,11 +297,11 @@
 		<answer>mua vé và trả cước, phí vận tải hành lý mang theo quá mức quy định; có mặt tại nơi xuất phát đúng thời gian thỏa thuận; chấp hành quy định về vận chuyển; thực hiện đúng hướng dẫn của lái xe, nhân viên phục vụ trên xe về các quy định bảo đảm trật tự, an toàn giao thông. không mang theo hành lý, hàng hóa mà pháp luật cấm lưu thông.</answer>
 	</test>
 	<test>
-		<question><l>trên đường cao tốc</l>, người lái xe  phải <a>dừng xe</a> <qt>như thế nào</qt></question>
+		<question><l>trên đường cao tốc</l>, người lái xe  phải <a>dừng</a> xe <qt>như thế nào</qt></question>
 		<answer>chỉ được dừng xe, đỗ xe ở nơi quy định, trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.</answer>
 	</test>
 	<test>
-		<question><l>trên đường cao tốc</l>, người lái xe  phải <a>đỗ xe</a> <qt>như thế nào</qt></question>
+		<question><l>trên đường cao tốc</l>, người lái xe  phải <a>đỗ</a> xe <qt>như thế nào</qt></question>
 		<answer>chỉ được dừng xe, đỗ xe ở nơi quy định, trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.</answer>
 	</test>
 	<test>
@@ -481,11 +513,11 @@
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>tại các <l>điểm giao nhau</l> thì <qt>có được</qt> <a>vượt xe khác</a> <qt>không</qt></question>
+		<question><l>tại các điểm giao nhau</l> thì <qt>có được</qt> <a>vượt xe khác</a> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>tại <l>ngã tư</l> <tv>xe máy</tv> <a>vượt xe ô tô</a> <qt>có bị vi phạm không</qt></question>
+		<question><l>tại ngã tư</l> <tv>xe máy</tv> <a>vượt xe ô tô</a> <qt>có bị vi phạm không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -501,27 +533,27 @@
 		<answer>phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất</answer>
 	</test>
 	<test>
-		<question>xe <a>quay đầu</a> ở <l>phần đường dành cho người đi bộ qua đường</l> <qt>có bị vi phạm luật giao thông không</qt></question>
+		<question>xe <a>quay đầu</a> <l>ở phần đường dành cho người đi bộ qua đường</l> <qt>có bị vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe <a>quay đầu</a> ở <l>phần đường dành cho người đi bộ qua đường</l> <qt>có bị vi phạm luật không</qt></question>
+		<question>xe <a>quay đầu</a> <l>ở phần đường dành cho người đi bộ qua đường</l> <qt>có bị vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> <a>quay đầu xe</a> ở  <l>trên  cầu</l> <qt>không</qt></question>
+		<question><qt>có được</qt> <a>quay đầu xe</a> <l>ở  trên  cầu</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> <a>quay đầu xe</a> ở <l>gầm cầu vượt</l> <qt>không</qt></question>
+		<question><qt>có được</qt> <a>quay đầu xe</a> <l>ở gầm cầu vượt</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> <a>quay đầu xe</a> ở <l>trong hầm đường bộ</l> <qt>không</qt></question>
+		<question><qt>có được</qt> <a>quay đầu xe</a> <l>ở trong hầm</l> đường bộ <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> <a>quay đầu xe</a> ở  <l>trên  đường cao tốc</l> <qt>không</qt></question>
+		<question><qt>có được</qt> <a>quay đầu xe</a> <l>ở  trên  đường cao tốc</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -529,47 +561,47 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><a>dừng xe</a> <l>bên trái đường một chiều</l> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><a>dừng</a> xe <l>bên trái đường một chiều</l> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><a>dừng xe</a> <l>bên trái đường một chiều</l> <qt>có vi phạm luật không</qt></question>
+		<question><a>dừng</a> xe <l>bên trái đường một chiều</l> <qt>có vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> <a>dừng xe</a> <l>bên trái đường một chiều</l> <qt>không</qt></question>
+		<question><qt>có được</qt> <a>dừng</a> xe <l>bên trái đường một chiều</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><a>dừng xe</a>  <l>trên cầu vượt</l> <qt>có bị vi phạm luật giao thông không</qt></question>
+		<question><a>dừng</a> xe  <l>trên cầu vượt</l> <qt>có bị vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><a>dừng xe</a>  <l>trên cầu vượt</l> <qt>có bị vi phạm luật không</qt></question>
+		<question><a>dừng</a> xe  <l>trên cầu vượt</l> <qt>có bị vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> phép <a>dừng xe</a> ở <l>gầm cầu vượt</l> <qt>không</qt></question>
+		<question><qt>có được</qt> phép <a>dừng</a> xe <l>ở gầm cầu vượt</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 		<test>
-		<question>xe <tv>ô tô</tv> <a>dừng</a> ở <l>nơi dừng của xe buýt</l> <qt>có bị vi phạm luật giao thông không</qt></question>
+		<question>xe <tv>ô tô</tv> <a>dừng</a> <l>ở nơi dừng của xe buýt</l> <qt>có bị vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> <a>dừng</a> ở <l>nơi dừng của xe buýt</l> <qt>có bị vi phạm luật không</qt></question>
+		<question>xe <tv>ô tô</tv> <a>dừng</a> <l>ở nơi dừng của xe buýt</l> <qt>có bị vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đang <a>dừng</a> ở  <l>trên cầu vượt</l> <qt>có bị phạt không</qt></question>
+		<question>xe <tv>ô tô</tv> đang <a>dừng</a> <l>ở trên cầu vượt</l> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe <qt>có được</qt> phép <a>dừng xe</a> ở  <l>trên phần đường dành cho người đi bộ qua đường</l> <qt>không</qt></question>
+		<question>xe <qt>có được</qt> phép <a>dừng</a> xe <l>ở trên phần đường dành cho người đi bộ qua đường</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> <qt>có được</qt> phép <a>dừng</a> ở <l>nơi dừng của xe buýt</l> <qt>không</qt></question>
+		<question>xe <tv>ô tô</tv> <qt>có được</qt> phép <a>dừng</a> <l>ở nơi dừng của xe buýt</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -577,11 +609,11 @@
 		<answer>bên trái đường một chiều; trên các đoạn đường cong và gần đầu dốc tầm nhìn bị che khuất; trên cầu, gầm cầu vượt; song song với một xe khác đang dừng, đỗ; trên phần đường dành cho người đi bộ qua đường; nơi đường giao nhau và trong phạm vi 5 mét tính từ mép đường giao nhau; trước cổng và trong phạm vi 5 mét hai bên cổng trụ sở cơ quan, tổ chức; tại nơi phần đường có bề rộng chỉ đủ cho một làn xe; trong phạm vi an toàn của đường sắt; che khuất biển báo hiệu đường bộ.</answer>
 	</test>
 	<test>
-		<question>một xe <tv>ô tô</tv> đang <a>dừng</a> ở <l>phía bên trái đường một chiều</l>, xe đó <qt>có vi phạm luật giao thông không</qt></question>
+		<question>một xe <tv>ô tô</tv> đang <a>dừng</a> <l>ở phía bên trái đường một chiều</l>, xe đó <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>một xe <tv>ô tô</tv> đang <a>dừng</a> ở <l>phía bên trái đường một chiều</l>, xe đó <qt>có vi phạm luật không</qt></question>
+		<question>một xe <tv>ô tô</tv> đang <a>dừng</a> <l>ở phía bên trái đường một chiều</l>, xe đó <qt>có vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -649,7 +681,7 @@
 		<answer>không bị hạn chế tốc độ; được phép đi vào đường ngược chiều, các đường khác có thể đi được, kể cả khi có tín hiệu đèn đỏ và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> phép cho xe <a>chạy</a> <l>ở làn dừng xe khẩn cấp</l> <l>trên đường cao tốc</l> <qt>không</qt></question>
+		<question><qt>có được</qt> phép cho xe <a>chạy</a> <l>ở làn dừng xe khẩn cấp trên đường cao tốc</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -721,7 +753,7 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe <if1>bị mất phanh</if1> <qt>có được</qt> <a>đi trên đường</a> <qt>không</qt></question>
+		<question>xe <if1>bị mất phanh</if1> <qt>có được</qt> <a>đi</a> <l>trên đường</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -845,7 +877,7 @@
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
-		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được đi</qt> <tv>xe máy</tv> <qt>hay không</qt></question>
+		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được đi</qt> <tv>xe máy</tv> hay <qt>không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
@@ -893,7 +925,7 @@
 		<answer>60  km/h</answer>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường đôi</l> <l>trong khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>65  km/h</v> <qt>có vi phạm luật không</qt></question>
+		<question>xe <tv>ô tô</tv> đi <l>trên đường đôi trong khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>65  km/h</v> <qt>có vi phạm luật không</qt></question>
 		<answer>tốc độ tối đa là 60 km</answer>
 	</test>
 	<test>
@@ -929,7 +961,7 @@
 		<answer>tốc độ tối đa 50  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> được phép đi với <sp>tốc độ</sp> <qt>tối đa là bao nhiêu</qt> <l>trên đường hai chiều trong khu vực  đông dân cư</l> <l>không có dải phân cách giữa</l></question>
+		<question><tv>xe máy</tv> được phép đi với <sp>tốc độ</sp> <qt>tối đa là bao nhiêu</qt> <l>trên đường hai chiều trong khu vực  đông dân cư không có dải phân cách giữa</l></question>
 		<answer>trên đường hai chiều không có dải phân cách: 50  km/h; trên đường hai chiều có dải phân cách: 60  km/h</answer>
 	</test>
 	<test>
@@ -1273,7 +1305,7 @@
 		<answer>70  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên  <l>đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>tốc độ tối đa: 70  km/h</answer>
 	</test>
 	<test>
@@ -1285,23 +1317,23 @@
 		<answer>70  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên <l> đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên  đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>tốc độ tối đa: 70  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên <l> đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên  đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>tốc độ tối đa: 70  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên <l> đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> thì được phép đi với <sp>tốc độ</sp> tối đa <qt>là bao nhiêu</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên  đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> thì được phép đi với <sp>tốc độ</sp> tối đa <qt>là bao nhiêu</qt></question>
 		<answer>60  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên <l> đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên  đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>tốc độ tối đa: 60  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên <l> đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>70  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên  đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>70  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>tốc độ tối đa: 60  km/h</answer>
 	</test>
 	<test>
@@ -1309,11 +1341,11 @@
 		<answer>60  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên <l>đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>70  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>70  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>tốc độ tối đa: 60  km/h</answer>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi trên <l> đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên  đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60  km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>tốc độ tối đa: 60  km/h</answer>
 	</test>
 </root>

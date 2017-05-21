@@ -101,19 +101,31 @@
 		<answer>người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại cho xe sau vượt. cho xe tránh về bên trái và ra hiệu cho xe sau vượt; nếu có chướng ngại vật phía trước hoặc thiếu điều kiện an toàn chưa cho vượt được phải ra hiệu cho xe sau biết; cấm gây trở ngại cho xe xin vượt.</answer>
 	</test>
 	<test>
-		<question>người lái xe  <qt>phải làm gì</qt> khi <a>quay đầu xe</a> <l>trên cầu</l>, <l>gầm cầu vượt</l>, <l>đường ngầm</l> hay <l>khu vực đường bộ giao nhau cùng mức với đường sắt</l></question>
+		<question>người lái xe  <qt>phải làm gì</qt> khi <a>quay đầu xe</a> <l>trên cầu</l></question>
 		<answer>không được quay đầu xe.</answer>
 	</test>
 	<test>
-		<question><l>trên đường không phân chia thành hai chiều xe chạy riêng biệt</l>, hai xe <if4>đi ngược chiều</if4> <a>tránh nhau</a> <qt>như thế nào</qt></question>
+		<question>người lái xe  <qt>phải làm gì</qt> khi <a>quay đầu xe</a> <l>trong gầm cầu vượt</l></question>
+		<answer>không được quay đầu xe.</answer>
+	</test>
+	<test>
+		<question>người lái xe  <qt>phải làm gì</qt> khi <a>quay đầu xe</a> <l>trên đường ngầm</l></question>
+		<answer>không được quay đầu xe.</answer>
+	</test>
+	<test>
+		<question>người lái xe  <qt>phải làm gì</qt> khi <a>quay đầu xe</a> <l>ở khu vực đường bộ giao nhau cùng mức với đường sắt</l></question>
+		<answer>không được quay đầu xe.</answer>
+	</test>
+	<test>
+		<question><l>trên đường không phân chia thành hai chiều xe chạy riêng biệt</l>, <if4>hai xe đi ngược chiều</if4> <a>tránh nhau</a> <qt>như thế nào</qt></question>
 		<answer>người điều khiển phải giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.</answer>
 	</test>
 	<test>
-		<question><l>bên trái đường một chiều</l>, người lái xe  <qt>có được</qt> <a>đỗ xe</a> <qt>hay không</qt></question>
+		<question><l>bên trái đường một chiều</l>, người lái xe  <qt>có được</qt> <a>đỗ xe</a> hay <qt>không</qt></question>
 		<answer>không được dừng xe, đỗ xe.</answer>
 	</test>
 	<test>
-		<question><l>bên trái đường một chiều</l>, người lái xe  <qt>có được</qt> <a>dừng xe</a> <qt>hay không</qt></question>
+		<question><l>bên trái đường một chiều</l>, người lái xe  <qt>có được</qt> <a>dừng xe</a> hay <qt>không</qt></question>
 		<answer>không được dừng xe, đỗ xe.</answer>
 	</test>
 	<test>
@@ -121,11 +133,11 @@
 		<answer>trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở nhưng nơi cho phép; khi chuyển làn đường phải có tín hiệu báo trước và đảm bảo an toàn. trên đường một chiều có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái; phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn đi về bên phải.</answer>
 	</test>
 	<test>
-		<question>khi điều khiển xe chạy <if4>trên đoạn đường vòng</if4> người lái xe  muốn <a>vượt xe khác</a> thì phải <qt>xử lý như thế nào</qt></question>
+		<question>khi điều khiển xe chạy <l>trên đoạn đường vòng</l> người lái xe  muốn <a>vượt xe khác</a> thì phải <qt>xử lý như thế nào</qt></question>
 		<answer>không được vượt.</answer>
 	</test>
 	<test>
-		<question>khi điều khiển xe chạy <if4>đầu dốc</if4> người lái xe  muốn <a>vượt xe khác</a> thì phải <qt>xử lý như thế nào</qt></question>
+		<question>khi điều khiển xe chạy <l>trên đầu dốc</l> người lái xe  muốn <a>vượt xe khác</a> thì phải <qt>xử lý như thế nào</qt></question>
 		<answer>không được vượt.</answer>
 	</test>
 	<test>
@@ -137,7 +149,7 @@
 		<answer>phải báo hiệu bằng đèn hoặc còi; trong đô thị và nơi đông dân cư từ 22 giờ đến 05 giờ chỉ được báo hiệu xin vượt bằng đèn. xe xin vượt chỉ được vượt khi không có chướng ngại vật ở phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải.</answer>
 	</test>
 	<test>
-		<question>khi lái <tv>ô tô</tv> qua <if4>đường sắt không có rào chắn</if4>, <if4>không có người điều khiển giao thông</if4>, người lái xe  <qt>phải xử lý thế nào</qt></question>
+		<question>khi lái <tv>ô tô</tv> <a>qua đường sắt không có rào chắn</a>, <if4>không có người điều khiển giao thông</if4>, người lái xe  <qt>phải xử lý thế nào</qt></question>
 		<answer>tạm dừng xe tại vị trí cách đường sắt tối thiểu 5 m, hạ kính cửa, tắt hết các thiết bị âm thanh trên xe, quan sát, nếu không có tàu chạy qua, về số thấp, tăng nhẹ ga vượt qua đường sắt.</answer>
 	</test>
 	<test>
@@ -153,15 +165,15 @@
 		<answer>nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe kia đi. xe xuống dốc phải nhường đường cho xe đang lên dốc; xe nào có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật đi trước.</answer>
 	</test>
 	<test>
-		<question><if4>hàng nguy hiểm</if4> <qt>được</qt> nhận chở trên <tv>xe khách</tv> <qt>hay không</qt></question>
+		<question><if4>hàng nguy hiểm</if4> <qt>được</qt> nhận <a>chở</a> trên <tv>xe khách</tv> hay <qt>không</qt></question>
 		<answer>không được chở.</answer>
 	</test>
 	<test>
-		<question><if4>hàng có mùi hôi thối</if4> <qt>được</qt> nhận chở trên <tv>xe khách</tv> <qt>hay không</qt></question>
+		<question><if4>hàng có mùi hôi thối</if4> <qt>được</qt> nhận <a>chở</a> trên <tv>xe khách</tv> hay <qt>không</qt></question>
 		<answer>không được chở.</answer>
 	</test>
 	<test>
-		<question><if4>hàng hóa có ảnh hưởng đến sức khỏe hành khách</if4> <qt>được</qt> nhận chở trên <tv>xe khách</tv> <qt>hay không</qt></question>
+		<question><if4>hàng hóa có ảnh hưởng đến sức khỏe hành khách</if4> <qt>được</qt> nhận <a>chở</a> trên <tv>xe khách</tv> hay <qt>không</qt></question>
 		<answer>không được chở.</answer>
 	</test>
 	<test>
@@ -189,7 +201,11 @@
 		<answer>phải nhường đường cho xe đi đến từ bên phải.</answer>
 	</test>
 	<test>
-		<question><l>trên đoạn đường bộ giao nhau cùng mức với đường sắt</l>, <l>cầu đường bộ đi chung với đường sắt</l> thì loại <qt>phương tiện nào</qt> <a>được quyền ưu tiên đi trước</a></question>
+		<question><l>trên đoạn đường bộ giao nhau cùng mức với đường sắt</l> thì loại <qt>phương tiện nào</qt> <a>được quyền ưu tiên đi trước</a></question>
+		<answer>phương tiện giao thông đường sắt.</answer>
+	</test>
+	<test>
+		<question><l>trên cầu đường bộ đi chung với đường sắt</l> thì loại <qt>phương tiện nào</qt> <a>được quyền ưu tiên đi trước</a></question>
 		<answer>phương tiện giao thông đường sắt.</answer>
 	</test>
 	<test>
@@ -213,7 +229,7 @@
 		<answer>dùng thanh nối cứng.</answer>
 	</test>
 	<test>
-		<question><if4>khi quay đầu xe</if4>, người lái xe  <qt>cần phải quan sát và thực hiện các thao tác nào</qt></question>
+		<question><if4>khi quay đầu xe</if4>, người lái xe  cần phải quan sát và <qt>thực hiện các thao tác nào</qt></question>
 		<answer>quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe cho thích hợp; quay đầu xe với tốc độ nhỏ nhất; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đầu xe về phía nguy hiểm đưa đuôi xe vê phía an toàn.</answer>
 	</test>
 	<test>
@@ -265,7 +281,7 @@
 		<answer>cách chỗ rẽ khoảng 30 m giảm tốc độ, có tín hiệu rẽ trái xin đổi làn đường; quan sát an toàn xung quanh đặc biệt là bên trái; đổi sang làn đường bên trái; cho xe chạy chậm tới phía trong của tâm đường giao nhau mới rẽ trái để điều khiển xe qua chỗ đường giao nhau.</answer>
 	</test>
 	<test>
-		<question>khi <if4>đèn pha của xe ngược chiều gây chói mắt</if4>, làm giảm khả năng quan sát trên đường, người lái xe  <qt>xử lý như thế nào</qt></question>
+		<question><if4>khi đèn pha của xe ngược chiều gây chói mắt</if4>, làm giảm khả năng quan sát trên đường, người lái xe  <qt>xử lý như thế nào</qt></question>
 		<answer>giảm tốc độ, nếu cần thiết có thể dừng lại.</answer>
 	</test>
 	<test>
@@ -549,7 +565,7 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> <if1>không có đèn soi biển số</if1> thì <qt>có được</qt> <a>đi trên đường</a> <qt>không</qt></question>
+		<question>xe <tv>ô tô</tv> <if1>không có đèn soi biển số</if1> thì <qt>có được</qt> <a>đi</a> <l>trên đường</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -569,11 +585,11 @@
 		<answer></answer>
 	</test>
 	<test>
-		<question><if1>đèn chiếu sáng</if1> của <tv>xe máy</tv> <if1>bị hỏng</if1> <qt>có được</qt> <a>đi trên đường</a> <qt>không</qt></question>
+		<question><if1>đèn chiếu sáng</if1> của <tv>xe máy</tv> <if1>bị hỏng</if1> <qt>có được</qt> <a>đi</a> <l>trên đường</l> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>xe <if1>chưa đăng ký biển số</if1> <qt>có được</qt> <a>đi trên đường</a> <qt>không</qt></question>
+		<question>xe <if1>chưa đăng ký biển số</if1> <qt>có được</qt> <a>đi</a> <l>trên đường</l> <qt>không</qt></question>
 		<answer></answer>
 	</test>
 	<test>
@@ -637,7 +653,7 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><tv>ô tô đi trước</tv> <if1>có tín hiệu báo vượt xe khác</if1> thì <qt>có được vượt</qt> ô tô đó <qt>hay không</qt></question>
+		<question><tv>ô tô đi trước</tv> <if1>có tín hiệu báo vượt xe khác</if1> thì <qt>có được vượt</qt> ô tô đó hay <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -657,11 +673,11 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe ô tô đi đến <l>ngã ba có vòng xuyến</l>, xe <tv>ô tô</tv> <qt>phải nhường đường cho xe đi đến từ hướng nào</qt></question>
+		<question>xe ô tô đi đến <l>ngã ba</l> <if4>có vòng xuyến</if4>, xe <tv>ô tô</tv> <qt>phải nhường đường cho xe đi đến từ hướng nào</qt></question>
 		<answer>xe phải nhường đường cho xe đi bên trái</answer>
 	</test>
 	<test>
-		<question><l>tại ngã tư không có</l> báo hiệu đi theo <l>vòng xuyến</l>, xe <qt>phải nhường đường cho xe từ hướng nào</qt></question>
+		<question><l>tại ngã tư</l> </if4>không có báo hiệu đi theo vòng xuyến</if4>, xe <qt>phải nhường đường cho xe từ hướng nào</qt></question>
 		<answer>xe phải nhường đường cho xe đi đến từ bên phải</answer>
 	</test>
 	<test>
@@ -693,7 +709,7 @@
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>lúc <tl>đèn vàng</tl> ô tô <qt>có được</qt> phép <a>di chuyển</a> <qt>hay không</qt></question>
+		<question>lúc <tl>đèn vàng</tl> ô tô <qt>có được</qt> phép <a>di chuyển</a> hay <qt>không</qt></question>
 		<answer>xe phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường</answer>
 	</test>
 	<test>
@@ -701,15 +717,15 @@
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><tl>đèn báo hiệu</tl> <if2>nhấp nháy màu vàng</if2>, xe <if4>đã đi quá vạch dừng</if4> thì <qt>có được</qt> <a>đi tiếp</a> <qt>hay không</qt></question>
+		<question><tl>đèn báo hiệu</tl> <if2>nhấp nháy màu vàng</if2>, xe <if4>đã đi quá vạch dừng</if4> thì <qt>có được</qt> <a>đi tiếp</a> hay <qt>không</qt></question>
 		<answer>có nhưng phải giảm tốc độ</answer>
 	</test>
 	<test>
-		<question><tl>đèn báo hiệu</tl> <if2>nhấp nháy màu vàng</if2>, xe <qt>có được</qt> <a>đi tiếp</a> <qt>hay không</qt></question>
+		<question><tl>đèn báo hiệu</tl> <if2>nhấp nháy màu vàng</if2>, xe <qt>có được</qt> <a>đi tiếp</a> hay <qt>không</qt></question>
 		<answer>có nhưng phải giảm tốc độ</answer>
 	</test>
 	<test>
-		<question>lúc <tl>đèn vàng</tl>, xe <if4>đã đi quá vạch dừng</if4> thì <qt>có được</qt> <a>đi tiếp</a> <qt>hay không</qt></question>
+		<question>lúc <tl>đèn vàng</tl>, xe <if4>đã đi quá vạch dừng</if4> thì <qt>có được</qt> <a>đi tiếp</a> hay <qt>không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -953,11 +969,11 @@
 		<answer>người tham gia giao thông ở phía sau và bên phải người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía trước người điều khiển giao thông được rẽ phải; người tham gia giao thông ở phía bên trái người điểu khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.</answer>
 	</test>
 	<test>
-		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4>, <tv>xe máy</tv> <if1>phía sau lưng cảnh sát</if1> giao thông <qt>có được đi</qt> <qt>hay không</qt></question>
+		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4>, <tv>xe máy</tv> <if1>phía sau lưng cảnh sát</if1> giao thông <qt>có được đi</qt> hay <qt>không</qt></question>
 		<answer>không, xe phải dừng lại</answer>
 	</test>
 	<test>
-		<question><ti>cảnh sát</ti> <if4>giơ tay phải về phía trước</if4>, <tv>xe máy</tv> <if1>phía sau lưng cảnh sát</if1> <qt>có được đi</qt> <qt>hay không</qt></question>
+		<question><ti>cảnh sát</ti> <if4>giơ tay phải về phía trước</if4>, <tv>xe máy</tv> <if1>phía sau lưng cảnh sát</if1> <qt>có được đi</qt> hay <qt>không</qt></question>
 		<answer>không, xe phải dừng lại</answer>
 	</test>
 	<test>
@@ -1025,19 +1041,19 @@
 		<answer>không, xe phải dừng lại</answer>
 	</test>
 	<test>
-		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4> xe <if1>ở bên trái cảnh sát</if1> giao thông <qt>được đi</qt> <qt>hay không</qt></question>
+		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4> xe <if1>ở bên trái cảnh sát</if1> giao thông <qt>được đi</qt> hay <qt>không</qt></question>
 		<answer>xe được phép rẽ tất cả các hướng</answer>
 	</test>
 	<test>
-		<question><ti>cảnh sát</ti> <if4>giơ tay phải về phía trước</if4> <tv>ô tô</tv> <if1>ở bên trái cảnh sát</if1> <qt>được đi</qt> <qt>hay không</qt></question>
+		<question><ti>cảnh sát</ti> <if4>giơ tay phải về phía trước</if4> <tv>ô tô</tv> <if1>ở bên trái cảnh sát</if1> <qt>được đi</qt> hay <qt>không</qt></question>
 		<answer>xe được phép rẽ tất cả các hướng</answer>
 	</test>
 	<test>
-		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4> thì xe <if1>ở bên trái</if1> <a>rẽ trái</a> có bị <qt>vi phạm luật</qt> <qt>hay không</qt></question>
+		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4> thì xe <if1>ở bên trái</if1> <a>rẽ trái</a> có bị <qt>vi phạm luật</qt> hay <qt>không</qt></question>
 		<answer>không, xe được đi tất cả các hướng</answer>
 	</test>
 	<test>
-		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4> thì xe <if1>ở bên trái</if1> <qt>có được</qt> <a>rẽ phải</a> <qt>hay không</qt></question>
+		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay phải về phía trước</if4> thì xe <if1>ở bên trái</if1> <qt>có được</qt> <a>rẽ phải</a> hay <qt>không</qt></question>
 		<answer>có, xe được đi tất cả các hướng</answer>
 	</test>
 	<test>

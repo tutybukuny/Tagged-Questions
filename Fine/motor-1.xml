@@ -291,7 +291,7 @@
 		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>bật đèn pha</a> <tv>xe máy</tv> <l>trong thành phố thì</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>bật đèn pha</a> <tv>xe máy</tv> <l>trong thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -301,7 +301,7 @@
 		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>bật đèn pha</a> <tv>xe máy</tv> <l>tại chỗ đông người</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>bật đèn pha</a> <tv>xe máy</tv> <if4>tại chỗ đông người</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -321,7 +321,7 @@
 		<base>điểm g khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> <tv>xe máy</tv> <l>tại nơi cấm quay đầu xe</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu</a> <tv>xe máy</tv> <l>tại nơi cấm quay đầu</l> xe thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm h khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -421,7 +421,7 @@
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>tụ tập từ 3</a> <tv>xe máy</tv> <a>trở lên</a> <l>trong lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>tụ tập từ 3</a> <tv>xe máy</tv> trở lên <l>trong lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -431,7 +431,7 @@
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>tụ tập từ 3</a> <tv>xe máy</tv> <a>trở lên</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>tụ tập từ 3</a> <tv>xe máy</tv> <a>trở lên</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -941,7 +941,7 @@
 		<base>điểm c khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <l>trong hầm đường bộ</l> <a>không sử dụng đèn gần</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>lái <tv>xe máy</tv> <l>trong hầm</l> đường bộ <a>không sử dụng đèn gần</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -951,7 +951,7 @@
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>vượt</a> <l>trong hầm đường bộ</l> <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>lái <tv>xe máy</tv> <a>vượt</a> <l>trong hầm</l> đường bộ <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -961,7 +961,7 @@
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>quay đầu</a> <tv>xe máy</tv> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>quay đầu</a> <tv>xe máy</tv> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -991,7 +991,7 @@
 		<base>điểm đ khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>dừng</a> <tv>xe máy</tv> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>dừng</a> <tv>xe máy</tv> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1001,7 +1001,7 @@
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>dừng</a> <tv>xe máy</tv> <l>trong hầm đường bộ</l> <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>dừng</a> <tv>xe máy</tv> <l>trong hầm</l> đường bộ <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1011,7 +1011,7 @@
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>đỗ</a> <tv>xe máy</tv> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đỗ</a> <tv>xe máy</tv> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1021,7 +1021,7 @@
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>đỗ</a> <tv>xe máy</tv> <l>trong hầm đường bộ</l> <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đỗ</a> <tv>xe máy</tv> <l>trong hầm</l> đường bộ <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1546,7 +1546,7 @@
 		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>không nhường đường cho xe ngược chiều</a> <l>tại vị trí có vật cản</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>không nhường đường cho xe ngược chiều</a> <if4>tại vị trí có vật cản</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1556,7 +1556,7 @@
 		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if4>quá 10 giờ đêm</if4> mà <a>bấm còi</a> <tv>xe máy</tv> tại <l>nơi đông dân cư</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if4>quá 10 giờ đêm</if4> mà <a>bấm còi</a> <tv>xe máy</tv> <if4>tại nơi đông dân cư</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1626,12 +1626,12 @@
 		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>dừng</a> <tv>xe máy</tv> ở <l>giữa lòng đường thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>dừng</a> <tv>xe máy</tv> <l>ở giữa lòng đường thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>đỗ</a> <tv>xe máy</tv> ở <l>giữa lòng đường thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đỗ</a> <tv>xe máy</tv> <l>ở giữa lòng đường thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1641,7 +1641,7 @@
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>tập trung từ 3</a> <tv>xe máy</tv> <a>trở lên</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>tập trung từ 3</a> <tv>xe máy</tv> <a>trở lên</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
 	</test>

@@ -81,12 +81,12 @@
 		<base>điểm d khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe đạp</tv> <a>dừng trong lòng đường</a> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe đạp</tv> <a>dừng</a> <l>trong lòng đường ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong lòng đường ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
@@ -101,12 +101,12 @@
 		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe đạp</tv> <a>đỗ</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe đạp</tv> <a>đỗ</a> <l>trong lòng đường ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>trong lòng đường ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
@@ -121,12 +121,12 @@
 		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe đạp</tv> <a>chạy</a> <l>trong hầm đường bộ</l> <if1>không có đèn</if1> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe đạp</tv> <a>chạy</a> <l>trong hầm</l> đường bộ <if1>không có đèn</if1> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe thô sơ</tv> <a>chạy</a> <l>trong hầm đường bộ</l> <if1>không có đèn</if1> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe thô sơ</tv> <a>chạy</a> <l>trong hầm</l> đường bộ <if1>không có đèn</if1> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
@@ -141,12 +141,12 @@
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe đạp</tv> <a>dừng</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe đạp</tv> <a>dừng</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
@@ -161,12 +161,12 @@
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe đạp</tv> <a>đỗ</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe đạp</tv> <a>đỗ</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
@@ -181,12 +181,12 @@
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe đạp</tv> <a>quay đầu</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe đạp</tv> <a>quay đầu</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe thô sơ</tv> <a>quay đầu</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe thô sơ</tv> <a>quay đầu</a> <l>trong hầm</l> đường bộ thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>50.000 đồng đến 60.000 đồng</answer>
 		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
@@ -271,12 +271,12 @@
 		<base>điểm i khoản 1 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>để</a> <tv>xe thô sơ</tv> <l>trong lòng đường</l> <l>nội thành</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>để</a> <tv>xe thô sơ</tv> <l>trong lòng đường nội thành</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>để</a> <tv>xe đạp</tv> <l>trong lòng đường</l> <l>thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>để</a> <tv>xe đạp</tv> <l>trong lòng đường thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
 	</test>
