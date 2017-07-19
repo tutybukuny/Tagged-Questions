@@ -42,14 +42,14 @@
 	</test>
 	<test>
 		<question><if4>khi có tín hiệu của xe ưu tiên</if4> người tham gia giao thông <qt>phải làm gì</qt></question>
-	 	<answer>nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường; không được gây cản trở xe được quyền ưu tiên.</answer>
+	 	<answer>nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường. không được gây cản trở xe được quyền ưu tiên</answer>
 	</test>
 	<test>
-		<question><l>tại nơi đường giao nhau</l> <if4>có báo hiệu đi theo vòng xuyến</if4> người điều khiển phương tiện <qt>phải</qt> <a>nhường đường</a> <qt>như thế nào</qt></question>
+		<question><l>tại nơi đường giao nhau</l> <if4>có báo hiệu đi theo vòng xuyến</if4> người điều khiển phương tiện phải <a>nhường đường</a> <qt>như thế nào</qt></question>
 	 	<answer>phải nhường đường cho xe đi bên trái.</answer>
 	</test>
 	<test>
-		<question><l>tại nơi đường giao nhau</l> người lái xe đang đi <l>trên đường không ưu tiên</l> <qt>phải</qt> <a>nhường đường</a> như <qt>thế nào</qt></question>
+		<question><l>tại nơi đường giao nhau</l> người lái xe đang đi <l>trên đường không ưu tiên</l> phải <a>nhường đường</a> như <qt>thế nào</qt></question>
 	 	<answer>nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.</answer>
 	</test>
 	<test>
@@ -69,7 +69,7 @@
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <qt>loại xe cơ giới nào</qt> tham gia giao thông với <sp>tốc độ</sp> tối đa cho phép là <v>50 km/h</v></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <qt>loại xe cơ giới nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>50 km/h</v></question>
 		<answer>ô tô chở người đến 30 chỗ ngồi, ô tô tải có trọng tải dưới 3.500 kg.</answer>
 	</test>
 	<test>

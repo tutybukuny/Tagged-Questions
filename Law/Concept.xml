@@ -45,7 +45,7 @@
 		<answer>là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.</answer>
 	</test>
 	<test>
-		<question>khi <ano>sơ cứu ban đầu cho người bị tai nạn giao thông</ano> đường bộ không còn hô hấp người lái xe và người <if3>có mặt tại hiện trường</if3> vụ tai nạn <qt>phải thực hiện các công việc gì</qt></question>
+		<question>khi <ano>sơ cứu ban đầu cho người bị tai nạn giao thông</ano> đường bộ không còn hô hấp người lái xe và người <if3>có mặt tại hiện trường vụ tai nạn</if3> <qt>phải thực hiện các công việc gì</qt></question>
 		<answer>đặt nạn nhân nằm ngửa, khai thông đường thở của nạn nhân. thực hiện các biện pháp hô hấp nhân tạo; thực hiện các biện pháp xoa bóp tim.</answer>
 	</test>
 		<test>
@@ -77,7 +77,7 @@
 		<answer>là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông; là ý thức trách nhiệm với cộng đồng khi tham gia giao thông. là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.</answer>
 	</test>
 		<test>
-		<question>việc <ano>sản xuất</ano> <ano>mua bán</ano> <ano>sử dụng biển số xe cơ giới xe máy</ano> chuyên dùng được quy định <qt>như thế nào</qt> trong luật giao thông đường bộ</question>
+		<question>việc <ano>sản xuất</ano> <ano>mua bán</ano> <ano>sử dụng biển số xe cơ giới xe máy chuyên dùng</ano> được quy định <qt>như thế nào</qt> trong luật giao thông đường bộ</question>
 		<answer>nghiêm cấm sản xuất, mua bán, sử dụng trái phép.</answer>
 	</test>
 		<test>
@@ -157,7 +157,7 @@
 		<answer>là loại động cơ: để hoàn thành một chu trình công tác của động cơ, pít-tông thực hiện 2 (hai) hành trình, trong đó có một lần sinh công.</answer>
 	</test>
 		<test>
-		<question>hoạt động <ano>vận tải đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><ano>hoạt động vận tải đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>hoạt động vận tải đường bộ gồm hoạt động vận tải không kinh doanh và hoạt động kinh doanh vận tải đường bộ; kinh doanh vận tải đường bộ là ngầnh nghề kinh doanh có điều kiện theo quy định của pháp luật.</answer>
 	</test>
 	<test>
