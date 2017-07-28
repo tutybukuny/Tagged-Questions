@@ -5,7 +5,7 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><a>điều khiển xe cơ giới</a> <qt>có cần</qt> phải có <dl>giấy phép lái xe</dl> <qt>không</qt></question>
+		<question>điều khiển <tv>xe cơ giới</tv> <qt>có cần</qt> phải có <dl>giấy phép lái xe</dl> <qt>không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -97,7 +97,7 @@
 		<answer>27 tuổi trở lên</answer>
 	</test>
 	<test>
-		<question><qt>tuổi</qt> tối đa của người lái xe <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1> <qt>là bao nhiêu</qt></question>
+		<question><qt>tuổi tối đa</qt> của người lái xe <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1> <qt>là bao nhiêu</qt></question>
 		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
 	</test>
 	<test>

@@ -329,11 +329,11 @@
 		<answer>27 tuổi.</answer>
 	</test>
 	<test>
-		<question><if4>tuổi tối đa</if4> của người lái <tv>ô tô</tv> chở người <if1>trên 30 chỗ</if1> hạng e là <qt>bao nhiêu tuổi</qt></question>
+		<question><qt>tuổi tối đa</qt> của người lái <tv>ô tô</tv> chở người <if1>trên 30 chỗ</if1> hạng e là <qt>bao nhiêu tuổi</qt></question>
 		<answer>dưới 55 tuổi đối với nam và dưới 50 tuổi đối với nữ.</answer>
 	</test>
 	<test>
-		<question><if4>tuổi tối đa</if4> của người lái <tv>ô tô</tv> chở người <if1>hạng e</if1> là <qt>bao nhiêu tuổi</qt></question>
+		<question><qt>tuổi tối đa</qt> của người lái <tv>ô tô</tv> chở người <if1>hạng e</if1> là <qt>bao nhiêu tuổi</qt></question>
 		<answer>dưới 55 tuổi đối với nam và dưới 50 tuổi đối với nữ.</answer>
 	</test>
 	<test>
@@ -397,7 +397,7 @@
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>xe máy <qt>có được</qt> phép <a>bấm còi</a> lúc <if4>4 giờ</if4> <l>tại khu đô thị</l> <qt>không</qt></question>
+		<question><tv>xe máy</tv> <qt>có được</qt> phép <a>bấm còi</a> lúc <if4>4 giờ</if4> <l>tại khu đô thị</l> <qt>không</qt></question>
 		<answer>không được bấm còi, rú ga liên tục; bấm còi trong thời gian từ 22 giờ đến 5 giờ, bấm còi hơi trong đô thị và khu đông dân cư, trừ các xe được quyền ưu tiên đang đi làm nhiệm vụ</answer>
 	</test>
 	<test>
@@ -409,7 +409,7 @@
 		<answer>bấm còi, rú ga liên tục; bấm còi trong thời gian từ 22 giờ đến 5 giờ, bấm còi hơi trong đô thị và khu đông dân cư, trừ các xe được quyền ưu tiên đang đi làm nhiệm vụ</answer>
 	</test>
 	<test>
-		<question>xe tải <a>bấm còi hơi</a> khi đi <l>trong khu đô thị</l> <qt>có bị phạt không</qt></question>
+		<question><tv>xe tải</tv> <a>bấm còi hơi</a> khi đi <l>trong khu đô thị</l> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -469,7 +469,7 @@
 		<answer>trên cầu hẹp có một làn xe; đường vòng, đầu dốc và các vị trí có tầm nhìn hạn chế; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</answer>
 	</test>
 	<test>
-		<question>xe máy đi <l>trên cầu có một làn xe</l> <qt>có được</qt> phép <a>vượt xe khác</a> <qt>không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên cầu có một làn xe</l> <qt>có được</qt> phép <a>vượt xe khác</a> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -845,7 +845,7 @@
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
-		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được đi</qt> <tv>xe máy</tv> hay <qt>không</qt></question>
+		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được</qt> đi <tv>xe máy</tv> hay <qt>không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>

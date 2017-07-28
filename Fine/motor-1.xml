@@ -778,7 +778,7 @@
 	<test>
 		<question>điều khiển <tv>xe máy</tv> <a>vượt bên phải</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
-		<base>điểm h khoản 4 điều 6 nghị định 46-2016</base>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>điều khiển <tv>xe máy</tv> <a>đi vào khu vực cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -1038,7 +1038,7 @@
 	<test>
 		<question>lái <tv>xe máy</tv> với <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>khoản 6 điều 6 nghị định 46-2016</base>
+		<base>điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>đi <tv>xe máy</tv> trong hơi thở có <ac>nồng độ cồn</ac> <v>vượt quá 0 25miligram đến 0 4 miligram trên 1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -1138,7 +1138,7 @@
 	<test>
 		<question>lái đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+		<base>điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>người đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 0 4miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>

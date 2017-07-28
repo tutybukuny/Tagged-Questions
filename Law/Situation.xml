@@ -49,7 +49,7 @@
 	 	<answer>phải nhường đường cho xe đi bên trái.</answer>
 	</test>
 	<test>
-		<question><l>tại nơi đường giao nhau</l> người lái xe đang đi <l>trên đường không ưu tiên</l> phải <a>nhường đường</a> như <qt>thế nào</qt></question>
+		<question><l>tại nơi đường giao nhau</l> người lái xe đang đi <l>trên đường không ưu tiên</l> <qt>phải</qt> <a>nhường đường</a> <qt>như thế nào</qt></question>
 	 	<answer>nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.</answer>
 	</test>
 	<test>
@@ -189,7 +189,7 @@
 		<answer>5 m</answer>
 	</test>
 	<test>
-		<question><l>tại nơi đường giao nhau</l> <if4>không có báo hiệu đi theo vòng xuyến</if4> người điều khiển phương tiện phải nhường đường <qt>như thế nào</qt> là đúng quy tắc giao thông</question>
+		<question><l>tại nơi đường giao nhau</l> <if4>không có báo hiệu đi theo vòng xuyến</if4> người điều khiển phương tiện phải <a>nhường đường</a> <qt>như thế nào</qt> là đúng quy tắc giao thông</question>
 		<answer>phải nhường đường cho xe đi đến từ bên phải.</answer>
 	</test>
 	<test>
@@ -665,23 +665,67 @@
 		<answer>xe phải nhường đường cho xe đi đến từ bên phải</answer>
 	</test>
 	<test>
-		<question>xe máy <a>vượt</a> <tl>đèn đỏ</tl> <qt>có bị phạt không</qt></question>
+		<question><tv>xe máy</tv> <a>vượt</a> <tl>đèn đỏ</tl> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe máy <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật giao thông không</qt></question>
+		<question><tv>ô tô</tv> <a>vượt</a> <tl>đèn đỏ</tl> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe máy <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<question><tv>xe tải</tv> <a>vượt</a> <tl>đèn đỏ</tl> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe máy <a>đi qua vạch dừng</a> <if4>trước khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> thì có <qt> vi phạm luật giao thông không</qt></question>
+		<question><tv>xe gắn máy</tv> <a>vượt</a> <tl>đèn đỏ</tl> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>xe máy <a>đi qua vạch dừng</a> <if4>trước khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> thì có <qt> vi phạm luật không</qt></question>
+		<question><tv>xe máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe gắn máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe gắn máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>đi qua vạch dừng</a> <if4>trước khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> thì có <qt> vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đi qua vạch dừng</a> <if4>trước khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> thì có <qt> vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe tải</tv> <a>đi qua vạch dừng</a> <if4>trước khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> thì có <qt> vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi qua vạch dừng</a> <if4>trước khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> thì có <qt> vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>đi qua vạch dừng</a> <if4>trước khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> thì có <qt> vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -693,7 +737,15 @@
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>lúc <tl>đèn vàng</tl> ô tô <qt>có được</qt> phép <a>di chuyển</a> hay <qt>không</qt></question>
+		<question>lúc <tl>đèn vàng</tl> <tv>ô tô</tv> <qt>có được</qt> phép <a>di chuyển</a> hay <qt>không</qt></question>
+		<answer>xe phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường</answer>
+	</test>
+	<test>
+		<question>lúc <tl>đèn vàng</tl> <tv>xe máy</tv> <qt>có được</qt> phép <a>di chuyển</a> hay <qt>không</qt></question>
+		<answer>xe phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường</answer>
+	</test>
+	<test>
+		<question>lúc <tl>đèn vàng</tl> <tv>xe máy điện</tv> <qt>có được</qt> phép <a>di chuyển</a> hay <qt>không</qt></question>
 		<answer>xe phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường</answer>
 	</test>
 	<test>
@@ -817,7 +869,7 @@
 		<answer>người tham gia giao thông ở các hướng dừng lại</answer>
 	</test>
 	<test>
-		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay thẳng đứng</if4> thì xe ở hướng <qt>nào được đi</qt></question>
+		<question><ti>cảnh sát giao thông</ti> <if4>giơ tay thẳng đứng</if4> thì xe ở <qt>hướng nào được đi</qt></question>
 		<answer>xe ở các hướng phải dừng lại</answer>
 	</test>
 	<test>
