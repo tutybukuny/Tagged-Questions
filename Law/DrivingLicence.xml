@@ -5,7 +5,7 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><a>điều khiển xe cơ giới</a> <qt>có cần</qt> phải có <dl>giấy phép lái xe</dl> <qt>không</qt></question>
+		<question>điều khiển <tv>xe cơ giới</tv> <qt>có cần</qt> phải có <dl>giấy phép lái xe</dl> <qt>không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -59,6 +59,7 @@
 	<test>
 		<question><if3>16 tuổi</if3> thì được lái <qt>xe gì</qt></question>
 		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3</answer>
+		<base>điểm a khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>trẻ em <if3>15 tuổi</if3> đi <tv>xe máy</tv> <qt>có bị vi phạm luật giao thông không</qt></question>
@@ -70,411 +71,513 @@
 	</test>
 	<test>
 		<question>trẻ <if3>17 tuổi</if3> <qt>có được</qt> lái <tv>xe gắn máy</tv> có <if1>dung tích xi lanh 70 cm3</if1> <qt>không</qt></question>
-		<answer>không</answer>
+		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3 _ người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự</answer>
+		<base>điểm a khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>bao nhiêu tuổi</qt> thì được đi <tv>xe máy</tv></question>
-		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3; người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô 3 bánh có dung tích xi-lanh từ 50 cm3 trở lên </answer>
+		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3 _ người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự</answer>
+		<base>điểm a khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><if3>18 tuổi</if3> thì được lái những <qt>loại xe gì</qt></question>
 		<answer>người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô 3 bánh có dung tích xi-lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi</answer>
+		<base>điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>bao nhiêu tuổi</qt> thì được lái xe <tv>ô tô tải</tv></question>
-		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
+		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. _  Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc.</answer>
+		<base>điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm c khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>người lái xe <tv>ô tô</tv> <if1>9 chỗ ngồi</if1> phải đủ <qt>bao nhiêu tuổi</qt></question>
-		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
+		<question>người lái xe <tv>ô tô</tv> <if1>9 chỗ ngồi</if1> <qt>phải đủ bao nhiêu tuổi</qt></question>
+		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. _ Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. _ Người đủ 24 tuổi trở lên được lái xe ô tô chở người từ 10 đến 30 chỗ ngồi; lái xe hạng C kéo rơ moóc, sơ mi rơ moóc (FC) _ Người đủ 27 tuổi trở lên được lái xe ô tô chở người trên 30 chỗ ngồi; lái xe hạng D kéo rơ moóc (FD);</answer>
+		<base>điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm c khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm d khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm đ khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>người lái xe <tv>ô tô</tv> <if1>10 đến 30 chỗ ngồi</if1> phải đủ <qt>bao nhiêu tuổi</qt></question>
-		<answer>24 tuổi trở lên</answer>
+		<question>người lái xe <tv>ô tô</tv> <if1>10 đến 30 chỗ ngồi</if1> <qt>phải đủ bao nhiêu tuổi</qt></question>
+		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. _ Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. _ Người đủ 24 tuổi trở lên được lái xe ô tô chở người từ 10 đến 30 chỗ ngồi; lái xe hạng C kéo rơ moóc, sơ mi rơ moóc (FC) _ Người đủ 27 tuổi trở lên được lái xe ô tô chở người trên 30 chỗ ngồi; lái xe hạng D kéo rơ moóc (FD);</answer>
+		<base>điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm c khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm d khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm đ khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>bao nhiêu tuổi</qt> thì được lái xe <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1></question>
-		<answer>27 tuổi trở lên</answer>
+		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. _ Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. _ Người đủ 24 tuổi trở lên được lái xe ô tô chở người từ 10 đến 30 chỗ ngồi; lái xe hạng C kéo rơ moóc, sơ mi rơ moóc (FC) _ Người đủ 27 tuổi trở lên được lái xe ô tô chở người trên 30 chỗ ngồi; lái xe hạng D kéo rơ moóc (FD);</answer>
+		<base>điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm c khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm d khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm đ khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><qt>tuổi</qt> tối đa của người lái xe <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1> <qt>là bao nhiêu</qt></question>
-		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+		<question><qt>tuổi tối đa</qt> của người lái xe <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1> <qt>là bao nhiêu</qt></question>
+		<answer>Tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi là 50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+		<base>điểm e khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>nam <qt>bao nhiêu tuổi</qt> thì <if3>không được lái xe</if3> <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1></question>
-		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+		<answer>Tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi là 50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+		<base>điểm e khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>nữ <qt>bao nhiêu tuổi</qt> thì <if3>không được lái xe</if3> <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1></question>
-		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+		<answer>Tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi là 50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+		<base>điểm e khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>bao nhiêu tuổi</qt> thì được <if3>thi bằng lái xe</if3></question>
-		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
+		<answer>Người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3; _ Người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi; _ Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. _ Người đủ 24 tuổi trở lên được lái xe ô tô chở người từ 10 đến 30 chỗ ngồi; lái xe hạng C kéo rơ moóc, sơ mi rơ moóc (FC) _ Người đủ 27 tuổi trở lên được lái xe ô tô chở người trên 30 chỗ ngồi; lái xe hạng D kéo rơ moóc (FD);</answer>
+		<base>điểm a khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm b khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm c khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm d khoản 1 điều 60 theo Luật số: 23/2008/QH12 _ điểm đ khoản 1 điều 60 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>khi nào</qt> thì được <a>nâng hạng</a> <dl>bằng lái xe b1 số tự động</dl> <a>lên b1</a></question>
-		<answer>thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 6 tháng</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 1 năm và 9 000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 2 năm và 9 000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 2 năm và 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 15 tháng và 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 23 tháng và 11 000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm a khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b1</dl> <a>lên b2</a> <qt>là gì</qt></question>
-		<answer>thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 2 năm và 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 7 tháng và 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 7 tháng và 9 000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 24 tháng và 9 000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 24 tháng và 12 000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 8 tháng</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+		<base>điểm b khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên fc</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 12 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 11 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 11 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên fc</a></question>
-		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên fc</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên fd</a> <qt>là gì</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên fd</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fd</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 12 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 12 000 km</if3> thì <qt>có được</qt> <a>nâng lên fd</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fd</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 11 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 11 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fd</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 11 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 11 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fd</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên fc</a></question>
-		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên fd</a></question>
+		<answer>điều kiện nâng bằng Hạng D lên FD: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên fc</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên fe</a> <qt>là gì</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 13 000 km</if3> thì <qt>có được</qt> <a>nâng lên fe</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fe</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 12 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 12 000 km</if3> thì <qt>có được</qt> <a>nâng lên fe</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fe</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 11 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 11 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fe</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 11 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 11 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fe</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên fc</a></question>
-		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên fe</a></question>
+		<answer>điều kiện nâng bằng Hạng E lên FE: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên c</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên c</a></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên C: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên d</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên d</a></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên D: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên e</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên e</a></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng D lên E: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên f</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên fb2</a> <qt>là gì</qt></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên fb2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên fb2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fb2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên fb2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fb2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fb2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên f</a></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên fb2</a></question>
+		<answer>điều kiện nâng bằng Hạng B2 lên FB2: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên f</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên fc</a> <qt>là gì</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên f</a></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên fc</a></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên f</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên fc</a> <qt>là gì</qt></question>
+		<answer>điều kiện nâng bằng Hạng D lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 36 tháng và 60 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 50 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 32 tháng và 30 000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng Hạng E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên f</a></question>
-		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên fc</a></question>
+		<answer>điều kiện nâng bằng Hạng E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+		<base>điểm c khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên d</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên D: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên D: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên D: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 80 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
@@ -482,51 +585,63 @@
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 5 năm và 100 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên D: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 200 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên D: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 4 năm và 80 000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên D: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên d</a></question>
-		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng B2 lên D: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên e</a> <qt>là gì</qt></question>
-		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 40 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 80 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 5 năm và 100 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 200 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 4 năm và 80 000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
-		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên e</a></question>
-		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+		<answer>điều kiện nâng bằng Hạng C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên.</answer>
+		<base>điểm d khoản 3 điều 7 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><ano>giấy tờ cần thiết</ano> khi đi <if3>thi bằng lái xe</if3> <qt>là gì</qt></question>
@@ -535,5 +650,360 @@
 	<test>
 		<question>đi thi <a>nâng hạng bằng</a> thì <qt>hồ sơ cần những gì</qt></question>
 		<answer>đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người việt nam; hộ chiếu còn thời hạn đối với người nước ngoài, người việt nam định cư ở nước ngoài; giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định; bản khai thời gian hành nghề và số km lái xe an toàn theo mẫu quy định tại phụ lục 12 ban hành kèm theo thông tư này và phải chịu trách nhiệm về nội dung khai trước pháp luật; bản sao bằng tốt nghiệp trung học cơ sở hoặc bằng cấp tương đương trở lên đối với trường hợp nâng hạng giấy phép lái xe lên các hạng d, e (xuất trình bản chính khi kiểm tra hồ sơ dự sát hạch); bản sao giấy phép lái xe (xuất trình bản chính khi dự sát hạch và nhận giấy phép lái xe); </answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a1</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng A1 cấp cho: Người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 50 cm3 đến dưới 175 cm3;  Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật</answer>
+		<base>khoản 1 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a2</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer> Hạng A2 cấp cho người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.</answer>
+		<base>khoản 2 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a3</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng A3 cấp cho người lái xe để điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự</answer>
+		<base>khoản 3 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a4</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng A4 cấp cho người lái xe để điều khiển các loại máy kéo nhỏ có trọng tải đến 1.000 kg.</answer>
+		<base>khoản 4 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b1 số tự động</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng B1 số tự động cấp cho người không hành nghề lái xe để điều khiển các loại xe sau đây:  Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _ Ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; _ Ô tô dùng cho người khuyết tật.</answer>
+		<base>khoản 5 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b1</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng B1 cấp cho người không hành nghề lái xe để điều khiển các loại xe sau đây: Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _ Ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; _ Máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg.</answer>
+		<base>khoản 6 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b2</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng B2 cấp cho người hành nghề lái xe để điều khiển các loại xe sau đây: Ô tô chuyên dùng có trọng tải thiết kế dưới 3.500 kg; _ Các loại xe quy định cho giấy phép lái xe hạng B1.</answer>
+		<base>khoản 7 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng c</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng C cấp cho người lái xe để điều khiển các loại xe sau đây:  Ô tô tải, kể cả ô tô tải chuyên dùng, ô tô chuyên dùng có trọng tải thiết kế từ 3.500 kg trở lên; _ Máy kéo kéo một rơ moóc có trọng tải thiết kế từ 3.500 kg trở lên; _ Các loại xe quy định cho giấy phép lái xe hạng B1, B2.</answer>
+		<base>khoản 8 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng d</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng D cấp cho người lái xe để điều khiển các loại xe sau đây: Ô tô chở người từ 10 đến 30 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _  Các loại xe quy định cho giấy phép lái xe hạng B1, B2 và C.</answer>
+		<base>khoản 9 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng e</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng E cấp cho người lái xe để điều khiển các loại xe sau đây: Ô tô chở người trên 30 chỗ ngồi; _ Các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và D.</answer>
+		<base>khoản 10 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a1</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng A1 cấp cho: Người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 50 cm3 đến dưới 175 cm3;  Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật</answer>
+		<base>khoản 1 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a2</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer> Hạng A2 cấp cho người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.</answer>
+		<base>khoản 2 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a3</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng A3 cấp cho người lái xe để điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự</answer>
+		<base>khoản 3 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a4</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng A4 cấp cho người lái xe để điều khiển các loại máy kéo nhỏ có trọng tải đến 1.000 kg.</answer>
+		<base>khoản 4 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b1 số tự động</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng B1 số tự động cấp cho người không hành nghề lái xe để điều khiển các loại xe sau đây:  Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _ Ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; _ Ô tô dùng cho người khuyết tật.</answer>
+		<base>khoản 5 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b1</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng B1 cấp cho người không hành nghề lái xe để điều khiển các loại xe sau đây: Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _ Ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; _ Máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg.</answer>
+		<base>khoản 6 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b2</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng B2 cấp cho người hành nghề lái xe để điều khiển các loại xe sau đây: Ô tô chuyên dùng có trọng tải thiết kế dưới 3.500 kg; _ Các loại xe quy định cho giấy phép lái xe hạng B1.</answer>
+		<base>khoản 7 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng c</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng C cấp cho người lái xe để điều khiển các loại xe sau đây:  Ô tô tải, kể cả ô tô tải chuyên dùng, ô tô chuyên dùng có trọng tải thiết kế từ 3.500 kg trở lên; _ Máy kéo kéo một rơ moóc có trọng tải thiết kế từ 3.500 kg trở lên; _ Các loại xe quy định cho giấy phép lái xe hạng B1, B2.</answer>
+		<base>khoản 8 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng d</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng D cấp cho người lái xe để điều khiển các loại xe sau đây: Ô tô chở người từ 10 đến 30 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _  Các loại xe quy định cho giấy phép lái xe hạng B1, B2 và C.</answer>
+		<base>khoản 9 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng e</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng E cấp cho người lái xe để điều khiển các loại xe sau đây: Ô tô chở người trên 30 chỗ ngồi; _ Các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và D.</answer>
+		<base>khoản 10 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a1</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng A1 cấp cho: Người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 50 cm3 đến dưới 175 cm3;  Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật</answer>
+		<base>khoản 1 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a2</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer> Hạng A2 cấp cho người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.</answer>
+		<base>khoản 2 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a3</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng A3 cấp cho người lái xe để điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự</answer>
+		<base>khoản 3 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a4</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng A4 cấp cho người lái xe để điều khiển các loại máy kéo nhỏ có trọng tải đến 1.000 kg.</answer>
+		<base>khoản 4 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng b1 số tự động</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng B1 số tự động cấp cho người không hành nghề lái xe để điều khiển các loại xe sau đây:  Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _ Ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; _ Ô tô dùng cho người khuyết tật.</answer>
+		<base>khoản 5 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng b1</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng B1 cấp cho người không hành nghề lái xe để điều khiển các loại xe sau đây: Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _ Ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; _ Máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg.</answer>
+		<base>khoản 6 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng b2</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng B2 cấp cho người hành nghề lái xe để điều khiển các loại xe sau đây: Ô tô chuyên dùng có trọng tải thiết kế dưới 3.500 kg; _ Các loại xe quy định cho giấy phép lái xe hạng B1.</answer>
+		<base>khoản 7 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng c</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng C cấp cho người lái xe để điều khiển các loại xe sau đây:  Ô tô tải, kể cả ô tô tải chuyên dùng, ô tô chuyên dùng có trọng tải thiết kế từ 3.500 kg trở lên; _ Máy kéo kéo một rơ moóc có trọng tải thiết kế từ 3.500 kg trở lên; _ Các loại xe quy định cho giấy phép lái xe hạng B1, B2.</answer>
+		<base>khoản 8 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng d</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng D cấp cho người lái xe để điều khiển các loại xe sau đây: Ô tô chở người từ 10 đến 30 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; _  Các loại xe quy định cho giấy phép lái xe hạng B1, B2 và C.</answer>
+		<base>khoản 9 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng e</dl> được điều khiển <qt>loại xe nào</qt></question>
+		<answer>Hạng E cấp cho người lái xe để điều khiển các loại xe sau đây: Ô tô chở người trên 30 chỗ ngồi; _ Các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và D.</answer>
+		<base>khoản 10 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng f</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng F cấp cho người đã có giấy phép lái xe các hạng B2, C, D và E để điều khiển các loại xe ô tô tương ứng kéo rơ moóc có trọng tải thiết kế lớn hơn 750 kg, sơ mi rơ moóc, ô tô khách nối toa, được quy định cụ thể như sau: Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2; _ Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2; _ Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2; _ Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD.</answer>
+		<base>khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fc</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2;</answer>
+		<base>điểm b khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fb2</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer> Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2;</answer>
+		<base>điểm a khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fd</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2;</answer>
+		<base>điểm c khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fe</dl> cấp cho người lái <qt>xe loại gì</qt></question>
+		<answer>Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD</answer>
+		<base>điểm d khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng f</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng F cấp cho người đã có giấy phép lái xe các hạng B2, C, D và E để điều khiển các loại xe ô tô tương ứng kéo rơ moóc có trọng tải thiết kế lớn hơn 750 kg, sơ mi rơ moóc, ô tô khách nối toa, được quy định cụ thể như sau: Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2; _ Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2; _ Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2; _ Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD.</answer>
+		<base>khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fc</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2;</answer>
+		<base>điểm b khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fb2</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer> Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2;</answer>
+		<base>điểm a khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fd</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2;</answer>
+		<base>điểm c khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fe</dl> cấp cho người điều khiển <qt>xe loại gì</qt></question>
+		<answer>Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD</answer>
+		<base>điểm d khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng f</dl> được điều khiển <qt>loại xe gì</qt></question>
+		<answer>Hạng F cấp cho người đã có giấy phép lái xe các hạng B2, C, D và E để điều khiển các loại xe ô tô tương ứng kéo rơ moóc có trọng tải thiết kế lớn hơn 750 kg, sơ mi rơ moóc, ô tô khách nối toa, được quy định cụ thể như sau: Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2; _ Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2; _ Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2; _ Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD.</answer>
+		<base>khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fc</dl> được điều khiển <qt>loại xe gì</qt></question>
+		<answer>Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2;</answer>
+		<base>điểm b khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fb2</dl> được điều khiển <qt>loại xe gì</qt></question>
+		<answer> Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2;</answer>
+		<base>điểm a khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fd</dl> được điều khiển <qt>loại xe gì</qt></question>
+		<answer>Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2;</answer>
+		<base>điểm c khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fe</dl> được điều khiển <qt>loại xe gì</qt></question>
+		<answer>Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD</answer>
+		<base>điểm d khoản 12 điều 16 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a1</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng A1 không có thời hạn</answer>
+		<base>khoản 1 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a2</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng A2 không có thời hạn</answer>
+		<base>khoản 1 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a3</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng A3 không có thời hạn</answer>
+		<base>khoản 1 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b1</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng B1 có thời hạn đến khi người lái xe đủ 55 tuổi đối với nữ và đủ 60 tuổi đối với nam; trường hợp người lái xe trên 45 tuổi đối với nữ và trên 50 tuổi đối với nam thì giấy phép lái xe được cấp có thời hạn 10 năm, kể từ ngày cấp</answer>
+		<base>khoản 2 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a4</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng A4 có thời hạn 10 năm, kể từ ngày cấp.</answer>
+		<base>khoản 3 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b2</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng B2 có thời hạn 10 năm, kể từ ngày cấp.</answer>
+		<base>khoản 3 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng c</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng C có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng d</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng D có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng e</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng E có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fb2</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng FB2 có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fc</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng FC có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fd</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng FD có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng fe</dl> có <qt>thời hạn là bao nhiêu lâu</qt></question>
+		<answer>Giấy phép lái xe hạng FE có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a1</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng A1 không có thời hạn</answer>
+		<base>khoản 1 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a2</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng A2 không có thời hạn</answer>
+		<base>khoản 1 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a3</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng A3 không có thời hạn</answer>
+		<base>khoản 1 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng b1</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng B1 có thời hạn đến khi người lái xe đủ 55 tuổi đối với nữ và đủ 60 tuổi đối với nam; trường hợp người lái xe trên 45 tuổi đối với nữ và trên 50 tuổi đối với nam thì giấy phép lái xe được cấp có thời hạn 10 năm, kể từ ngày cấp</answer>
+		<base>khoản 2 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng a4</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng A4 có thời hạn 10 năm, kể từ ngày cấp.</answer>
+		<base>khoản 3 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng b2</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng B2 có thời hạn 10 năm, kể từ ngày cấp.</answer>
+		<base>khoản 3 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng c</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng C có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng d</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng D có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng e</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng E có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fb2</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng FB2 có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fc</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng FC có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fd</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng FD có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
+	</test>
+	<test>
+		<question>người có <dl>giấy phép lái xe hạng fe</dl> <qt>bao nhiêu lâu</qt> phải <if3>làm lại bằng lái xe</if3></question>
+		<answer>Giấy phép lái xe hạng FE có thời hạn 05 năm, kể từ ngày cấp.</answer>
+		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 </root>

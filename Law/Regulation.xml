@@ -10,11 +10,11 @@
 	</test>
 	<test>
 		<question>người điều khiển <tv>xe gắn máy</tv> trên đường mà trong máu có <ac>nồng độ cồn</ac> vượt quá <qt>bao nhiêu thì bị cấm</qt></question>
-	 	<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0,25 miligam/1 lít khí thở</answer>
+	 	<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>người điều khiển xe <tv>mô tô</tv> trên đường mà trong máu có <ac>nồng độ cồn</ac> vượt quá <qt>bao nhiêu thì bị cấm</qt></question>
-	 	<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0,25 miligam/1 lít khí thở</answer>
+	 	<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>việc <if3>sản xuất</if3> <if3>mua bán</if3> <if3>sử dụng biển số</if3> <tv>xe cơ giới</tv> <qt>được quy định như thế nào</qt> trong luật giao thông đường bộ</question>
@@ -329,11 +329,11 @@
 		<answer>27 tuổi.</answer>
 	</test>
 	<test>
-		<question><if4>tuổi tối đa</if4> của người lái <tv>ô tô</tv> chở người <if1>trên 30 chỗ</if1> hạng e là <qt>bao nhiêu tuổi</qt></question>
+		<question><qt>tuổi tối đa</qt> của người lái <tv>ô tô</tv> chở người <if1>trên 30 chỗ</if1> hạng e là <qt>bao nhiêu tuổi</qt></question>
 		<answer>dưới 55 tuổi đối với nam và dưới 50 tuổi đối với nữ.</answer>
 	</test>
 	<test>
-		<question><if4>tuổi tối đa</if4> của người lái <tv>ô tô</tv> chở người <if1>hạng e</if1> là <qt>bao nhiêu tuổi</qt></question>
+		<question><qt>tuổi tối đa</qt> của người lái <tv>ô tô</tv> chở người <if1>hạng e</if1> là <qt>bao nhiêu tuổi</qt></question>
 		<answer>dưới 55 tuổi đối với nam và dưới 50 tuổi đối với nữ.</answer>
 	</test>
 	<test>
@@ -397,7 +397,7 @@
 		<answer>không</answer>
 	</test>
 	<test>
-		<question>xe máy <qt>có được</qt> phép <a>bấm còi</a> lúc <if4>4 giờ</if4> <l>tại khu đô thị</l> <qt>không</qt></question>
+		<question><tv>xe máy</tv> <qt>có được</qt> phép <a>bấm còi</a> lúc <if4>4 giờ</if4> <l>tại khu đô thị</l> <qt>không</qt></question>
 		<answer>không được bấm còi, rú ga liên tục; bấm còi trong thời gian từ 22 giờ đến 5 giờ, bấm còi hơi trong đô thị và khu đông dân cư, trừ các xe được quyền ưu tiên đang đi làm nhiệm vụ</answer>
 	</test>
 	<test>
@@ -409,7 +409,7 @@
 		<answer>bấm còi, rú ga liên tục; bấm còi trong thời gian từ 22 giờ đến 5 giờ, bấm còi hơi trong đô thị và khu đông dân cư, trừ các xe được quyền ưu tiên đang đi làm nhiệm vụ</answer>
 	</test>
 	<test>
-		<question>xe tải <a>bấm còi hơi</a> khi đi <l>trong khu đô thị</l> <qt>có bị phạt không</qt></question>
+		<question><tv>xe tải</tv> <a>bấm còi hơi</a> khi đi <l>trong khu đô thị</l> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -469,7 +469,7 @@
 		<answer>trên cầu hẹp có một làn xe; đường vòng, đầu dốc và các vị trí có tầm nhìn hạn chế; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</answer>
 	</test>
 	<test>
-		<question>xe máy đi <l>trên cầu có một làn xe</l> <qt>có được</qt> phép <a>vượt xe khác</a> <qt>không</qt></question>
+		<question><tv>xe máy</tv> đi <l>trên cầu có một làn xe</l> <qt>có được</qt> phép <a>vượt xe khác</a> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
@@ -814,11 +814,11 @@
 	</test>
 	<test>
 		<question><ano>quy định chở hàng</ano> của <tv>xe máy</tv> là <qt>như thế nào</qt></question>
-		<answer>không được xếp hàng hóa, hành lý vượt quá bề rộng giá đèo hàng theo thiết kế của nhà sản xuất về mỗi bên 0,3 mét, vượt quá phía sau giá đèo hàng là 0,5 mét. chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 1,5 mét</answer>
+		<answer>không được xếp hàng hóa, hành lý vượt quá bề rộng giá đèo hàng theo thiết kế của nhà sản xuất về mỗi bên 0.3 mét, vượt quá phía sau giá đèo hàng là 0.5 mét. chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 1,5 mét</answer>
 	</test>
 	<test>
 		<question><ano>quy định chở hàng</ano> của <tv>xe thô sơ</tv> là <qt>như thế nào</qt></question>
-		<answer>không được xếp hàng hóa vượt phía trước và phía sau quá 1/3 chiều dài thân xe và không quá 1,0 mét; không được vượt quá 0,4 mét về mỗi bên bánh xe</answer>
+		<answer>không được xếp hàng hóa vượt phía trước và phía sau quá 1/3 chiều dài thân xe và không quá 1,0 mét; không được vượt quá 0.4 mét về mỗi bên bánh xe</answer>
 	</test>
 	<test>
 		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
@@ -830,43 +830,43 @@
 	</test>
 	<test>
 		<question>người điều khiển <tv>xe máy</tv> có <ac>nồng độ cồn</ac> trong máu tối đa <qt>cho phép là bao nhiêu</qt></question>
-		<answer>50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>khi tham gia giao thông trên đường người tham gia giao thông được phép có <ac>nồng độ cồn</ac> trong máu <qt>là bao nhiêu</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>khi đi xe trên đường người lái xe được phép có <ac>nồng độ cồn</ac> trong máu <qt>là bao nhiêu</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question><ac>nồng độ cồn</ac> <qt>là bao nhiêu</qt> thì vẫn được phép tham gia giao thông trên đường</question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
-		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được đi</qt> <tv>xe máy</tv> hay <qt>không</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được</qt> đi <tv>xe máy</tv> hay <qt>không</qt></question>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>người đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> là <v>0 3 miligam/1 lít khí thở</v> <qt>có bị phạt không</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question><ac>nồng độ cồn</ac> trong máu là <v>70 miligam/100 mililít khí thở</v> thì <qt>có được tham gia giao thông không</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>người có <ac>nồng độ cồn</ac> <v>60 miligam/100 mililít máu</v> <qt>có được</qt> đi <tv>ô tô</tv> <qt>không</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>đi xe với lượng <ac>cồn trong máu</ac> là <v>45 miligam/100 mililít máu</v> <qt>có bị vi phạm luật giao thông không</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question>đi xe với lượng <ac>cồn trong máu</ac> là <v>45 miligam/100 mililít máu</v> <qt>có bị vi phạm luật không</qt></question>
-		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
 		<question><a>bấm còi</a> lúc <if4>21 giờ</if4> <l>trong khu đông dân cư</l> <qt>có bị cấm không</qt></question>
