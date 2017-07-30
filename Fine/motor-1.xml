@@ -382,13 +382,13 @@
 	</test>
 	<test>
 		<question>điều khiển <tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> từ <v>5 km/h đến dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm c khoản 3 điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>6 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm c khoản 3 điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>điều khiển <tv>xe máy</tv> <a>chạy tốc độ thấp gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -912,13 +912,13 @@
 	</test>
 	<test>
 		<question>điều khiển <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> quy định từ <v>10 km/h đến 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm a khoản 5 điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>15 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm a khoản 5 điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>đi <tv>xe máy</tv> vào <l>đường cao tốc</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -1031,24 +1031,24 @@
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 50miligram đến 80miligram trên 100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>khoản 6 điều 6 nghị định 46-2016</base>
+		<question>đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 50 miligram đến 80amiligram trên 100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>lái <tv>xe máy</tv> với <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>xe máy</tv> trong hơi thở có <ac>nồng độ cồn</ac> <v>vượt quá 0 25miligram đến 0 4 miligram trên 1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>khoản 6 điều 6 nghị định 46-2016</base>
+		<question>đi <tv>xe máy</tv> trong hơi thở có <ac>nồng độ cồn</ac> <v>vượt quá 0.25 miligram đến 0.4 miligram trên 1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>vượt quá 0 35 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>khoản 6 điều 6 nghị định 46-2016</base>
+		<question>lái <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>vượt quá 0.35 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question><if3>sử dụng chân chống</if3> <tv>xe máy</tv> <if3>quệt xuống đường</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -1102,8 +1102,8 @@
 	</test>
 	<test>
 		<question><sp>đi</sp> <tv>xe máy</tv> <sp>quá tốc độ</sp> quy định <v>trên 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm a khoản 8 điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>25 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -1132,23 +1132,23 @@
 	</test>
 	<test>
 		<question>người đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 80miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question>lái đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 0 4miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+		<question>người đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 0.4 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>0 5miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+		<question>lái đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>0.5 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question><if3>buông cả 2 tay</if3> khi đang đi <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -1617,8 +1617,8 @@
 	</test>
 	<test>
 		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
-		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
-		<base>điểm c khoản 3 điều 6 nghị định 46-2016</base>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question><tv>xe máy</tv> <a>chạy quá chậm gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
