@@ -829,7 +829,7 @@
 	 	<answer>40 km/h.</answer>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> có <ac>nồng độ cồn</ac> trong máu tối đa <qt>cho phép là bao nhiêu</qt></question>
+		<question>người điều khiển <tv>xe máy</tv> có <ac>nồng độ cồn</ac> trong máu tối đa cho phép <qt>là bao nhiêu</qt></question>
 		<answer>50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>
@@ -842,6 +842,18 @@
 	</test>
 	<test>
 		<question><ac>nồng độ cồn</ac> <qt>là bao nhiêu</qt> thì vẫn được phép tham gia giao thông trên đường</question>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <ac>nồng độ cồn</ac> <qt>là bao nhiêu</qt> thì vẫn được phép tham gia giao thông trên đường</question>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+	</test>
+	<test>
+		<question><tv>mô tô ba bánh</tv> <ac>nồng độ cồn</ac> <qt>là bao nhiêu</qt> thì vẫn được phép tham gia giao thông trên đường</question>
+		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+	</test>
+	<test>
+		<question><ac>nồng độ cồn</ac> cho phép khi lái xe <tv>ô tô</tv> <qt>là bao nhiêu</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
 	</test>
 	<test>

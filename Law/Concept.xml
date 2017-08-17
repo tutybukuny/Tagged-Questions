@@ -1,48 +1,369 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<test>
-		<question>khái niệm <ano>đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
-	 	<answer>đường bộ gồm: đường, cầu đường bộ. hầm đường bộ, bến phà đường bộ</answer>
+		<question><qt>khái niệm</qt> <ano>đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>phần đường xe chạy</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><ano>đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường bộ</ano> <qt>là gì</qt></question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>đường bộ</ano> <qt>là gì</qt></question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường bộ</ano></question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>đường bộ</ano> <qt>là như thế nào</qt></question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường bộ</ano> <qt>là như thế nào</qt></question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phần đường xe chạy</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>làn đường</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><ano>phần đường xe chạy</ano> <qt>được hiểu như thế nào</qt></question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phần đường xe chạy</ano> <qt>là gì</qt></question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phần đường xe chạy</ano> <qt>là như thế nào</qt></question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phần đường xe chạy</ano> <qt>là gì</qt></question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>phần đường xe chạy</ano> <qt>là như thế nào</qt></question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>phần đường xe chạy</ano> <qt>là gì</qt></question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phần đường xe chạy</ano></question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+		<base>khoản 6 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>làn đường</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 	 	<answer>là một phần của đường được chia theo chiều dọc của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+		<base>khoản 7 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>đường phố</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><ano>làn đường</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>là một phần của đường được chia theo chiều dọc của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+		<base>khoản 7 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>làn đường</ano></question>
+	 	<answer>là một phần của đường được chia theo chiều dọc của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+		<base>khoản 7 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>làn đường</ano> <qt>là gì</qt></question>
+	 	<answer>là một phần của đường được chia theo chiều dọc của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+		<base>khoản 7 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>làn đường</ano> <qt>là gì</qt></question>
+	 	<answer>là một phần của đường được chia theo chiều dọc của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+		<base>khoản 7 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>làn đường</ano> <qt>là như thế nào</qt></question>
+	 	<answer>là một phần của đường được chia theo chiều dọc của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+		<base>khoản 7 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>làn đường</ano> <qt>là như thế nào</qt></question>
+	 	<answer>là một phần của đường được chia theo chiều dọc của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+		<base>khoản 7 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường phố</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+		<base>khoản 9 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>dải phân cách</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><ano>đường phố</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+		<base>khoản 9 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường phố</ano></question>
+	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+		<base>khoản 9 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường phố</ano> <qt>là gì</qt></question>
+	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+		<base>khoản 9 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>đường phố</ano> <qt>là gì</qt></question>
+	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+		<base>khoản 9 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>đường phố</ano> <qt>là như thế nào</qt></question>
+	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+		<base>khoản 9 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>dải phân cách</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>đường ưu tiên</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><ano>dải phân cách</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>dải phân cách</ano> <qt>là như thế nào</qt></question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+		<test>
+		<question><ano>dải phân cách</ano> <qt>là như thế nào</qt></question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+		<test>
+		<question><qt>khái niệm</qt> <ano>dải phân cách</ano> <qt>là gì</qt></question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>dải phân cách</ano></question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>dải phân cách</ano> <qt>là gì</qt></question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường ưu tiên</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+		<base>khoản 15 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>đường ưu tiên</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+		<base>khoản 15 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường ưu tiên</ano> <qt>là gì</qt></question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+		<base>khoản 15 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>đường ưu tiên</ano> <qt>là gì</qt></question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+		<base>khoản 15 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường ưu tiên</ano> <qt>là như thế nào</qt></question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+		<base>khoản 15 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>đường ưu tiên</ano> <qt>là như thế nào</qt></question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+		<base>khoản 15 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường ưu tiên</ano></question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+		<base>khoản 15 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><ano>phương tiện giao thông đường bộ</ano> <qt>gồm những loại nào</qt></question>
 	 	<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
+		<base>khoản 17 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>phương tiện giao thông cơ giới đường bộ</ano> <qt>được hiểu thế nào</qt> là đúng</question>
+		<question><ano>phương tiện giao thông đường bộ</ano> <qt>là những phương tiện gì</qt></question>
+	 	<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
+		<base>khoản 17 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>phương tiện giao thông đường bộ</ano> <qt>là những cái gì</qt></question>
+	 	<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
+		<base>khoản 17 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phương tiện giao thông cơ giới đường bộ</ano> <qt>được hiểu thế nào</qt> là đúng</question>
 	 	<answer>gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh, xe mô tô 3 bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.</answer>
+		<base>khoản 18 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phương tiện giao thông cơ giới đường bộ</ano></question>
+	 	<answer>gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh, xe mô tô 3 bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.</answer>
+		<base>khoản 18 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>người điều khiển giao thông</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông.</answer>
+		<base>khoản 25 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>người điều khiển giao thông</ano> <qt>là những ai</qt></question>
+	 	<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông.</answer>
+		<base>khoản 25 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>người điều khiển giao thông</ano> <qt>làm cái gì</qt></question>
+	 	<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông.</answer>
+		<base>khoản 25 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>người điều khiển giao thông</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông.</answer>
+		<base>khoản 25 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>khổ giới hạn của đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<answer>là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.</answer>
+		<base>khoản 8 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>công trình đường bộ </ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Công trình đường bộ gồm đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu, rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra tải trọng xe, trạm thu phí và các công trình, thiết bị phụ trợ đường bộ khác.</answer>
+		<base>khoản 2 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>kết cấu hạ tầng giao thông đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Kết cấu hạ tầng giao thông đường bộ gồm công trình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.</answer>
+		<base>khoản 3 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đất của đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Đất của đường bộ là phần đất trên đó công trình đường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ. </answer>
+		<base>khoản 4 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>Hành lang an toàn đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Hành lang an toàn đường bộ là dải đất dọc hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai bên để bảo đảm an toàn giao thông đường bộ.</answer>
+		<base>khoản 5 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường giao nhau</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Nơi đường giao nhau cùng mức (hay còn gọi là nơi đường giao nhau) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó</answer>
+		<base>khoản 11 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường giao nhau cùng mức</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Nơi đường giao nhau cùng mức (hay còn gọi là nơi đường giao nhau) là nơi hai hay nhiều đường bộ gặp nhau trên cùng một mặt phẳng, gồm cả mặt bằng hình thành vị trí giao nhau đó</answer>
+		<base>khoản 11 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường cao tốc</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Đường cao tốc là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.</answer>
+		<base>khoản 12 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường chính</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Đường chính là đường bảo đảm giao thông chủ yếu trong khu vực</answer>
+		<base>khoản 13 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường nhánh</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Đường nhánh là đường nối vào đường chính</answer>
+		<base>khoản 14 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đường gom</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Đường gom là đường để gom hệ thống đường giao thông nội bộ của các khu đô thị, công nghiệp, kinh tế, dân cư, thương mại - dịch vụ và các đường khác vào đường chính hoặc vào đường nhánh trước khi đấu nối vào đường chính</answer>
+		<base>khoản 16 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phương tiện giao thông thô sơ đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ) gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự</answer>
+		<base>khoản 19 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>xe thô sơ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ) gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự</answer>
+		<base>khoản 19 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>xe máy chuyên dùng</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Xe máy chuyên dùng gồm xe máy thi công, xe máy nông nghiệp, lâm nghiệp và các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ.</answer>
+		<base>khoản 20 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>phương tiện tham gia giao thông đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Phương tiện tham gia giao thông đường bộ gồm phương tiện giao thông đường bộ và xe máy chuyên dùng.</answer>
+		<base>khoản 21 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><ano>phương tiện tham gia giao thông đường bộ</ano> <qt>gồm những loại nào</qt></question>
-	 	<answer>phương tiện giao thông cơ giới đường bộ. phương tiện giao thông thô sơ đường bộ.</answer>
+	 	<answer>Phương tiện tham gia giao thông đường bộ gồm phương tiện giao thông đường bộ và xe máy chuyên dùng.</answer>
+		<base>khoản 21 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>người điều khiển giao thông</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
-	 	<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông.</answer>
+		<question><qt>khái niệm</qt> <ano>người tham gia giao thông</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Người tham gia giao thông gồm người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.</answer>
+		<base>khoản 22 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm <ano>khổ giới hạn của đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
-		<answer>là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.</answer>
+		<question><ano>người tham gia giao thông</ano> <qt>là những ai</qt></question>
+	 	<answer>Người tham gia giao thông gồm người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.</answer>
+		<base>khoản 22 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>người điều khiển phương tiện</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Người điều khiển phương tiện gồm người điều khiển xe cơ giới, xe thô sơ, xe máy chuyên dùng tham gia giao thông đường bộ.</answer>
+		<base>khoản 23 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>người điều khiển phương tiện</ano> <qt>là những ai</qt></question>
+	 	<answer>Người điều khiển phương tiện gồm người điều khiển xe cơ giới, xe thô sơ, xe máy chuyên dùng tham gia giao thông đường bộ.</answer>
+		<base>khoản 23 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>người lái xe</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+	 	<answer>Người lái xe là người điều khiển xe cơ giới</answer>
+		<base>khoản 24 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><ano>người lái xe</ano> <qt>là những ai</qt></question>
+	 	<answer>Người lái xe là người điều khiển xe cơ giới</answer>
+		<base>khoản 24 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>khi <ano>sơ cứu ban đầu cho người bị tai nạn giao thông</ano> đường bộ không còn hô hấp người lái xe và người <if3>có mặt tại hiện trường vụ tai nạn</if3> <qt>phải thực hiện các công việc gì</qt></question>
@@ -53,27 +374,21 @@
 		<answer>vận chuyển hàng cấm lưu thông. vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định về vận chuyển hàng nguy hiểm, động vật hoang dã.</answer>
 	</test>
 	<test>
-		<question>khái niệm <ano>công trình đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>công trình đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu. rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra trọng tải xe, trạm thu phí và các công trình, thiết bị phụ trợ khác.</answer>
-	</test>
-	<test>
-		<question>khái niệm <ano>phần đường xe chạy</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
-		<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
 	</test>
 		<test>
 		<question><ano>dải phân cách trên đường bộ</ano> <qt>có những loại nào</qt></question>
 		<answer>loại cố định. loại di động.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><ano>thời gian làm việc trong một ngày</ano> của người lái xe <qt>được quy định là bao nhiêu</qt></question>
 		<answer>không quá 10 giờ và không được lái xe liên tục quá 4 giờ.</answer>
-	</test>
-		<test>
-		<question><ano>người điều khiển phương tiện tham gia giao thông</ano> gồm <qt>những đối tượng nào</qt></question>
-		<answer>người điều khiển xe cơ giới, người điều khiển xe thô sơ. người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.</answer>
+		<base>khoản 1 điều 65 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khái niệm về <ano>văn hóa giao thông</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> về <ano>văn hóa giao thông</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông; là ý thức trách nhiệm với cộng đồng khi tham gia giao thông. là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.</answer>
 	</test>
 		<test>
@@ -82,10 +397,10 @@
 	</test>
 		<test>
 		<question><qt>hãy nêu</qt> <ano>yêu cầu của kính chắn gió</ano> <tv>ô tô</tv></question>
-		<answer>là loại kính an toàn, kính nhiều lớp, đúng quy cách, không rạn nứt, đảm bảo hình ảnh quan sát rõ ràng, không bị méo mó.</answer>
+		<answer>là loại c, kính nhiều lớp, đúng quy cách, không rạn nứt, đảm bảo hình ảnh quan sát rõ ràng, không bị méo mó.</answer>
 	</test>
 	<test>
-		<question>khái niệm <ano>đường phố</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>đường phố</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
 	</test>
 	<test>
@@ -93,7 +408,7 @@
 		<answer>tuyên truyền phổ biến các quy định của pháp luật đặc biệt là các quy định của luật giao thông đường bộ, các văn bản quản lý về vận tải để người lái xe biết và thực hiện; thường xuyên kiểm tra giám sát người lái xe thực hiện các nội quy, quy chế của đơn vị. hiểu tâm lý, nguyện vọng của người lái xe, động viên họ trong lúc khó khăn, thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động, quan tâm đến đời sống vật chất, tinh thần của họ, có chế độ thưởng phạt nghiêm minh giúp họ hoàn thành nhiệm vụ.</answer>
 	</test>
 	<test>
-		<question>khái niệm <ano>dải phân cách</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>dải phân cách</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
 	</test>
 		<test>
@@ -113,7 +428,7 @@
 		<answer>là trách nhiệm của cơ quan, tổ chức, cá nhân.</answer>
 	</test>
 		<test>
-		<question>khái niệm <ano>đường cao tốc</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>đường cao tốc</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.</answer>
 	</test>
 		<test>
@@ -121,7 +436,7 @@
 		<answer>bảo dưỡng thường xuyên làm cho ô tô luôn luôn có tính năng kỹ thuật tốt, giảm cường độ hao mòn của các chi tiết. ngăn ngừa và phát hiện kịp thời các hư hỏng và sai lệch kỹ thuật để khắc phục, giữ gìn được hình thức bên ngoài.</answer>
 	</test>
 		<test>
-		<question>khái niệm <ano>đường chính</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>đường chính</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>đường chính là đường bảo đảm giao thông chủ yếu trong khu vực.</answer>
 	</test>
 		<test>
@@ -225,19 +540,19 @@
 		<answer>Ủy ban nhân dân cấp tỉnh.</answer>
 	</test>
 	<test>
-		<question>khái niệm <ano>dừng xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
+		<question><qt>khái niệm</qt> <ano>dừng xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
 		<answer>dừng xe là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.</answer>
 	</test>
 	<test>
-		<question>khái niệm <ano>đỗ xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
+		<question><qt>khái niệm</qt> <ano>đỗ xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
 		<answer>là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.</answer>
 	</test>
 		<test>
-		<question>khái niệm <ano>xe quá tải trọng</ano> của đường bộ <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>xe quá tải trọng</ano> của đường bộ <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>là xe có tổng trọng lượng vượt quá khả năng chịu tải của cầu hoặc có tải trọng trục xe vượt quá khả năng chịu tải của đường.</answer>
 	</test>
 		<test>
-		<question>khái niệm <ano>hàng nguy hiểm</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>hàng nguy hiểm</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>là hàng hóa có chứa các chất nguy hiểm, khi chở trên đường có khả năng nguy hại tới tính mạng, sức khoẻ con gười, môi trường, an toàn và an ninh quốc gia.</answer>
 	</test>
 		<test>
@@ -253,7 +568,7 @@
 		<answer>dừng xe và nghỉ cho đến khi hết buồn ngủ.</answer>
 	</test>
 		<test>
-		<question>khái niệm <ano>phương tiện giao thông thô sơ đường bộ</ano> <qt>được hiểu thế nào</qt> là đúng</question>
+		<question><qt>khái niệm</qt> <ano>phương tiện giao thông thô sơ đường bộ</ano> <qt>được hiểu thế nào</qt> là đúng</question>
 		<answer>gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.</answer>
 	</test>
 	<test>
