@@ -436,12 +436,12 @@
 		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> lái <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông cả 2 tay</if3> <a>lái</a> <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> lái <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông cả 2 tay</if3> <a>lái</a> <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
 	</test>
@@ -621,7 +621,7 @@
 		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe đạp điện</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe đạp điện</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
 	</test>
@@ -631,7 +631,7 @@
 		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe đạp điện</tv> <if3>không cài quai mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe đạp điện</tv> <if3>không cài quai mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
 	</test>
@@ -641,7 +641,7 @@
 		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe đạp điện</tv> <if3>cài quai mũ bảo hiểm không đúng cách</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe đạp điện</tv> <if3>cài quai mũ bảo hiểm không đúng cách</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
 	</test>

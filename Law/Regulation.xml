@@ -2,19 +2,23 @@
 <root>
 	<test>
 		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-	 	<answer>40 km/h.</answer>
+	 	<answer>50 km/h.</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 		<test>
 		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-	 	<answer>40 km/h.</answer>
+	 	<answer>50 km/h.</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe gắn máy</tv> trên đường mà trong máu có <ac>nồng độ cồn</ac> vượt quá <qt>bao nhiêu thì bị cấm</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe gắn máy</tv> trên đường mà trong máu có <ac>nồng độ cồn</ac> vượt quá <qt>bao nhiêu thì bị cấm</qt></question>
 	 	<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>người điều khiển xe <tv>mô tô</tv> trên đường mà trong máu có <ac>nồng độ cồn</ac> vượt quá <qt>bao nhiêu thì bị cấm</qt></question>
 	 	<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>việc <if3>sản xuất</if3> <if3>mua bán</if3> <if3>sử dụng biển số</if3> <tv>xe cơ giới</tv> <qt>được quy định như thế nào</qt> trong luật giao thông đường bộ</question>
@@ -41,19 +45,19 @@
 	 	<answer>không cho phép.</answer>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>kéo các xe khác</a> khi tham gia giao thông <qt>không</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>kéo các xe khác</a> khi tham gia giao thông <qt>không</qt></question>
 	 	<answer>không cho phép.</answer>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>đẩy các xe khác</a> khi tham gia giao thông <qt>không</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>đẩy các xe khác</a> khi tham gia giao thông <qt>không</qt></question>
 	 	<answer>không cho phép.</answer>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>kéo vật khác</a> khi tham gia giao thông <qt>không</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>kéo vật khác</a> khi tham gia giao thông <qt>không</qt></question>
 	 	<answer>không cho phép.</answer>
 	</test>
 	<test>
-		<question>người điều khiển <tv> xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>đẩy các xe khác</a> khi tham gia giao thông <qt>không</qt></question>
+		<question>người <a>điều khiển</a> <tv> xe gắn máy</tv> <qt>có được</qt> phép sử dụng xe để <a>đẩy các xe khác</a> khi tham gia giao thông <qt>không</qt></question>
 	 	<answer>không cho phép.</answer>
 	</test>
 	<test>
@@ -85,48 +89,20 @@
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>hành vi điều khiển <tv>xe cơ giới</tv> <a>chạy quá tốc độ</a> quy định <qt>có bị nghiêm cấm hay không</qt></question>
+		<question>hành vi <a>điều khiển</a> <tv>xe cơ giới</tv> <a>chạy quá tốc độ</a> quy định <qt>có bị nghiêm cấm hay không</qt></question>
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>hành vi điều khiển <tv>xe cơ giới</tv> <a>giành đường</a> <qt>có bị nghiêm cấm hay không</qt></question>
+		<question>hành vi <a>điều khiển</a> <tv>xe cơ giới</tv> <a>giành đường</a> <qt>có bị nghiêm cấm hay không</qt></question>
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>hành vi điều khiển <tv>xe cơ giới</tv> <a>vượt ẩu</a> <qt>có bị nghiêm cấm hay không</qt></question>
+		<question>hành vi <a>điều khiển</a> <tv>xe cơ giới</tv> <a>vượt ẩu</a> <qt>có bị nghiêm cấm hay không</qt></question>
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
 		<question><tv>ô tô</tv> tham gia giao thông trên đường bộ <qt>phải có đủ các loại đèn gì</qt></question>
 		<answer>đèn chiếu sáng gần và xa. đèn soi biển số, đèn báo hãm và đèn tín hiệu.</answer>
-	</test>
-	<test>
-		<question><tv>xe máy kéo</tv> và các loại xe tương tự loại đang được phép hoạt động tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>30 km/h.</answer>
-	</test>
-	<test>
-		<question> <tv>xe công nông</tv> và các loại xe tương tự loại đang được phép hoạt động tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>30 km/h.</answer>
-	</test>
-	<test>
-		<question><tv>xe lam</tv> và các loại xe tương tự loại đang được phép hoạt động tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>30 km/h.</answer>
-	</test>
-	<test>
-		<question><tv>xe lôi máy</tv> và các loại xe tương tự loại đang được phép hoạt động tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>30 km/h.</answer>
-	</test>
-	<test>
-		<question><tv>xe xích lô máy</tv> và các loại xe tương tự loại đang được phép hoạt động tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>30 km/h.</answer>
-	</test>
-	<test>
-		<question> <tv>xe ba gác máy</tv> và các loại xe tương tự loại đang được phép hoạt động tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>30 km/h.</answer>
-	</test>
-	<test>
-		<question><tv>xe máy chuyên dùng</tv> và các loại xe tương tự loại đang được phép hoạt động tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>30 km/h.</answer>
 	</test>
 	<test>
 		<question>người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> <a>dừng</a> xe <l>trên đường xe điện</l> hay <qt>không</qt></question>
@@ -202,18 +178,20 @@
 	</test>
 	<test>
 		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>40 km/h.</answer>
+		<answer>50 km/h.</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
-		<answer>40 km/h.</answer>
+		<answer>50 km/h.</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>40 km/h</v></question>
 		<answer>ô tô chở người trên 30 chỗ ngồi, ô tô tải có trọng tải từ 3500 kg trở lên, ô tô sơ mi rơ moóc, ô tô kéo rơ moóc, ô tô kéo xe khác, ô tô chuyên dùng, xe mô tô, xe gắn máy.</answer>
 	</test>
 	<test>
-		<question><l>trong khu dân cư</l> <qt>ở nơi nào</qt> cho phép người lái xe người điều khiển <tv>xe máy chuyên dùng</tv> được <a>quay đầu xe</a></question>
+		<question><l>trong khu dân cư</l> <qt>ở nơi nào</qt> cho phép người lái xe người <a>điều khiển</a> <tv>xe máy chuyên dùng</tv> được <a>quay đầu xe</a></question>
 		<answer>ở nơi đường giao nhau và nơi có biển báo cho phép quay đầu xe.</answer>
 	</test>
 	<test>
@@ -325,15 +303,15 @@
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>người <if3>lái ô tô chở người trên 30 chỗ ngồi hạng e </if3> lái <tv>xe hạng d kéo rơ moóc fd </tv> phải đủ <qt>bao nhiêu tuổi trở lên</qt></question>
+		<question>người <if3>lái ô tô chở người trên 30 chỗ ngồi hạng e </if3> <a>lái</a> <tv>xe hạng d kéo rơ moóc fd </tv> phải đủ <qt>bao nhiêu tuổi trở lên</qt></question>
 		<answer>27 tuổi.</answer>
 	</test>
 	<test>
-		<question><qt>tuổi tối đa</qt> của người lái <tv>ô tô</tv> chở người <if1>trên 30 chỗ</if1> hạng e là <qt>bao nhiêu tuổi</qt></question>
+		<question><qt>tuổi tối đa</qt> của người <a>lái</a> <tv>ô tô</tv> chở người <if1>trên 30 chỗ</if1> hạng e là <qt>bao nhiêu tuổi</qt></question>
 		<answer>dưới 55 tuổi đối với nam và dưới 50 tuổi đối với nữ.</answer>
 	</test>
 	<test>
-		<question><qt>tuổi tối đa</qt> của người lái <tv>ô tô</tv> chở người <if1>hạng e</if1> là <qt>bao nhiêu tuổi</qt></question>
+		<question><qt>tuổi tối đa</qt> của người <a>lái</a> <tv>ô tô</tv> chở người <if1>hạng e</if1> là <qt>bao nhiêu tuổi</qt></question>
 		<answer>dưới 55 tuổi đối với nam và dưới 50 tuổi đối với nữ.</answer>
 	</test>
 	<test>
@@ -341,7 +319,7 @@
 		<answer>70 m.</answer>
 	</test>
 	<test>
-		<question>người có văn hóa giao thông khi điều khiển <tv>xe cơ giới</tv> <a>tham gia giao thông</a> đường bộ <qt>phải đảm bảo các điều kiện gì</qt></question>
+		<question>người có văn hóa giao thông khi <a>điều khiển</a> <tv>xe cơ giới</tv> <a>tham gia giao thông</a> đường bộ <qt>phải đảm bảo các điều kiện gì</qt></question>
 		<answer>có giấy phép lái xe phù hợp với loại xe được phép điều khiển; xe cơ giới đảm bảo các quy định về chất lượng, an toàn kỹ thuật và bảo vệ môi trường. có giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực; nộp phí sử dụng đường bộ theo quy định.</answer>
 	</test>
 	<test>
@@ -437,7 +415,7 @@
 		<answer>xe ô tô có trang bị dây an toàn thì người lái xe và người ngồi hàng ghế phía trước trong xe ô tô phải thắt dây an toàn</answer>
 	</test>
 	<test>
-		<question>đi <tv>ô tô</tv> thì người <qt>ngồi ở vị trí nào</qt> cần phải <if3>thắt dây an toàn</if3></question>
+		<question><a>đi</a> <tv>ô tô</tv> thì người <qt>ngồi ở vị trí nào</qt> cần phải <if3>thắt dây an toàn</if3></question>
 		<answer>xe ô tô có trang bị dây an toàn thì người lái xe và người ngồi hàng ghế phía trước trong xe ô tô phải thắt dây an toàn</answer>
 	</test>
 	<test>
@@ -765,15 +743,15 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>đi <tv>xe đạp</tv> thì <qt>được chở theo mấy người</qt></question>
+		<question><a>đi</a> <tv>xe đạp</tv> thì <qt>được chở theo mấy người</qt></question>
 		<answer>xe đạp được chở một người, trừ trường hợp chở thêm một trẻ em dưới 7 tuổi thì được chở tối đa hai người</answer>
 	</test>
 	<test>
-		<question>đi <tv>xe đạp máy</tv> <qt>có  phải</qt> <if3>đội mũ bảo hiểm</if3> <qt>không</qt></question>
+		<question><a>đi</a> <tv>xe đạp máy</tv> <qt>có  phải</qt> <if3>đội mũ bảo hiểm</if3> <qt>không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>đi <tv>xe đạp máy</tv> mà <if3>không đội mũ có bảo hiểm</if3> <qt>có bị vi phạm luật không</qt></question>
+		<question><a>đi</a> <tv>xe đạp máy</tv> mà <if3>không đội mũ có bảo hiểm</if3> <qt>có bị vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -829,56 +807,69 @@
 	 	<answer>40 km/h.</answer>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> có <ac>nồng độ cồn</ac> trong máu tối đa cho phép <qt>là bao nhiêu</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> có <ac>nồng độ cồn</ac> trong máu tối đa cho phép <qt>là bao nhiêu</qt></question>
 		<answer>50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>khi tham gia giao thông trên đường người tham gia giao thông được phép có <ac>nồng độ cồn</ac> trong máu <qt>là bao nhiêu</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>khi đi xe trên đường người lái xe được phép có <ac>nồng độ cồn</ac> trong máu <qt>là bao nhiêu</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><ac>nồng độ cồn</ac> <qt>là bao nhiêu</qt> thì vẫn được phép tham gia giao thông trên đường</question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><tv>ô tô</tv> <ac>nồng độ cồn</ac> <qt>là bao nhiêu</qt> thì vẫn được phép tham gia giao thông trên đường</question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><tv>mô tô ba bánh</tv> <ac>nồng độ cồn</ac> <qt>là bao nhiêu</qt> thì vẫn được phép tham gia giao thông trên đường</question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><ac>nồng độ cồn</ac> cho phép khi lái xe <tv>ô tô</tv> <qt>là bao nhiêu</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được</qt> đi <tv>xe máy</tv> hay <qt>không</qt></question>
+		<question><ac>nồng độ cồn</ac> trong người là <v>30 miligam/100 mililít máu</v> <qt>có được</qt> <a>đi</a> <tv>xe máy</tv> hay <qt>không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>người đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> là <v>0 3 miligam/1 lít khí thở</v> <qt>có bị phạt không</qt></question>
+		<question>người <a>đi</a> <tv>xe máy</tv> có <ac>nồng độ cồn</ac> là <v>0 3 miligam/1 lít khí thở</v> <qt>có bị phạt không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><ac>nồng độ cồn</ac> trong máu là <v>70 miligam/100 mililít khí thở</v> thì <qt>có được tham gia giao thông không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>người có <ac>nồng độ cồn</ac> <v>60 miligam/100 mililít máu</v> <qt>có được</qt> đi <tv>ô tô</tv> <qt>không</qt></question>
+		<question>người có <ac>nồng độ cồn</ac> <v>60 miligam/100 mililít máu</v> <qt>có được</qt> <a>đi</a> <tv>ô tô</tv> <qt>không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>đi xe với lượng <ac>cồn trong máu</ac> là <v>45 miligam/100 mililít máu</v> <qt>có bị vi phạm luật giao thông không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>đi xe với lượng <ac>cồn trong máu</ac> là <v>45 miligam/100 mililít máu</v> <qt>có bị vi phạm luật không</qt></question>
 		<answer>nồng độ cồn cho phép dưới 50 miligam/100 mililít máu hoặc 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><a>bấm còi</a> lúc <if4>21 giờ</if4> <l>trong khu đông dân cư</l> <qt>có bị cấm không</qt></question>
@@ -886,446 +877,152 @@
 	</test>
 	<test>
 		<question><qt>tốc độ tối đa</qt> của <tv>xe cơ giới</tv> <l>trên đường phố</l> <qt>là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên tốc độ tối đa là 60 km/h; với đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới tốc độ tối đa là 50 km/h</answer>
+		<answer>Trong khu vực đông dân cư _ với đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên tốc độ tối đa là 60 km/h; với đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới tốc độ tối đa là 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường đôi trong khu đông dân cư</l> <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>60 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô</tv> khi đi <l>trong khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe đi <l>trên đường một chiều có 2 làn xe trong khu vực đông dân cư</l> thì <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>60 km/h</answer>
+		<question><tv>ô tô</tv> khi đi <l>trong khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>90 km/h</v><qt>có bị phạt không</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường một chiều có 2 làn xe trong khu vực đông dân cư</l> thì <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>60 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>xe máy</tv> khi đi <l>trong khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường đôi có dải phân cách trong khu vực đông dân cư</l> thì <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>60 km/h</answer>
+		<question><tv>xe máy</tv> khi đi <l>trong khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>80 km/h</v><qt>có bị phạt không</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường đôi trong khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>65 km/h</v> <qt>có vi phạm luật không</qt></question>
-		<answer>tốc độ tối đa là 60 km</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>xe máy</tv> khi đi <l>trên đường phố</l> <qt>là bao nhiêu</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường đôi trong khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>55 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa là 60 km</answer>
+		<question><tv>xe máy</tv> khi đi <l>trên đường phố</l> có <sp>tốc độ</sp> <v>80 km/h</v><qt>có bị phạt không</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường một chiều có 1 làn xe trong khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa là 50 km</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>xe gắn máy</tv> khi đi <l>trong khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường một chiều có 2 làn xe trong khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>70 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa là 60 km</answer>
+		<question><tv>xe gắn máy</tv> khi đi <l>trong khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>90 km/h</v> <qt>có bị phạt không</qt></question>
+		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <sp>tốc độ</sp> <v>50 km/h</v> <l>trên đường một chiều có 2 làn xe trong khu vực đông dân cư</l> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa là 60 km</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô</tv> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe đi <l>trên đường hai chiều không có dải phân cách trong khu vực đông dân cư</l> thì <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>tốc độ tối đa 50 km/h</answer>
+		<question><tv>ô tô</tv> khi đi <l>ngoài khu vực đông dân cư</l> đi với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có bị phạt không</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe đi <l>trên đường một chiều có 1 làn xe trong khu vực đông dân cư</l> thì <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>tốc độ tối đa 50 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô</tv> <if1>dưới 30 chỗ ngồi</if1> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ xe ô tô chở người đến 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Xe ô tô chở người trên 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi với <sp>tốc độ</sp> <v>60 km/h</v> <l>trên đường hai chiều không có dải phân cách trong khu vực đông dân cư</l> <qt>có vi phạm luật không</qt></question>
-		<answer>tốc độ tối đa 50 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô</tv> <if1>27 chỗ ngồi</if1> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ xe ô tô chở người đến 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Xe ô tô chở người trên 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi với <sp>tốc độ</sp> <v>45 km/h</v> <l>trên đường hai chiều không có dải phân cách trong khu vực đông dân cư</l> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa 50 km/h</answer>
+		<question><tv>ô tô</tv> <if1>27 chỗ ngồi</if1> khi đi <l>ngoài khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>90 km/</v> <qt>có bị phạt không</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ xe ô tô chở người đến 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Xe ô tô chở người trên 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt> <l>trên đường hai chiều trong khu vực đông dân cư không có dải phân cách giữa</l></question>
-		<answer>trên đường hai chiều không có dải phân cách: 50 km/h; trên đường hai chiều có dải phân cách: 60 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô tải</tv> <if1>trọng tải dưới 3,5 tấn</if1> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô tải có trọng tải đến 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Ô tô tải có trọng tải trên 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><l>ngoài khu vực đông dân cư</l> xe <tv>ô tô</tv> được phép <qt>đi tối đa là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa) và đường một chiều có từ 2 làn xe cơ giới trở lên tốc độ tối đa là 90 km/h; với đường hai chiều không có dải phân cách giữa và đường một chiều có 1 làn xe cơ giới thì tốc độ tối đa là 80 km/h</answer>
+		<question><tv>ô tô tải</tv> <if1>trọng tải dưới 3,5 tấn</if1> khi đi <l>ngoài khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>90 km/h</v> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô tải có trọng tải đến 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Ô tô tải có trọng tải trên 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>90 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô tải</tv> <if1>trọng tải 2 tấn</if1> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô tải có trọng tải đến 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Ô tô tải có trọng tải trên 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô tải</tv> <if1>trọng tải trên 3,5 tấn</if1> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô tải có trọng tải đến 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Ô tô tải có trọng tải trên 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
+		<question><tv>ô tô tải</tv> <if1>trọng tải trên 3,5 tấn</if1> khi đi <l>ngoài khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>80 km/h</v> <qt>có bị phạt không</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô tải có trọng tải đến 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Ô tô tải có trọng tải trên 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>90 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô tải</tv> <if1>trọng tải 4 tấn</if1> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô tải có trọng tải đến 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Ô tô tải có trọng tải trên 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
+		<question><tv>ô tô tải</tv> <if1>trọng tải 4 tấn</if1> có <sp>tốc độ</sp> <v>90 km/h</v> <l>ngoài khu vực đông dân cư</l> <qt>có bị phạt không</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô tải có trọng tải đến 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Ô tô tải có trọng tải trên 3,5 tấn _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ xe ô tô chở người đến 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Xe ô tô chở người trên 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> thì xe <tv>ô tô</tv> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>90 km/h</answer>
+		<question><tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1> khi đi <l>ngoài khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>80 km/h</v> <qt>có bị phạt không</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ xe ô tô chở người đến 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Xe ô tô chở người trên 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân</l> cư với <sp>tốc độ</sp> <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô buýt</tv> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 70 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 60 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>xe buýt</tv> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 70 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 60 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
-		<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường hai chiều không có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường hai chiều không có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường hai chiều không có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> thì xe <tv>ô tô</tv> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>70 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question><l>ngoài khu vực đông dân cư</l> xe <tv>ô tô</tv> <if1>30 chỗ ngồi</if1> được phép <qt>đi tối đa là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa) và đường một chiều có từ 2 làn xe cơ giới trở lên, ô tô đến 30 chỗ ngồi: 90 km/h, ô tô trên 30 chỗ ngồi: 80 km/h; với đường hai chiều không có dải phân cách giữa và đường một chiều có 1 làn xe cơ giới, ô tô trên 30 chỗ ngồi: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>30 chỗ ngồi</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>25 chỗ ngồi</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>30 chỗ ngồi</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>25 chỗ ngồi</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>27 chỗ ngồi</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>26 chỗ ngồi</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> thì xe <tv>ô tô</tv> <if1>20 chỗ ngồi</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>7 chỗ ngồi</if1> đi <l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>7 chỗ ngồi</if1> đi <l>trên đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>7 chỗ</if1> đi <l>trên đường hai chiều không có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>30 chỗ</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>30 chỗ</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> thì xe <tv>ô tô</tv> <if1>20 chỗ</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>20 chỗ</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>30 chỗ</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>70 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>không</answer>
-	</test>
-	<test>
-		<question><l>ngoài khu vực đông dân cư</l> <tv>xe tải</tv> có <if1>trọng lượng 3 5 tấn</if1> được phép <qt>đi tối đa là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa) và đường một chiều có từ 2 làn xe cơ giới trở lên, xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h; với đường hai chiều không có dải phân cách giữa và đường một chiều có 1 làn xe cơ giới, xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1>trọng lượng 2 5 tấn</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 3 tấn</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 3 5 tấn</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 1 5 tấn</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 2 tấn</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 3 tấn</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> thì <tv>xe tải</tv> có <if1> trọng lượng 3 5 tấn</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1>trọng lượng 3 2 tấn</if1> đi <l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 3 tấn</if1> đi <l>trên đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1>trọng lượng 3 5 tấn</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1>trọng lượng 3 tấn</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1>trọng lượng 2 tấn</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> thì <tv>xe tải</tv> có <if1> trọng lượng 1 5 tấn</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 3 tấn</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng lượng 2 5 tấn</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>70 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>ngoài khu vực đông dân cư</l> xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> được phép <qt>đi tối đa là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa) và đường một chiều có từ 2 làn xe cơ giới trở lên tốc độ tối đa là 80 km/h; với đường hai chiều không có dải phân cách giữa và đường một chiều có 1 làn xe cơ giới thì tốc độ tối đa là 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa) và đường một chiều có từ 2 làn xe cơ giới trở lên, ô tô đến 30 chỗ ngồi: 90 km/h, ô tô trên 30 chỗ ngồi: 80 km/h; với đường hai chiều không có dải phân cách giữa và đường một chiều có 1 làn xe cơ giới, ô tô trên 30 chỗ ngồi:80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>35 chỗ ngồi</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <if1>40 chỗ ngồi</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> thì xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 90 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 80 km/h</answer>
-	</test>
-		<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>40 chỗ ngồi</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>35 chỗ ngồi</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> thì xe <tv>ô tô</tv> <if1>35 chỗ ngồi</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>35 chỗ ngồi</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question>xe <tv>ô tô</tv> <if1>35 chỗ ngồi</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>ô tô chở đến 30 chỗ ngồi, tốc độ tối đa: 80 km/h; ô tô chở trên 30 chỗ ngồi, tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>ngoài khu vực đông dân cư</l> <tv>xe tải</tv> có <if1> trọng tải trên 3 5 tấn</if1> được phép đi <qt>tối đa là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa) và đường một chiều có từ 2 làn xe cơ giới trở lên, xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h; với đường hai chiều không có dải phân cách giữa và đường một chiều có 1 làn xe cơ giới, xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 4 tấn</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 4 tấn</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 3 7 tấn</if1> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>100 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 4 tấn</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 5 tấn</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 4 5 tấn</if1> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> thì <tv>xe tải</tv> có <if1> trọng tải 3 8 tấn</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 5 tấn</if1> đi <l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 4 5 tấn</if1> đi <l>trên đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 5 tấn</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 4 5 tấn</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 5 tấn</if1> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 90 km/h, xe tải trọng lượng trên 3,5 tấn: 80 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> thì <tv>xe tải</tv> có <if1> trọng tải 4 5 tấn</if1> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 3 6 tấn</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe tải</tv> có <if1> trọng tải 4 tấn</if1> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>xe tải trọng lượng đến 3,5 tấn: 80 km/h, xe tải trọng lượng trên 3,5 tấn: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>ngoài khu vực đông dân cư</l> <tv>xe máy</tv> được phép đi <qt>tối đa là bao nhiêu</qt></question>
-		<answer>với đường đôi (có dải phân cách giữa) và đường một chiều có từ 2 làn xe cơ giới trở lên tốc độ tối đa là 70 km/h; với đường hai chiều không có dải phân cách giữa và đường một chiều có 1 làn xe cơ giới thì tốc độ tối đa là 60 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường đôi ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường có dải phân cách ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> thì <tv>xe máy</tv> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường một chiều có 2 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>90 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường một chiều có 3 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 70 km/h</answer>
-	</test>
-	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> thì được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>60 km/h</answer>
-	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 60 km/h</answer>
+		<question><tv>ô tô buýt</tv> khi đi <l>ngoài khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>Ngoài khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường hai chiều không có dải phân cách giữa ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> là <v>70 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 60 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>xe buýt</tv> khi đi <l>trong khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Trong khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> thì <tv>xe máy</tv> được phép đi với <qt>tốc độ tối đa là bao nhiêu</qt></question>
-		<answer>60 km/h</answer>
+		<question><tv>xe buýt</tv> khi đi <l>trong khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>Trong khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>70 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 60 km/h</answer>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô buýt</tv> khi đi <l>trong khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Trong khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> đi <l>trên đường một chiều có 1 làn đường ngoài khu vực đông dân cư</l> với <sp>tốc độ</sp> <v>60 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
-		<answer>tốc độ tối đa: 60 km/h</answer>
+		<question><tv>ô tô buýt</tv> khi đi <l>trong khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>Trong khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
+		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 </root>

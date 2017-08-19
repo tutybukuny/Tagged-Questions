@@ -141,7 +141,7 @@
 		<answer>phải báo hiệu bằng đèn hoặc còi; trong đô thị và nơi đông dân cư từ 22 giờ đến 05 giờ chỉ được báo hiệu xin vượt bằng đèn. xe xin vượt chỉ được vượt khi không có chướng ngại vật ở phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải.</answer>
 	</test>
 	<test>
-		<question>khi lái <tv>ô tô</tv> <a>qua đường sắt không có rào chắn</a> <if4>không có người điều khiển giao thông</if4> người lái xe <qt>phải xử lý thế nào</qt></question>
+		<question>khi <a>lái</a> <tv>ô tô</tv> <a>qua đường sắt không có rào chắn</a> <if4>không có người điều khiển giao thông</if4> người lái xe <qt>phải xử lý thế nào</qt></question>
 		<answer>tạm dừng xe tại vị trí cách đường sắt tối thiểu 5 m, hạ kính cửa, tắt hết các thiết bị âm thanh trên xe, quan sát, nếu không có tàu chạy qua, về số thấp, tăng nhẹ ga vượt qua đường sắt.</answer>
 	</test>
 	<test>
@@ -229,7 +229,7 @@
 		<answer>không nên đi cố vào đường hẹp; xe đi ở phía sườn núi nên dừng lại trước để nhường đường; khi dừng xe nhường đường phải đỗ ngay ngắn. trong khi tránh nhau không nên đổi số; khi tránh nhau ban đêm, phải tắt đèn pha bật đèn cốt.</answer>
 	</test>
 	<test>
-		<question>khi điều khiển <tv>ô tô</tv> số tự động người lái xe <if3>sử dụng chân</if3> <qt>như thế nào</qt> là đúng</question>
+		<question>khi <a>điều khiển</a> <tv>ô tô</tv> số tự động người lái xe <if3>sử dụng chân</if3> <qt>như thế nào</qt> là đúng</question>
 		<answer>không sử dụng chân trái. chân phải dùng để điều khiển bàn đạp phanh và bàn đạp ga.</answer>
 	</test>
 	<test>
@@ -245,7 +245,7 @@
 		<answer>dừng ngay phương tiện; giữ nguyên hiện trường; cấp cứu người bị nạn và phải có mặt khi cơ quan có thẩm quyền yêu cầu; cung cấp thông tin xác thực về vụ tai nạn cho cơ quan có thẩm quyền. ở lại nơi xảy ra tai nạn cho đến khi người của cơ quan công an đến, trừ trường hợp người điều khiển phương tiện cũng bị thương phải đưa đi cấp cứu hoặc phải đưa người bị nạn đi cấp cứu hoặc vì lý do bị đe dọa đến tính mạng, nhưng phải đến trình báo ngay với cơ quan công an nơi gần nhất.</answer>
 	</test>
 	<test>
-		<question>khi điều khiển <tv>ô tô</tv> <a>lên dốc cao</a> người lái xe cần <qt>thực hiện các thao tác nào</qt></question>
+		<question>khi <a>điều khiển</a> <tv>ô tô</tv> <a>lên dốc cao</a> người lái xe cần <qt>thực hiện các thao tác nào</qt></question>
 		<answer>về số thấp từ chân dốc, điều chỉnh ga cho xe từ từ lên dốc; đến gần đỉnh dốc phải đi chậm, đi sát về phía bên phải đường, có tín hiệu (còi, đèn) để báo cho người lái xe đi ngược chiều biết.</answer>
 	</test>
 	<test>
@@ -281,11 +281,11 @@
 		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
 	</test>
 	<test>
-		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được điều khiển <tv>máy kéo</tv> có <if1>trọng tải từ 3 5 tấn trở lên</if1></question>
+		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được <a>điều khiển</a> <tv>máy kéo</tv> có <if1>trọng tải từ 3 5 tấn trở lên</if1></question>
 		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
 	</test>
 	<test>
-		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được điều khiển <tv>xe hạng b2 kéo rơ moóc</tv> fb2 </question>
+		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được <a>điều khiển</a> <tv>xe hạng b2 kéo rơ moóc</tv> fb2 </question>
 		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
 	</test>
 	<test>
@@ -293,11 +293,11 @@
 		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
 	</test>
 	<test>
-		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được điều khiển <tv>ô tô tải</tv></question>
+		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được <a>điều khiển</a> <tv>ô tô tải</tv></question>
 		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
 	</test>
 	<test>
-		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được điều khiển <tv>máy kéo</tv> có <if1>trọng tải dưới 3 5 tấn</if1></question>
+		<question>người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được <a>điều khiển</a> <tv>máy kéo</tv> có <if1>trọng tải dưới 3 5 tấn</if1></question>
 		<answer>Người từ 18 tuổi trở lên được sử dụng xe ô tô tải, máy kéo có trọng tải dưới 3.500kg và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ. Người từ 21 tuổi trở lên có thể sử dụng xe ô tô tải, xe máy kéo có trải trọng từ 3.500kg trở lên, và có thể học lái xe ô tô chở người từ 4 chỗ đến 9 chỗ và xe kéo rơ móc. Người đủ 24 tuổi trở lên có thể sử dụng xe ô tô chở từ 10 người đến 30 người và các loại xe được quy định ở hạng B và C.</answer>
 	</test>
 	<test>
@@ -325,19 +325,22 @@
 		<answer>gài số một (1) và từ từ cho hai bánh xe trước xuống rãnh, tăng ga cho hai bánh xe trước vượt lên khỏi rãnh, tiếp tục để bánh xe sau từ từ xuống rãnh rồi tăng dần ga cho xe ô tô lên khỏi rãnh.</answer>
 	</test>
 	<test>
-		<question>người điều khiển <tv>ô tô</tv> trên đường mà trong máu hoặc hơi thở có <ac>nồng độ cồn</ac> <qt>vượt quá bao nhiêu thì bị cấm</qt></question>
+		<question>người <a>điều khiển</a> <tv>ô tô</tv> trên đường mà trong máu hoặc hơi thở có <ac>nồng độ cồn</ac> <qt>vượt quá bao nhiêu thì bị cấm</qt></question>
 		<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>máy kéo</tv> trên đường mà trong máu hoặc hơi thở có <ac>nồng độ cồn</ac> <qt>vượt quá bao nhiêu thì bị cấm</qt></question>
+		<question>người <a>điều khiển</a> <tv>máy kéo</tv> trên đường mà trong máu hoặc hơi thở có <ac>nồng độ cồn</ac> <qt>vượt quá bao nhiêu thì bị cấm</qt></question>
 		<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy chuyên dùng</tv> trên đường mà trong máu hoặc hơi thở có <ac>nồng độ cồn</ac> <qt>vượt quá bao nhiêu thì bị cấm</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy chuyên dùng</tv> trên đường mà trong máu hoặc hơi thở có <ac>nồng độ cồn</ac> <qt>vượt quá bao nhiêu thì bị cấm</qt></question>
 		<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0.25 miligam/1 lít khí thở</answer>
+		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>người lái <tv>ô tô</tv> <qt>xử lý như thế nào</qt> <if4>khi cho xe mô tô phía sau vượt</if4></question>
+		<question>người <a>lái</a> <tv>ô tô</tv> <qt>xử lý như thế nào</qt> <if4>khi cho xe mô tô phía sau vượt</if4></question>
 		<answer>lái xe vào lề đường bên phải và giảm tốc độ để xe phía sau vượt qua.</answer>
 	</test>
 	<test>
@@ -353,7 +356,7 @@
 		<answer>thông báo vụ tai nạn đến cơ quan thi hành pháp luật. thực hiện sơ cứu ban đầu trong trường hợp khẩn cấp.</answer>
 	</test>
 	<test>
-		<question><if4>khi điều khiển tăng số</if4> người lái <tv>ô tô</tv> <qt>cần chú ý những điểm gì</qt></question>
+		<question><if4>khi điều khiển tăng số</if4> người <a>lái</a> <tv>ô tô</tv> <qt>cần chú ý những điểm gì</qt></question>
 		<answer>không được nhìn xuống buồng lái, cần phải tăng thứ tự từ thấp đến cao, phối hợp các động tác phải nhịp nhàng, chính xác.</answer>
 	</test>
 	<test>
@@ -369,7 +372,7 @@
 		<answer>giảm tốc độ, về số thấp và giữ đều ga.</answer>
 	</test>
 	<test>
-		<question>khi điều khiển <tv>ô tô</tv> <a>tới gần xe chạy ngược chiều</a> vào <if4>ban đêm</if4> người lái xe cần <qt>thực hiện các thao tác nào</qt></question>
+		<question>khi <a>điều khiển</a> <tv>ô tô</tv> <a>tới gần xe chạy ngược chiều</a> vào <if4>ban đêm</if4> người lái xe cần <qt>thực hiện các thao tác nào</qt></question>
 		<answer>chuyển từ đèn chiếu xa sang đèn chiếu gần; không nhìn thẳng vào đèn của xe chạy ngược chiều mà nhìn chếch sang phía phải theo chiều chuyển động của xe mình.</answer>
 	</test>
 	<test>
@@ -377,11 +380,11 @@
 		<answer>giữ vững tay lái cho xe đi đúng vệt bánh xe đi trước, sử dụng số thấp đi chậm, giữ đều ga, không lấy nhiều lái, không đánh lái ngoặt và phanh gấp.</answer>
 	</test>
 	<test>
-		<question>khi điều khiển <tv>ô tô</tv> gặp <if4>sương mù</if4> người lái xe <qt>phải làm gì</qt></question>
+		<question>khi <a>điều khiển</a> <tv>ô tô</tv> gặp <if4>sương mù</if4> người lái xe <qt>phải làm gì</qt></question>
 		<answer>bật đèn chiếu gần và đèn vàng, điều khiển gạt nước, điều khiển ô tô đi với tốc độ chậm để có thể quan sát được. tìm chỗ an toàn dừng xe, bật đèn dừng khẩn cấp báo hiệu cho các xe khác biết.</answer>
 	</test>
 		<test>
-		<question>khi điều khiển <tv>ô tô</tv> gặp <if4>mưa to</if4> người lái xe <qt>phải làm gì</qt></question>
+		<question>khi <a>điều khiển</a> <tv>ô tô</tv> gặp <if4>mưa to</if4> người lái xe <qt>phải làm gì</qt></question>
 		<answer>bật đèn chiếu gần và đèn vàng, điều khiển gạt nước, điều khiển ô tô đi với tốc độ chậm để có thể quan sát được. tìm chỗ an toàn dừng xe, bật đèn dừng khẩn cấp báo hiệu cho các xe khác biết.</answer>
 	</test>
 	<test>
@@ -389,7 +392,7 @@
 		<answer>tiếp tục chạy đến lối ra tiếp theo.</answer>
 	</test>
 	<test>
-		<question>khi điều khiển <tv>ô tô</tv> qua <if4>đoạn đường ngập nước</if4> người lái xe cần <qt>thực hiện các thao tác nào</qt></question>
+		<question>khi <a>điều khiển</a> <tv>ô tô</tv> qua <if4>đoạn đường ngập nước</if4> người lái xe cần <qt>thực hiện các thao tác nào</qt></question>
 		<answer>về số một (1), giữ đều ga và giữ vững tay lái để ô tô vượt qua đoạn đường ngập nước.</answer>
 	</test>
 	<test>
@@ -397,7 +400,7 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><if3>nghe nhạc</if3> lúc đi <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>nghe nhạc</if3> lúc <a>đi</a> <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -409,7 +412,7 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>khi đi <tv>xe đạp</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật giao thông không</qt></question>
+		<question>khi <a>đi</a> <tv>xe đạp</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -417,35 +420,35 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>khi đi <tv>xe đạp</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật không</qt></question>
+		<question>khi <a>đi</a> <tv>xe đạp</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><if3>đứng lên yên xe</if3> lúc đi <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>đứng lên yên xe</if3> lúc <a>đi</a> <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> <if3>sử dụng ô</if3> lúc lái <tv>xe đạp</tv> <qt>không</qt></question>
+		<question><qt>có được</qt> <if3>sử dụng ô</if3> lúc <a>lái</a> <tv>xe đạp</tv> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><if3>dùng ô</if3> trong lúc đi <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>dùng ô</if3> trong lúc <a>đi</a> <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>vừa đi <tv>xe đạp</tv> vừa <if3>nghe điện thoại</if3> <qt>có vi phạm luật giao thông không</qt></question>
+		<question>vừa <a>đi</a> <tv>xe đạp</tv> vừa <if3>nghe điện thoại</if3> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>đi <tv>xe đạp</tv> mà <if3>nghe điện thoại</if3> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><a>đi</a> <tv>xe đạp</tv> mà <if3>nghe điện thoại</if3> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> phép <if3>nghe điện thoại di động</if3> trong lúc đi <tv>xe đạp</tv> <qt>không</qt></question>
+		<question><qt>có được</qt> phép <if3>nghe điện thoại di động</if3> trong lúc <a>đi</a> <tv>xe đạp</tv> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><if3>đeo tai nghe</if3> lúc đi <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>đeo tai nghe</if3> lúc <a>đi</a> <tv>xe đạp</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có. trừ trường hợp là thiết bị trợ thính</answer>
 	</test>
 	<test>
@@ -465,11 +468,11 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><if3>nghe nhạc</if3> lúc đi <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>nghe nhạc</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><if3>nghe nhạc</if3> lúc đi <tv>xe máy</tv> <qt>có vi phạm luật không</qt></question>
+		<question><if3>nghe nhạc</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
@@ -485,39 +488,39 @@
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>khi đi <tv>xe máy</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật giao thông không</qt></question>
+		<question>khi <a>đi</a> <tv>xe máy</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>khi đi <tv>xe máy</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật không</qt></question>
+		<question>khi <a>đi</a> <tv>xe máy</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> <if3>sử dụng ô</if3> lúc đi <tv>xe máy</tv> <qt>không</qt></question>
+		<question><qt>có được</qt> <if3>sử dụng ô</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><if3>sử dụng ô</if3> trong lúc đi <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>sử dụng ô</if3> trong lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><if3>sử dụng ô</if3> trong lúc đi <tv>xe máy</tv> <qt>có vi phạm luật không</qt></question>
+		<question><if3>sử dụng ô</if3> trong lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question>vừa đi <tv>xe máy</tv> vừa <if3>nghe điện thoại</if3> <qt>có vi phạm luật giao thông không</qt></question>
+		<question>vừa <a>đi</a> <tv>xe máy</tv> vừa <if3>nghe điện thoại</if3> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>
-		<question><qt>có được</qt> phép <if3>nghe điện thoại di động</if3> trong lúc đi <tv>xe máy</tv> <qt>không</qt></question>
+		<question><qt>có được</qt> phép <if3>nghe điện thoại di động</if3> trong lúc <a>đi</a> <tv>xe máy</tv> <qt>không</qt></question>
 		<answer>không</answer>
 	</test>
 	<test>
-		<question><if3>đeo tai nghe</if3> lúc đi <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>đeo tai nghe</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có, trừ trường hợp là thiết bị trợ thính</answer>
 	</test>
 	<test>
-		<question><if3>đeo tai nghe</if3> lúc đi <tv>xe máy</tv> <qt>có vi phạm luật không</qt></question>
+		<question><if3>đeo tai nghe</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật không</qt></question>
 		<answer>có, trừ trường hợp là thiết bị trợ thính</answer>
 	</test>
 	<test>

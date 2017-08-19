@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>vượt khi không có báo hiệu xin vượt</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>vượt khi không có báo hiệu xin vượt</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -11,7 +11,7 @@
 		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không giữ khoảng cách an toàn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không giữ khoảng cách an toàn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -21,7 +21,7 @@
 		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không giữ khoảng cách an toàn gây ra va chạm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không giữ khoảng cách an toàn gây ra va chạm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm c khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -31,7 +31,7 @@
 		<base>điểm c khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không nhường quyền đi trước cho người đi bộ khi chuyển hướng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không nhường quyền đi trước cho người đi bộ khi chuyển hướng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -41,7 +41,7 @@
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không nhường quyền đi trước cho người khuyết tật khi chuyển hướng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không nhường quyền đi trước cho người khuyết tật khi chuyển hướng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -51,7 +51,7 @@
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không nhường quyền đi trước cho xe thô sơ khi chuyển hướng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không nhường quyền đi trước cho xe thô sơ khi chuyển hướng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -61,7 +61,7 @@
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>chuyển hướng không nhường đường cho xe đi ngược chiều</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>chuyển hướng không nhường đường cho xe đi ngược chiều</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -71,7 +71,7 @@
 		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>chuyển hướng không nhường đường cho người đi bộ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>chuyển hướng không nhường đường cho người đi bộ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -81,7 +81,7 @@
 		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>chuyển hướng không nhường đường cho người khuyết tật</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>chuyển hướng không nhường đường cho người khuyết tật</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -126,22 +126,22 @@
 		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>dùng ô</if3> khi lái <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>dùng ô</if3> khi <a>lái</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>dùng dù</if3> khi lái <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>dùng dù</if3> khi <a>lái</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>không tuân thủ các quy tắc nhường đường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không tuân thủ các quy tắc nhường đường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm i khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không nhường đường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không nhường đường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm i khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -166,7 +166,7 @@
 		<base>điểm a khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>chạy dàn hàng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>chạy dàn hàng</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm b khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -341,7 +341,7 @@
 		<base>điểm a khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>không giảm tốc độ khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không giảm tốc độ khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -351,7 +351,7 @@
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>không nhường đường khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không nhường đường khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -361,7 +361,7 @@
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>không nhường đường khi đi từ đường nhánh ra đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không nhường đường khi đi từ đường nhánh ra đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -371,7 +371,7 @@
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>không giảm tốc độ khi đi từ đường nhánh ra đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không giảm tốc độ khi đi từ đường nhánh ra đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -381,7 +381,22 @@
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> từ <v>5 km/h đến dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> từ <v>5 km/h đến dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy nhanh quá mức cho phép</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lái</a> <tv>xe máy</tv> <sp>chạy nhanh quá mức cho phép</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
@@ -391,12 +406,12 @@
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>chạy tốc độ thấp gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>chạy tốc độ thấp gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>chạy quá chậm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>chạy quá chậm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -556,12 +571,12 @@
 		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -576,12 +591,12 @@
 		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> <if3>đội mũ bảo hiểm không cài quai</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>đội mũ bảo hiểm không cài quai</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <if3>không cài quai mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>không cài quai mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -606,7 +621,7 @@
 		<base>điểm l khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>chạy dưới tốc độ tối thiểu</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>chạy dưới tốc độ tối thiểu</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm m khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -621,17 +636,17 @@
 		<base>điểm n khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> <if3>sử dụng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>sử dụng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> <if3>sử dụng thiết bị âm thanh</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>sử dụng thiết bị âm thanh</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>đeo tai nghe</if3> khi lái <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>đeo tai nghe</if3> khi <a>lái</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -706,7 +721,7 @@
 		<base>điểm đ khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>gây tai nạn giao thông mà không dừng lại</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>gây tai nạn giao thông mà không dừng lại</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -716,7 +731,7 @@
 		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>gây tai nạn giao thông mà không giữ nguyên hiện trường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>gây tai nạn giao thông mà không giữ nguyên hiện trường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -726,7 +741,7 @@
 		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>gây tai nạn giao thông mà không tham gia cấp cứu người bị nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>gây tai nạn giao thông mà không tham gia cấp cứu người bị nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -736,7 +751,7 @@
 		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>không đi bên phải</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không đi bên phải</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -746,7 +761,7 @@
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>không đi đúng phần đường của mình</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không đi đúng phần đường của mình</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -756,7 +771,7 @@
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>đi</a> <l>trên hè phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>đi</a> <l>trên hè phố</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -766,7 +781,7 @@
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>vượt bên phải khi không được phép</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>vượt bên phải khi không được phép</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -776,12 +791,12 @@
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>vượt bên phải</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>vượt bên phải</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>đi vào khu vực cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>đi vào khu vực cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -791,7 +806,7 @@
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>đi ngược chiều</a> <l>đường một chiều</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>đi ngược chiều</a> <l>đường một chiều</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -801,7 +816,7 @@
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>đi ngược chiều khi có biển cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>đi ngược chiều khi có biển cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -811,7 +826,7 @@
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>kéo xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>kéo xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -821,7 +836,7 @@
 		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>đẩy xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>đẩy xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -831,7 +846,7 @@
 		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>bám xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>bám xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -911,7 +926,7 @@
 		<base>điểm l khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> quy định từ <v>10 km/h đến 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> quy định từ <v>10 km/h đến 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
@@ -921,7 +936,7 @@
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>xe máy</tv> vào <l>đường cao tốc</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>xe máy</tv> vào <l>đường cao tốc</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm b khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -941,7 +956,7 @@
 		<base>điểm c khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <l>trong hầm</l> đường bộ <a>không sử dụng đèn gần</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <l>trong hầm</l> đường bộ <a>không sử dụng đèn gần</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -951,7 +966,7 @@
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>vượt</a> <l>trong hầm</l> đường bộ <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>vượt</a> <l>trong hầm</l> đường bộ <a>không đúng nơi quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>500.000 đồng đến 1.000.000 đồng</answer>
 		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1031,22 +1046,22 @@
 		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 50 miligram đến 80amiligram trên 100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 50 miligram đến 80amiligram trên 100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> với <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> với <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>xe máy</tv> trong hơi thở có <ac>nồng độ cồn</ac> <v>vượt quá 0.25 miligram đến 0.4 miligram trên 1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>xe máy</tv> trong hơi thở có <ac>nồng độ cồn</ac> <v>vượt quá 0.25 miligram đến 0.4 miligram trên 1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>vượt quá 0.35 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>vượt quá 0.35 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1061,7 +1076,7 @@
 		<base>điểm a khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> không chú ý quan sát <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> không chú ý quan sát <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1076,12 +1091,12 @@
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>vượt xe khác gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>vượt xe khác gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>chuyển làn đường gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>chuyển làn đường gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1091,7 +1106,7 @@
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>gây tai nạn giao thông rồi bỏ trốn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>gây tai nạn giao thông rồi bỏ trốn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
 		<base>điểm c khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1111,52 +1126,87 @@
 		<base>điểm a khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người đi <tv>xe máy</tv> <if3>không chấp nhận yêu cầu kiểm tra chất ma túy</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>người <a>đi</a> <tv>xe máy</tv> <if3>không chấp nhận yêu cầu kiểm tra chất ma túy</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <if3>không chịu kiểm tra ma túy</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>không chịu kiểm tra ma túy</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người đi <tv>xe máy</tv> <if3>không chấp nhận yêu cầu kiểm tra nồng độ cồn</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>người <a>đi</a> <tv>xe máy</tv> <if3>không chấp nhận yêu cầu kiểm tra nồng độ cồn</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <if3>không chịu kiểm tra nồng độ cồn</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>không chịu kiểm tra nồng độ cồn</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 80miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>xe máy</tv> <if3>uống rượu say</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>uống rượu say</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người đi <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 0.4 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <if3>uống rượu say</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái đi <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>0.5 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>xe máy</tv> mà <if3>say rượu</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> khi đang đi <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> mà <if3>say rượu</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>điều khiển</a> <tv>xe máy</tv> mà <if3>say rượu</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người <a>đi</a> <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 80miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người <a>đi</a> <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 80miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <a>đi</a> <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>90miligram/100 mililít máu</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người <a>đi</a> <tv>xe máy</tv> trong máu có <ac>nồng độ cồn</ac> <v>vượt quá 0.4 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <a>đi</a> <tv>xe máy</tv> có <ac>nồng độ cồn</ac> <v>0.5 miligram/1 lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0.25 miligam đến 0.4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng _ Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0.4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông cả 2 tay</if3> khi đang <a>đi</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <if3>bỏ cả 2 tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>bỏ cả 2 tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1396,22 +1446,22 @@
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> mà trong người <if3>có chất ma túy</if3> thì <qt>bị phạt thế nào</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> mà trong người <if3>có chất ma túy</if3> thì <qt>bị phạt thế nào</qt></question>
 		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng hoặc phạt từ 16 đến 18 triệu đồng</answer>
 		<base>khoản 11 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> mà trong người <if3>có chất ma túy</if3> thì <qt>bị phạt thế nào</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> mà trong người <if3>có chất ma túy</if3> thì <qt>bị phạt thế nào</qt></question>
 		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng hoặc phạt từ 16 đến 18 triệu đồng</answer>
 		<base>khoản 11 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>người điều khiển <tv>xe máy</tv> mà <if3>trong người có chất ma túy không mang bằng lái</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> mà <if3>trong người có chất ma túy không mang bằng lái</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 11 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> mà <if3>trong người có chất ma túy và không mang bằng lái</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> mà <if3>trong người có chất ma túy và không mang bằng lái</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>khoản 11 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1436,7 +1486,7 @@
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không nhường cho người khuyết tật khi rẽ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không nhường cho người khuyết tật khi rẽ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1481,7 +1531,7 @@
 		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái <tv>xe máy</tv> <a>không tuân thủ các quy tắc nhường đường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không tuân thủ các quy tắc nhường đường</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm i khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1516,7 +1566,7 @@
 		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>không</a> điều khiển <tv>xe máy</tv> <a>nhường đường cho xe xin vượt</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>không</a> <a>điều khiển</a> <tv>xe máy</tv> <a>nhường đường cho xe xin vượt</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1531,7 +1581,7 @@
 		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển <tv>xe máy</tv> <a>tránh xe khác không đúng quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>tránh xe khác không đúng quy định</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1706,17 +1756,17 @@
 		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>xe máy</tv> <if3>không mang</if3> <dl>giấy phép lái xe</dl> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>xe máy</tv> <if3>không mang</if3> <dl>giấy phép lái xe</dl> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 120.000 đồng</answer>
 		<base>điểm a khoản 2 điều 21 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>mô tô</tv> <if3>không mang</if3> <dl>giấy phép lái xe</dl> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>mô tô</tv> <if3>không mang</if3> <dl>giấy phép lái xe</dl> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 120.000 đồng</answer>
 		<base>điểm a khoản 2 điều 21 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>đi <tv>xe gắn máy</tv> <if3>không mang</if3> <dl>giấy phép lái xe</dl> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>xe gắn máy</tv> <if3>không mang</if3> <dl>giấy phép lái xe</dl> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 120.000 đồng</answer>
 		<base>điểm a khoản 2 điều 21 nghị định 46-2016</base>
 	</test>
