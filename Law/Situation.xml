@@ -69,7 +69,7 @@
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <qt>loại xe cơ giới nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>50 km/h</v></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <qt>loại xe cơ giới nào</qt> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> là <v>50 km/h</v></question>
 		<answer>ô tô chở người đến 30 chỗ ngồi, ô tô tải có trọng tải dưới 3.500 kg.</answer>
 	</test>
 	<test>
@@ -257,7 +257,7 @@
 		<answer>bảo vê hiện trường, giúp đỡ, cứu chữa kịp thời người bị nạn, bảo vệ tài sản của người bị nạn. báo tin ngay cho cơ quan công an, y tế hoặc ủy ban nhân dân nơi gần nhất; cung cấp thông tin xác thực về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.</answer>
 	</test>
 	<test>
-		<question>người lái xe phải <a>giảm tốc độ đến mức không gây nguy hiểm</a> có thể dừng lại một cách an toàn <qt>trong trường hợp nào</qt></question>
+		<question>người lái xe phải <sp>giảm tốc độ</sp> <if4>đến mức không gây nguy hiểm</if4> có thể dừng lại một cách an toàn <qt>trong trường hợp nào</qt></question>
 		<answer>khi có biển báo hiệu hạn chế tốc độ hoặc có chướng ngại vật; khi tầm nhìn bị hạn chế; khi qua nơi đường giao nhau, nơi đường bộ giao nhau với đường sắt, đường vòng, đoạn đường gồ ghề, trơn trượt, cát bụi. khi qua cầu, cống hẹp; khi lên gần đỉnh dốc, khi xuống dốc, khi qua trường học, nơi tập trung đống người, nơi đông dân, có nhà cửa gần đường.</answer>
 	</test>
 	<test>
@@ -364,7 +364,7 @@
 		<answer>không được nhìn xuống buồng lái, cần phải giảm thứ tự từ cao đến thấp, phối hợp các động tác phải nhịp nhàng, chính xác, vù ga phải phù hợp với tốc độ.</answer>
 	</test>
 	<test>
-		<question>để <a>giảm tốc độ</a> khi <tv>ô tô</tv> <a>đi xuống đường dốc dài</a> người lái xe phải <qt>thực hiện các thao tác nào</qt></question>
+		<question>để <sp>giảm tốc độ</sp> khi <tv>ô tô</tv> <a>đi xuống đường dốc dài</a> người lái xe phải <qt>thực hiện các thao tác nào</qt></question>
 		<answer>nhả bàn đạp ga, về số thấp, đạp phanh chân với mức độ phù hợp để giảm tốc độ.</answer>
 	</test>
 	<test>
@@ -656,7 +656,7 @@
 		<answer>người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt</answer>
 	</test>
 	<test>
-		<question><if4>khi có xe phía sau xin vượt</if4> thì <tv>xe phía trước</tv> <qt>có phải</qt> <a>giảm tốc độ</a> <qt>không</qt></question>
+		<question><if4>khi có xe phía sau xin vượt</if4> thì <tv>xe phía trước</tv> <qt>có phải</qt> <sp>giảm tốc độ</sp> <qt>không</qt></question>
 		<answer>có</answer>
 	</test>
 	<test>

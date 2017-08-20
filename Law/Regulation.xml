@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> <qt>là bao nhiêu</qt></question>
 	 	<answer>50 km/h.</answer>
 		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 		<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> <qt>là bao nhiêu</qt></question>
 	 	<answer>50 km/h.</answer>
 		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
@@ -89,7 +89,7 @@
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
-		<question>hành vi <a>điều khiển</a> <tv>xe cơ giới</tv> <a>chạy quá tốc độ</a> quy định <qt>có bị nghiêm cấm hay không</qt></question>
+		<question>hành vi <a>điều khiển</a> <tv>xe cơ giới</tv> <sp>chạy quá tốc độ</sp> quy định <qt>có bị nghiêm cấm hay không</qt></question>
 		<answer>bị nghiêm cấm.</answer>
 	</test>
 	<test>
@@ -177,17 +177,17 @@
 		<answer>không được phép.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> <qt>là bao nhiêu</qt></question>
 		<answer>50 km/h.</answer>
 		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> <qt>là bao nhiêu</qt></question>
 		<answer>50 km/h.</answer>
 		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>40 km/h</v></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> là <v>40 km/h</v></question>
 		<answer>ô tô chở người trên 30 chỗ ngồi, ô tô tải có trọng tải từ 3500 kg trở lên, ô tô sơ mi rơ moóc, ô tô kéo rơ moóc, ô tô kéo xe khác, ô tô chuyên dùng, xe mô tô, xe gắn máy.</answer>
 	</test>
 	<test>
@@ -203,11 +203,11 @@
 		<answer>nhóm biển báo cấm để biểu thị các điều cấm; nhóm biển báo hiệu nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra; nhóm biển hiệu lệnh để báo hiệu các hiệu lệnh phải thi hành. nhóm biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết; nhóm biển phụ để thuyết minh bổ sung các loại biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>50 km/h</v></question>
+		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> là <v>50 km/h</v></question>
 		<answer>ô tô kéo rơ moóc, ô tô kéo xe khác, xe gắn máy.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>60 km/h</v></question>
+		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> là <v>60 km/h</v></question>
 		<answer>ô tô buýt, ô tô sơ-mi rơ-moóc, ô tô chuyên dùng.</answer>
 	</test>
 	<test>
@@ -231,7 +231,7 @@
 		<answer>thu cước, phí vận tải. từ chối vận chuyển trước khi phương tiện rời bến, rời vị trí đón, trả khách theo hợp đồng vận chuyển nhưng người đã có vé hoặc người trong danh sách hợp đồng có hành vi gây rối trật tự công cộng, gây cản trở cồng việc kinh doanh vận tải, ảnh hưởng đến sức khỏe, tài sản của người khác, gian lận vé hoặc hành khách đang bị dịch bệnh nguy hiểm.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>70 km/h</v></question>
+		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> là <v>70 km/h</v></question>
 		<answer>ô tô chở người trên 30 chỗ ngồi (trừ ô tô buýt), ô tô tải có trọng tải từ 3.500 kg trở lên.</answer>
 	</test>
 	<test>
@@ -251,7 +251,7 @@
 		<answer>chỉ được dừng xe, đỗ xe ở nơi quy định, trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa</sp> cho phép là <v>80 km/h</v></question>
+		<question>trên đường bộ <l>ngoài khu vực đông dân cư</l> <qt>loại xe nào</qt> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> là <v>80 km/h</v></question>
 		<answer>ô tô chở người đến 30 chỗ ngồi (trừ ô tô buýt), ô tô tải có trọng tải dưới 3.500 kg.</answer>
 	</test>
 	<test>
@@ -799,11 +799,11 @@
 		<answer>không được xếp hàng hóa vượt phía trước và phía sau quá 1/3 chiều dài thân xe và không quá 1,0 mét; không được vượt quá 0.4 mét về mỗi bên bánh xe</answer>
 	</test>
 	<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> <tv>xe gắn máy</tv> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> <qt>là bao nhiêu</qt></question>
 	 	<answer>40 km/h.</answer>
 	</test>
 		<test>
-		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt></question>
+		<question>trên đường bộ <l>trong khu vực đông dân cư</l> xe <tv>mô tô 2 bánh</tv> tham gia giao thông với <sp>tốc độ tối đa cho phép</sp> <qt>là bao nhiêu</qt></question>
 	 	<answer>40 km/h.</answer>
 	</test>
 	<test>

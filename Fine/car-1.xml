@@ -211,17 +211,17 @@
 		<base>điểm c khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>đi</a> <tv>ô tô</tv> <a>không giảm tốc độ</a> khi <a>chạy từ ngõ ra</a> thì <qt>bị phạt bao nhiêu</qt></question>
+		<question><a>đi</a> <tv>ô tô</tv> <sp>không giảm tốc độ</sp> <if4>khi chạy từ ngõ ra</if4> thì <qt>bị phạt bao nhiêu</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm d khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>chạy nhanh từ ngõ ra</a> thì <qt>bị phạt bao nhiêu</qt></question>
+		<question><tv>ô tô</tv> <a>chạy nhanh</a>  <if4>từ ngõ ra</if4> thì <qt>bị phạt bao nhiêu</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm d khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>đi</a> <tv>ô tô</tv> <a>không giảm tốc độ khi chạy từ đường nhánh ra</a> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>đi</a> <tv>ô tô</tv> <sp>không giảm tốc độ</sp> <if4>khi chạy từ đường nhánh ra</if4> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm d khoản 2 điều 5 nghị định 46-2016</base>
 	</test>
@@ -706,7 +706,7 @@
 		<base>điểm b khoản 3 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>chuyển hướng không giảm tốc độ</a> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>ô tô</tv> <a>chuyển hướng</a> <sp>không giảm tốc độ</sp> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>600.000 đồng đến 800.000 đồng</answer>
 		<base>điểm c khoản 3 điều 5 nghị định 46-2016</base>
 	</test>
@@ -1096,7 +1096,7 @@
 		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển xe <tv>ô tô</tv> <a>chạy dưới tốc độ tối thiểu</a> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> xe <tv>ô tô</tv> <sp>chạy dưới tốc độ tối thiểu</sp> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>800.000 đồng đến 1.200.000 đồng</answer>
 		<base>điểm d khoản 4 điều 5 nghị định 46-2016</base>
 	</test>
@@ -1521,7 +1521,7 @@
 		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển xe <tv>ô tô</tv> <a>chạy quá tốc độ gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>điều khiển xe <tv>ô tô</tv> <sp>chạy quá tốc độ</sp> <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
@@ -1626,7 +1626,7 @@
 		<base>khoản 10 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>điều khiển xe <tv>ô tô</tv> <sp>chạy quá tốc độ</sp> quy định <v>35 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>điều khiển xe <tv>ô tô</tv> <sp>chạy quá tốc độ quy định</sp> <v>35 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm a khoản 3 điều 5 nghị định 46-2016 _ điểm đ khoản 6 điều 5 nghị định 46-2016 _ điểm a khoản 7 điều 5 nghị định 46-2016 _ điểm đ khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
@@ -1831,7 +1831,7 @@
 		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question>lái xe <tv>ô tô</tv> <a>quá tốc độ quy định gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>lái xe <tv>ô tô</tv> <sp>quá tốc độ quy định</sp> <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
 		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
 	</test>

@@ -341,12 +341,12 @@
 		<base>điểm a khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không giảm tốc độ khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>không giảm tốc độ</sp> <if4>khi đi từ trong ngõ ra</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>xe máy</tv> <a>từ trong ngõ ra mà không giảm tốc độ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>chạy</a> <tv>xe máy</tv> <if4>từ trong ngõ ra</if4> mà <sp>không giảm tốc độ</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -371,12 +371,12 @@
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không giảm tốc độ khi đi từ đường nhánh ra đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>không giảm tốc độ</sp> <if4>khi đi từ đường nhánh ra đường chính</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>không giảm tốc độ khi đi từ đường nhánh</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <sp>không giảm tốc độ</sp> <if4>khi đi từ đường nhánh</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -406,7 +406,7 @@
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <a>chạy tốc độ thấp gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy tốc độ thấp</sp> <a>gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -621,7 +621,7 @@
 		<base>điểm l khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <a>chạy dưới tốc độ tối thiểu</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy dưới tốc độ tối thiểu</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm m khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -651,12 +651,12 @@
 		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>chuyển hướng không giảm tốc độ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>chuyển hướng</a> <sp>không giảm tốc độ</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm a khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>rẽ mà không giảm tốc độ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>rẽ</a> mà <sp>không giảm tốc độ</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm a khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1086,7 +1086,7 @@
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>chạy</a> <tv>xe máy</tv> <a>quá tốc độ quy định gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><sp>chạy</sp> <tv>xe máy</tv> <sp>quá tốc độ quy định</sp> <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1286,12 +1286,12 @@
 		<base>điểm c khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>chạy quá tốc độ quy định thành nhóm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> <if4>thành nhóm</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm d khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if4>một nhóm</if4> <tv>xe máy</tv> <a>chạy quá tốc độ</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if4>một nhóm</if4> <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm d khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1371,12 +1371,12 @@
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>chạy quá tốc độ quy định thành nhóm gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> <if4>thành nhóm</if4> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if4>một nhóm</if4> <tv>xe máy</tv> <a>chạy quá tốc độ gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if4>một nhóm</if4> <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1441,7 +1441,7 @@
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>chạy quá tốc độ quy định thành nhóm không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> <if4>thành nhóm</if4> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1646,22 +1646,22 @@
 		<base>điểm a khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>không giảm tốc độ</a> <tv>xe máy</tv> <a>khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><sp>không giảm tốc độ</sp> <tv>xe máy</tv> <if4>khi đi từ trong ngõ ra</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>không nhường đường khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>không nhường đường</a> <if4>khi đi từ trong ngõ ra</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>không nhường đường khi đi từ đường nhánh ra</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>không nhường đường</a> <if4>khi đi từ đường nhánh ra</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>không giảm tốc độ</a> <tv>xe máy</tv> <a>khi đi từ đường nhánh ra đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><sp>không giảm tốc độ</sp> <tv>xe máy</tv> <if4>khi đi từ đường nhánh ra đường chính</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
