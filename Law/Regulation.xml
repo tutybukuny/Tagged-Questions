@@ -906,6 +906,21 @@
 		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
+		<question><sp>tốc độ tối đa</sp> của <tv>xe máy</tv> khi đi <l>ngoài khu vực đông dân cư</l> <qt>là bao nhiêu</qt></question>
+		<answer>Đối với xe máy chuyên dùng, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự khi tham gia giao thông thì tốc độ tối đa được xác định theo báo hiệu đường bộ và không quá 40 km/h.</answer>
+		<base>điều 8 thông tư số: 91/2015/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><sp>tốc độ tối đa</sp> của <tv>xe máy</tv> khi đi <l>trên đường cao tốc</l> <qt>là bao nhiêu</qt></question>
+		<answer>Khi tham gia giao thông trên đường cao tốc, người điều khiển xe cơ giới, xe máy chuyên dùng phải tuân thủ tốc độ tối đa, tốc độ tối thiểu ghi trên biển báo hiệu đường bộ. _ Tốc độ tối đa cho phép khai thác trên đường cao tốc không vượt quá 120 km/h.</answer>
+		<base>điều 9 thông tư số: 91/2015/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><sp>tốc độ tối đa</sp> của <tv>ô tô</tv> khi đi <l>trên đường cao tốc</l> <qt>là bao nhiêu</qt></question>
+		<answer>Khi tham gia giao thông trên đường cao tốc, người điều khiển xe cơ giới, xe máy chuyên dùng phải tuân thủ tốc độ tối đa, tốc độ tối thiểu ghi trên biển báo hiệu đường bộ. _ Tốc độ tối đa cho phép khai thác trên đường cao tốc không vượt quá 120 km/h.</answer>
+		<base>điều 9 thông tư số: 91/2015/TT-BGTVT</base>
+	</test>
+	<test>
 		<question><tv>xe máy</tv> khi đi <l>trên đường phố</l> có <sp>tốc độ</sp> <v>80 km/h</v><qt>có bị phạt không</qt></question>
 		<answer>Trong khu vực đông dân cư _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
 		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
