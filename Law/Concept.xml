@@ -366,16 +366,14 @@
 		<base>khoản 24 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>khi <ano>sơ cứu ban đầu cho người bị tai nạn giao thông</ano> đường bộ không còn hô hấp người lái xe và người <if3>có mặt tại hiện trường vụ tai nạn</if3> <qt>phải thực hiện các công việc gì</qt></question>
-		<answer>đặt nạn nhân nằm ngửa, khai thông đường thở của nạn nhân. thực hiện các biện pháp hô hấp nhân tạo; thực hiện các biện pháp xoa bóp tim.</answer>
-	</test>
-		<test>
 		<question>trong <ano>hoạt động vận tải đường bộ</ano> <qt>các hành vi nào</qt> sau đây <qt>bị nghiêm cấm</qt></question>
 		<answer>vận chuyển hàng cấm lưu thông. vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định về vận chuyển hàng nguy hiểm, động vật hoang dã.</answer>
+		<base>khoản 1 điều 64 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>khái niệm</qt> <ano>công trình đường bộ</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu. rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra trọng tải xe, trạm thu phí và các công trình, thiết bị phụ trợ khác.</answer>
+		<base>khoản 2 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 		<test>
 		<question><ano>dải phân cách trên đường bộ</ano> <qt>có những loại nào</qt></question>
@@ -387,79 +385,71 @@
 		<answer>không quá 10 giờ và không được lái xe liên tục quá 4 giờ.</answer>
 		<base>khoản 1 điều 65 theo Luật số: 23/2008/QH12</base>
 	</test>
-	<test>
-		<question><qt>khái niệm</qt> về <ano>văn hóa giao thông</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
-		<answer>là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông; là ý thức trách nhiệm với cộng đồng khi tham gia giao thông. là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.</answer>
-	</test>
 		<test>
 		<question>việc <ano>sản xuất</ano> <ano>mua bán</ano> <ano>sử dụng biển số xe cơ giới xe máy chuyên dùng</ano> được quy định <qt>như thế nào</qt> trong luật giao thông đường bộ</question>
 		<answer>nghiêm cấm sản xuất, mua bán, sử dụng trái phép.</answer>
-	</test>
-		<test>
-		<question><qt>hãy nêu</qt> <ano>yêu cầu của kính chắn gió</ano> <tv>ô tô</tv></question>
-		<answer>là loại c, kính nhiều lớp, đúng quy cách, không rạn nứt, đảm bảo hình ảnh quan sát rõ ràng, không bị méo mó.</answer>
+		<base>khoản 22 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>khái niệm</qt> <ano>đường phố</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
-	</test>
-	<test>
-		<question><qt>hãy nêu</qt> <ano>trách nhiệm cơ bản của các tổ chức trong việc quản lý giáo dục và nâng cao đạo đức nghề nghiệp</ano> của người lái xe</question>
-		<answer>tuyên truyền phổ biến các quy định của pháp luật đặc biệt là các quy định của luật giao thông đường bộ, các văn bản quản lý về vận tải để người lái xe biết và thực hiện; thường xuyên kiểm tra giám sát người lái xe thực hiện các nội quy, quy chế của đơn vị. hiểu tâm lý, nguyện vọng của người lái xe, động viên họ trong lúc khó khăn, thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động, quan tâm đến đời sống vật chất, tinh thần của họ, có chế độ thưởng phạt nghiêm minh giúp họ hoàn thành nhiệm vụ.</answer>
+		<base>khoản 9 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>khái niệm</qt> <ano>dải phân cách</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
-	</test>
-		<test>
-		<question><qt>hãy nêu</qt> <ano>yêu cầu về an toàn kỹ thuật đối với bánh xe lắp</ano> cho <tv>ô tô</tv></question>
-		<answer>đúng số lượng, đủ áp suất, đúng cỡ lốp của nhà sản xuất hoặc tài liệu kỹ thuật quy định, lốp bánh dẫn hướng hai bên cùng kiểu hoa lốp, chiều cao hoa lốp đồng đều, không sử dụng lốp đắp, lốp không mòn đến đầu chỉ báo độ mòn của nhà sản xuất, không nứt, vỡ, phồng rộp làm hở lớp sợi mành. vành, đĩa vành đúng kiểu loại, không rạn, nứt, cong vênh; bánh xe quay trơn, không bị bó kẹp hoặc cọ sát vào phần khác, moay ơ không bị rơ; lắp đặt chắc chắn, đủ các chi tiết kẹp chặt và phòng lỏng.</answer>
-	</test>
-		<test>
-		<question><qt>hãy nêu</qt> <ano>yêu cầu về an toàn kỹ thuật đối với bánh xe lắp</ano> cho <tv>ô tô</tv></question>
-		<answer>đúng số lượng, đủ áp suất, đúng cỡ lốp của nhà sản xuất hoặc tài liệu kỹ thuật quy định, lốp bánh dẫn hướng hai bên cùng kiểu hoa lốp, chiều cao hoa lốp đồng đều, không sử dụng lốp đắp, lốp không mòn đến đầu chỉ báo độ mòn của nhà sản xuất, không nứt, vỡ, phồng rộp làm hở lớp sợi mành. vành, đĩa vành đúng kiểu loại, không rạn, nứt, cong vênh; bánh xe quay trơn, không bị bó kẹp hoặc cọ sát vào phần khác, moay ơ không bị rơ; lắp đặt chắc chắn, đủ các chi tiết kẹp chặt và phòng lỏng.</answer>
-	</test>
-	<test>
-		<question><ano>âm lượng của còi điện</ano> lắp cho <tv>ô tô</tv> đo ở độ cao 1 2 m với khoảng cách 2 m tính từ đầu xe <qt>là bao nhiêu</qt></question>
-		<answer>không nhỏ hơn 90 db (a), không lớn hơn 115 db (a).</answer>
-	</test>
-		<test>
-		<question><ano>bảo đảm trật tự an toàn giao thông đường bộ</ano> <qt>là trách nhiệm của ai</qt></question>
-		<answer>là trách nhiệm của cơ quan, tổ chức, cá nhân.</answer>
+		<base>khoản 10 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 		<test>
 		<question><qt>khái niệm</qt> <ano>đường cao tốc</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.</answer>
-	</test>
-		<test>
-		<question>mục đích <ano>bảo dưỡng thường xuyên</ano> đối với <tv>ô tô</tv> <qt>có tác dụng gì</qt></question>
-		<answer>bảo dưỡng thường xuyên làm cho ô tô luôn luôn có tính năng kỹ thuật tốt, giảm cường độ hao mòn của các chi tiết. ngăn ngừa và phát hiện kịp thời các hư hỏng và sai lệch kỹ thuật để khắc phục, giữ gìn được hình thức bên ngoài.</answer>
+		<base>khoản 12 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 		<test>
 		<question><qt>khái niệm</qt> <ano>đường chính</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
 		<answer>đường chính là đường bảo đảm giao thông chủ yếu trong khu vực.</answer>
+		<base>khoản 13 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 		<test>
 		<question><ano>vạch kẻ đường</ano> <qt>được hiểu thế nào</qt> là đúng</question>
 		<answer>vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại. vạch kẻ đường là vạch chỉ sự phân biệt vị trí dừng, đỗ trên đường.</answer>
-	</test>
-		<test>
-		<question><qt>hãy nêu</qt> <ano>yêu cầu an toàn về kỹ thuật với dây đai an toàn lắp trên</ano> <tv>ô tô</tv></question>
-		<answer>đủ số lượng, lắp đặt chắc chắn không bị rách, đứt, khoá cài đóng mở nhẹ nhàng, không tự mở, không bị kẹt; kéo ra thu vào dễ dàng, cơ cấu hãm giữ chặt dây khi giật dây đột ngột.</answer>
-	</test>
-		<test>
-		<question><qt>hãy nêu</qt> <ano>yêu cầu an toàn về kỹ thuật với gạt nước lắp trên</ano> <tv>ô tô</tv></question>
-		<answer>đầy đủ số lượng, lắp đặt chắc chắn, hoạt động bình thường. lưỡi gạt không quá mòn, diện tích quét đảm bảo tầm nhìn của người lái.</answer>
-	</test>
-		<test>
-		<question><ano>vận tải đa phương thức</ano> <qt>được hiểu như thế nào</qt> là đúng</question>
-		<answer>là việc vận chuyển hàng hóa từ địa điểm nhận hàng đến địa điểm trả hàng cho người nhận hàng bằng ít nhất hai phương thức vận tải, trong đó có phương thức vận tải bằng đường bộ trên cơ sở một hợp đồng vận tải đa phương thức.</answer>
+		<base>khoản 5 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 		<test>
 		<question><ano>đường bộ</ano> <l>trong khu vực đông dân cư</l> <qt>gồm những đường nào</qt></question>
 		<answer>đường bộ nằm trong khu vực nội thành phố, nội thị xã và những đoạn đường bộ được xác định từ vị trí có hiệu lực của biển báo hiệu bắt đầu khu đông dân cư đến vị trí có hiệu lực của biển báo hiệu hết khu đông dân cư.</answer>
+		<base>khoản 1 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>		
+		<test>
+		<question><ano>phương tiện giao thông đường bộ</ano> <qt>gồm những loại nào</qt></question>
+		<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
+		<base>khoản 17 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>dừng xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
+		<answer>dừng xe là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.</answer>
+		<base>khoản 1 điều 18 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khái niệm</qt> <ano>đỗ xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
+		<answer>là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.</answer>
+		<base>khoản 2 điều 18 theo Luật số: 23/2008/QH12</base>
+	</test>	
+	<test>
+		<question><qt>khái niệm</qt> <ano>phương tiện giao thông thô sơ đường bộ</ano> <qt>được hiểu thế nào</qt> là đúng</question>
+		<answer>Phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ) gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.</answer>
+		<base>khoản 19 điều 3 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tp>người tham gia giao thông đường bộ</tp> gồm <qt>những đối tượng nào</qt></question>
+		<answer>người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ. người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.</answer>
+		<base>khoản 17 điều 3 theo Luật số: 23/2008/QH12</base>
 	</test>
 		<test>
+		<question><ano>niên hạn sử dụng</ano> của <tv>ô tô</tv> <if1>chở người trên 9 chỗ ngồi</if1> tính từ năm bắt đầu sản xuất là <qt>bao nhiêu năm</qt></question>
+		<answer>20 năm.</answer>
+	</test>
+	<test>
 		<question><ano>niên hạn sử dụng</ano> của <tv>ô tô tải</tv> tính từ năm bắt đầu sản xuất là <qt>bao nhiêu năm</qt></question>
 		<answer>25 năm.</answer>
 	</test>
@@ -480,10 +470,6 @@
 		<answer>là hàng có kích thước hoặc trọng lượng vượt quá giới hạn quy định nhưng không thể tháo rời ra được.</answer>
 	</test>
 		<test>
-		<question><if4>ban đêm</if4> <tv>xe cơ giới</tv> đi ngược chiều gặp nhau <if1>đèn chiếu sáng</if1> phải được <qt> sử dụng như thế nào</qt></question>
-		<answer>phải chuyển từ đèn chiếu xa sang đèn chiếu gần.</answer>
-	</test>
-		<test>
 		<question><qt>hãy nêu</qt> <ano>công dụng của động cơ</ano> <tv>ô tô</tv></question>
 		<answer>khi làm việc, nhiệt năng được biến đổi thành cơ năng và truyền đến các bánh xe chủ động tạo ra chuyển động tịnh tiến cho ô tô.</answer>
 	</test>
@@ -492,15 +478,7 @@
 		<answer>dùng để truyền mô-men quay từ động cơ tới các bánh xe chủ động.</answer>
 	</test>
 		<test>
-		<question><ano>phương tiện giao thông đường bộ</ano> <qt>gồm những loại nào</qt></question>
-		<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
-	</test>
-		<test>
-		<question><ano>niên hạn sử dụng</ano> của <tv>ô tô</tv> <if1>chở người trên 9 chỗ ngồi</if1> tính từ năm bắt đầu sản xuất là <qt>bao nhiêu năm</qt></question>
-		<answer>20 năm.</answer>
-	</test>
-		<test>
-		<question><qt>hãy nêu</qt> <ano>công dụng ly hợp</ano> của <tv>ô tô</tv></question>
+		<question><qt>hãy nêu</qt> <ano>công dụng li hợp</ano> của <tv>ô tô</tv></question>
 		<answer>dùng để truyền hoặc ngắt truyền động từ động cơ đến hộp số của ô tô trong những trường hợp cần thiết.</answer>
 	</test>
 	<test>
@@ -540,12 +518,8 @@
 		<answer>Ủy ban nhân dân cấp tỉnh.</answer>
 	</test>
 	<test>
-		<question><qt>khái niệm</qt> <ano>dừng xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
-		<answer>dừng xe là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.</answer>
-	</test>
-	<test>
-		<question><qt>khái niệm</qt> <ano>đỗ xe</ano> <qt>được hiểu như thế nào</qt> là đúng quy tắc giao thông</question>
-		<answer>là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.</answer>
+		<question><qt>hãy nêu</qt> <ano>công dụng hệ thống phanh</ano> của <tv>ô tô</tv></question>
+		<answer>dùng để giảm tốc độ, dừng chuyển động của ô tô và giữ cho ô tô đứng yên trên dốc.</answer>
 	</test>
 		<test>
 		<question><qt>khái niệm</qt> <ano>xe quá tải trọng</ano> của đường bộ <qt>được hiểu như thế nào</qt> là đúng</question>
@@ -567,16 +541,12 @@
 		<question>khi <if3>lái xe trên đường vắng mà cảm thấy buồn ngủ</if3> người lái xe nên chọn <ano>cách xử lý</ano> <qt>như thế nào cho phù hợp</qt></question>
 		<answer>dừng xe và nghỉ cho đến khi hết buồn ngủ.</answer>
 	</test>
-		<test>
-		<question><qt>khái niệm</qt> <ano>phương tiện giao thông thô sơ đường bộ</ano> <qt>được hiểu thế nào</qt> là đúng</question>
-		<answer>gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.</answer>
+	<test>
+		<question><ano>quy định chở hàng</ano> của <tv>xe máy</tv> là <qt>như thế nào</qt></question>
+		<answer>không được xếp hàng hóa, hành lý vượt quá bề rộng giá đèo hàng theo thiết kế của nhà sản xuất về mỗi bên 0.3 mét, vượt quá phía sau giá đèo hàng là 0.5 mét. chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 1,5 mét</answer>
 	</test>
 	<test>
-		<question><qt>hãy nêu</qt> <ano>công dụng hệ thống phanh</ano> của <tv>ô tô</tv></question>
-		<answer>dùng để giảm tốc độ, dừng chuyển động của ô tô và giữ cho ô tô đứng yên trên dốc.</answer>
-	</test>
-	<test>
-		<question><tp>người tham gia giao thông đường bộ</tp> gồm <qt>những đối tượng nào</qt></question>
-		<answer>người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ. người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.</answer>
+		<question><ano>quy định chở hàng</ano> của <tv>xe thô sơ</tv> là <qt>như thế nào</qt></question>
+		<answer>không được xếp hàng hóa vượt phía trước và phía sau quá 1/3 chiều dài thân xe và không quá 1,0 mét; không được vượt quá 0.4 mét về mỗi bên bánh xe</answer>
 	</test>
 </root>

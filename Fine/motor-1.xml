@@ -6,9 +6,24 @@
 		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
+		<question><a>lái</a> <tv>xe máy</tv> <a>vượt khi không có báo hiệu xin vượt</a> thj <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
 		<question><tv>xe máy</tv> <a>vượt mà không báo hiệu</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>vượt mà không báo hiệu</a> thi <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lái</a> <tv>xe máy</tv> <a>không giữ khoảng cách an toàn</a> thj <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
 		<question><a>lái</a> <tv>xe máy</tv> <a>không giữ khoảng cách an toàn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
@@ -17,6 +32,11 @@
 	</test>
 	<test>
 		<question><tv>xe máy</tv> <a>chạy quá gần xe trước</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>chạy quá gần xe trước</a> thj <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>60.000 đồng đến 80.000 đồng</answer>
 		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
 	</test>
