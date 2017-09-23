@@ -537,10 +537,6 @@
 		<question>việc <ano>sát hạch cấp giấy phép lái xe</ano> <tv>ô tô</tv> phải <qt>thực hiện như thế nào</qt></question>
 		<answer>tại các trung tâm sát hạch lái xe có đủ điều kiện và phải bảo đảm công khai, minh bạch.</answer>
 	</test>
-		<test>
-		<question>khi <if3>lái xe trên đường vắng mà cảm thấy buồn ngủ</if3> người lái xe nên chọn <ano>cách xử lý</ano> <qt>như thế nào cho phù hợp</qt></question>
-		<answer>dừng xe và nghỉ cho đến khi hết buồn ngủ.</answer>
-	</test>
 	<test>
 		<question><ano>quy định chở hàng</ano> của <tv>xe máy</tv> là <qt>như thế nào</qt></question>
 		<answer>không được xếp hàng hóa, hành lý vượt quá bề rộng giá đèo hàng theo thiết kế của nhà sản xuất về mỗi bên 0.3 mét, vượt quá phía sau giá đèo hàng là 0.5 mét. chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 1,5 mét</answer>

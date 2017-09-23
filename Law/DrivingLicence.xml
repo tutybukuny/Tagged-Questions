@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<test>
-		<question><qt>có cần</qt> <if3>mang theo giấy phép lái xe</if3> khi <a>đi xe</a> <qt>không</qt></question>
+		<question><qt>có cần</qt> mang theo <dl>giấy phép lái xe</dl> khi <a>đi xe</a> <qt>không</qt></question>
 		<answer>có</answer>
 		<base>khoản 1 điều 58 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -16,7 +16,7 @@
 		<base>khoản 1 điều 58 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><if3>chưa có giấy phép lái xe</if3> thì <qt>có được</qt> <a>đi xe</a> <qt>không</qt></question>
+		<question><if3>chưa có</if3> <dl>giấy phép lái xe</dl> thì <qt>có được</qt> <a>đi xe</a> <qt>không</qt></question>
 		<answer>không</answer>
 		<base>khoản 1 điều 58 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -887,22 +887,22 @@
 	<test>
 		<question><ano>giấy tờ cần thiết</ano> khi đi <if3>thi bằng lái xe</if3> <qt>là gì</qt></question>
 		<answer>Đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; _ Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài; _ Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài; _ Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định.</answer>
-		<base>khoản 1 điều 9 thông tư số 12/2017/TT-BGTVT<base>
+		<base>khoản 1 điều 9 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>đi thi <a>nâng hạng bằng</a> thì <qt>hồ sơ cần những gì</qt></question>
 		<answer>Đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; _ Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài; _ Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài; _ Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định. _ Bản khai thời gian hành nghề và số km lái xe an toàn theo mẫu quy định; _ Bản sao bằng tốt nghiệp trung học cơ sở hoặc bằng cấp tương đương trở lên đối với trường hợp nâng hạng giấy phép lái xe lên các hạng D, E (xuất trình bản chính khi kiểm tra hồ sơ dự sát hạch); _  Bản sao giấy phép lái xe (xuất trình bản chính khi dự sát hạch).</answer>
-		<base>khoản 2 điều 9 thông tư số 12/2017/TT-BGTVT<base>
+		<base>khoản 2 điều 9 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><ano>giấy tờ cần thiết</ano> khj đi <if3>thi bằng lái xe</if3> <qt>là gì</qt></question>
 		<answer>Đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; _ Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài; _ Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài; _ Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định.</answer>
-		<base>khoản 1 điều 9 thông tư số 12/2017/TT-BGTVT<base>
+		<base>khoản 1 điều 9 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question>đj thj <a>nâng hạng bằng</a> thì <qt>hồ sơ cần những gì</qt></question>
 		<answer>Đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; _ Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài; _ Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài; _ Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định. _ Bản khai thời gian hành nghề và số km lái xe an toàn theo mẫu quy định; _ Bản sao bằng tốt nghiệp trung học cơ sở hoặc bằng cấp tương đương trở lên đối với trường hợp nâng hạng giấy phép lái xe lên các hạng D, E (xuất trình bản chính khi kiểm tra hồ sơ dự sát hạch); _  Bản sao giấy phép lái xe (xuất trình bản chính khi dự sát hạch).</answer>
-		<base>khoản 2 điều 9 thông tư số 12/2017/TT-BGTVT<base>
+		<base>khoản 2 điều 9 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
 		<question><dl>giấy phép lái xe hạng a1</dl> cấp cho người lái <qt>xe loại gì</qt></question>
@@ -1615,7 +1615,7 @@
 		<base>khoản 4 điều 17 thông tư số 12/2017/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><qt>có cần</qt> <if3>mang theo giấy phép lái xe</if3> khj <a>đi xe</a> <qt>không</qt></question>
+		<question><qt>có cần</qt> mang theo <dl>giấy phép lái xe</dl> khj <a>đi xe</a> <qt>không</qt></question>
 		<answer>có</answer>
 		<base>khoản 1 điều 58 theo Luật số: 23/2008/QH12</base>
 	</test>

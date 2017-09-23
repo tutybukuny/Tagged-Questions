@@ -401,32 +401,32 @@
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> từ <v>5 km/h đến dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> chạy <sp> quá tốc độ quy định</sp> từ <v>5 km/h đến dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> chạy <sp> quá tốc độ quy định</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy nhanh quá mức cho phép</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> chạy <sp> nhanh quá mức cho phép</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>lái</a> <tv>xe máy</tv> <sp>chạy nhanh quá mức cho phép</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>lái</a> <tv>xe máy</tv> chạy <sp> nhanh quá mức cho phép</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>6 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> chạy <sp> quá tốc độ</sp> <v>6 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy tốc độ thấp</sp> <a>gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> chạy <sp> tốc độ thấp</sp> <a>gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -641,7 +641,7 @@
 		<base>điểm l khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy dưới tốc độ tối thiểu</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> chạy <sp> dưới tốc độ tối thiểu</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm m khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -946,12 +946,12 @@
 		<base>điểm l khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> quy định từ <v>10 km/h đến 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> chạy <sp> quá tốc độ</sp> quy định từ <v>10 km/h đến 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>15 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> chạy <sp> quá tốc độ</sp> <v>15 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
@@ -1106,7 +1106,7 @@
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><sp>chạy</sp> <tv>xe máy</tv> <sp>quá tốc độ quy định</sp> <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>chạy  <tv>xe máy</tv> <sp>quá tốc độ quy định</sp> <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
 		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1136,12 +1136,12 @@
 		<base>điểm c khoản 7 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><sp>đi</sp> <tv>xe máy</tv> <sp>quá tốc độ</sp> quy định <v>trên 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question>đi <tv>xe máy</tv> <sp>quá tốc độ</sp> quy định <v>trên 20 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>25 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> chạy <sp>quá tốc độ</sp> <v>25 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm a khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1306,12 +1306,12 @@
 		<base>điểm c khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> <if4>thành nhóm</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> chạy <sp>quá tốc độ quy định</sp> <if4>thành nhóm</if4> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm d khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if4>một nhóm</if4> <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if4>một nhóm</if4> <tv>xe máy</tv> chạy <sp>quá tốc độ</sp> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm d khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1391,12 +1391,12 @@
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> <if4>thành nhóm</if4> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> chạy <sp>quá tốc độ quy định</sp> <if4>thành nhóm</if4> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if4>một nhóm</if4> <tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if4>một nhóm</if4> <tv>xe máy</tv> chạy <sp>quá tốc độ</sp> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1461,7 +1461,7 @@
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <sp>chạy quá tốc độ quy định</sp> <if4>thành nhóm</if4> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> chạy <sp>quá tốc độ quy định</sp> <if4>thành nhóm</if4> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1686,7 +1686,7 @@
 		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <sp>chạy quá tốc độ</sp> <v>dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> chạy <sp>quá tốc độ</sp> <v>dưới 10 km/h</v> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. _ Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
 		<base>điểm c khoản 3 điều 6 nghị định 46-2016 _ điểm a khoản 5 điều 5 nghị định 46-2016 _ điểm a khoản 8 điều 5 nghị định 46-2016</base>
 	</test>
