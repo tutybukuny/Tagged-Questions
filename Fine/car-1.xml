@@ -1096,6 +1096,11 @@
 		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
 	</test>
 	<test>
+		<question><a>đi</a> <tv>ô tô</tv> <l>lên vỉa hè</l> <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
 		<question><a>điều khiển</a> xe <tv>ô tô</tv> chạy <sp> dưới tốc độ tối thiểu</sp> <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>800.000 đồng đến 1.200.000 đồng</answer>
 		<base>điểm d khoản 4 điều 5 nghị định 46-2016</base>

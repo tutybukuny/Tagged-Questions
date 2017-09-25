@@ -661,7 +661,27 @@
 		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>dùng ô</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>che ô</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>dùng dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
 		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>sử dụng thiết bị âm thanh</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người <a>điều khiển</a> <tv>xe máy</tv> <if3>nghe nhạc</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>100.000 đồng đến 200.000 đồng</answer>
 		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
 	</test>
@@ -797,6 +817,11 @@
 	</test>
 	<test>
 		<question><tv>xe máy</tv> <a>đi</a> <l>trên vỉa hè</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>đi</a> <l>lên vỉa hè</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1221,12 +1246,42 @@
 		<base>khoản 6 điều 6 nghị định 46-2016 _ điểm c khoản 8 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> khi đang <a>đi</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông cả hai tay</if3> khi đang <a>đi</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>lái</a> <tv>xe máy</tv> <if3>bỏ cả 2 tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>bỏ cả hai tay</if3> khi đang <a>đi</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông hai tay</if3> khi đang <a>đi</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>bỏ hai tay</if3> khi đang <a>đi</a> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>bỏ cả hai tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>bỏ hai tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>buông cả hai tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lái</a> <tv>xe máy</tv> <if3>buông hai tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
 		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1316,12 +1371,42 @@
 		<base>điểm d khoản 9 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> khi đang đi  <tv>xe máy</tv> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông cả hai tay</if3> khi đang <a>đi</a>  <tv>xe máy</tv> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+		<test>
+		<question><if3>bỏ cả hai tay</if3> khi đang <a>đi</a>  <tv>xe máy</tv> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay lái</if3> <tv>xe máy</tv> xong <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông hai tay</if3> khi đang <a>đi</a>  <tv>xe máy</tv> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+		<test>
+		<question><if3>bỏ hai tay</if3> khi đang <a>đi</a>  <tv>xe máy</tv> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông cả hai tay</if3> <a>lái</a> <tv>xe máy</tv> xong <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>bỏ cả hai tay</if3> <a>lái</a> <tv>xe máy</tv> xong <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông hai tay</if3> <a>lái</a> <tv>xe máy</tv> xong <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>bỏ hai tay</if3> <a>lái</a> <tv>xe máy</tv> xong <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
@@ -1401,7 +1486,22 @@
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> khi đang đi  <tv>xe máy</tv> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông cả hai tay</if3> khi đang đi  <tv>xe máy</tv> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+		<test>
+		<question><if3>bỏ cả hai tay</if3> khi đang đi  <tv>xe máy</tv> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông hai tay</if3> khi đang đi  <tv>xe máy</tv> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+		<test>
+		<question><if3>bỏ hai tay</if3> khi đang đi  <tv>xe máy</tv> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
 		<base>khoản 10 điều 6 nghị định 46-2016</base>
 	</test>

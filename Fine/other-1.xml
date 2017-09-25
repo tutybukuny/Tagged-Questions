@@ -436,12 +436,42 @@
 		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> <a>lái</a> <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông cả hai tay</if3> <a>lái</a> <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> <a>lái</a> <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><if3>buông hai tay</if3> <a>lái</a> <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>bỏ cả hai tay</if3> <a>lái</a> <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>bỏ hai tay</if3> <a>lái</a> <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông cả hai tay</if3> <a>lái</a> <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông hai tay</if3> <a>lái</a> <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>bỏ cả hai tay</if3> <a>lái</a> <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>bỏ hai tay</if3> <a>lái</a> <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>80.000 đồng đến 100.000 đồng</answer>
 		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
 	</test>

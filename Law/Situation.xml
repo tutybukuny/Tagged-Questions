@@ -241,7 +241,22 @@
 		<base>khoản 8 điều 8 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><if3>buông cả 2 tay</if3> lúc <if3>lái xe</if3> <qt>có vi phạm luật giao thông không</qt></question>
+		<question><if3>buông cả hai tay</if3> lúc <a>lái</a> xe <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><if3>buông hai tay</if3> lúc <a>lái</a> xe <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><if3>bỏ cả hai tay</if3> lúc <a>lái</a> xe <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><if3>bỏ hai tay</if3> lúc <a>lái</a> xe <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -261,12 +276,22 @@
 		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm d khoản 4 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
+		<question>người ngồi đằng sau <tv>xe đạp</tv> <if3>đứng lên gác ba ga</if3> <qt>có bị vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm d khoản 4 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
 		<question>khi <a>đi</a> <tv>xe đạp</tv> có hành vi <if3>đứng lên yên xe</if3> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm d khoản 4 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question>người ngồi đằng sau <tv>xe đạp</tv> <if3>đứng lên giá đèo</if3> <qt>có bị vi phạm luật không</qt></question>
+		<answer>có</answer>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm d khoản 4 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question>người ngồi đằng sau <tv>xe đạp</tv> <if3>đứng lên gác ba ga</if3> <qt>có bị vi phạm luật không</qt></question>
 		<answer>có</answer>
 		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm d khoản 4 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -328,6 +353,16 @@
 	<test>
 		<question><if3>nghe nhạc</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
+		<base>điểm c khoản 3 điều 30 theo Luật số: 23/2008/QH12 </base>
+	</test>
+	<test>
+		<question><if3>dùng máy trợ thính</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>không</answer>
+		<base>điểm c khoản 3 điều 30 theo Luật số: 23/2008/QH12 </base>
+	</test>
+	<test>
+		<question><if3>đeo trợ thính</if3> lúc <a>đi</a> <tv>xe máy</tv> <qt>có vi phạm luật giao thông không</qt></question>
+		<answer>không</answer>
 		<base>điểm c khoản 3 điều 30 theo Luật số: 23/2008/QH12 </base>
 	</test>
 	<test>
@@ -578,12 +613,52 @@
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
+		<question><tv>xe máy</tv> gặp <tl>đèn đỏ</tl> thì <qt>phải làm gì</qt></question>
+		<answer>dừng lại</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> khi thấy <tl>đèn đỏ</tl> thì <qt>phải làm gì</qt></question>
+		<answer>dừng lại</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+		<test>
+		<question><tv>xe máy</tv> khi thấy <tl>đèn đỏ</tl> thì <qt>phải đi như thế nào</qt></question>
+		<answer>dừng lại</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> gặp <tl>đèn đỏ</tl> thì <qt>phải đi như thế nào</qt></question>
+		<answer>dừng lại</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
 		<question><tv>ô tô</tv> <a>vượt</a> <tl>đèn đỏ</tl> <qt>có bị phạt không</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
+		<question><tv>ô tô</tv> gặp <tl>đèn đỏ</tl> thì <qt>phải làm gì</qt></question>
+		<answer>dừng lại</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> khi thấy <tl>đèn đỏ</tl> <qt>phải đi như thế nào</qt></question>
+		<answer>dừng lại</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
 		<question><tv>xe tải</tv> <a>vượt</a> <tl>đèn đỏ</tl> <qt>có bị phạt không</qt></question>
+		<answer>có</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+		<test>
+		<question><tv>xe tải</tv> gặp <tl>đèn đỏ</tl> <qt>phải làm gì</qt></question>
+		<answer>có</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+		<test>
+		<question><tv>xe tải</tv> khi thấy <tl>đèn đỏ</tl> <qt>phải đi như thế nào</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -593,37 +668,117 @@
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật giao thông không</qt></question>
+		<question><tv>xe gắn máy</tv> gặp <tl>đèn đỏ</tl> <qt>phải đi như thế nào</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật giao thông không</qt></question>
+		<question><tv>xe gắn máy</tv> khi thấy <tl>đèn đỏ</tl> <qt>phải làm gì</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tv>xe gắn máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật giao thông không</qt></question>
+		<question><tl>đèn đỏ</tl> ở ngã tư <qt>để làm gì</qt></question>
+		<answer>Tín hiệu đỏ là cấm đi;</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn xanh</tl> ở ngã tư <qt>để làm gì</qt></question>
+		<answer>Tín hiệu xanh là được đi; </answer>
+		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn vàng</tl> ở ngã tư <qt>để làm gì</qt></question>
+		<answer>Tín hiệu vàng là phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường. </answer>
+		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn báo hiệu màu đỏ</tl> ở ngã tư <qt>để làm gì</qt></question>
+		<answer>Tín hiệu đỏ là cấm đi;</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn báo hiệu màu xanh</tl> ở ngã tư <qt>để làm gì</qt></question>
+		<answer>Tín hiệu xanh là được đi; </answer>
+		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn báo hiệu màu vàng</tl> ở ngã tư <qt>để làm gì</qt></question>
+		<answer>Tín hiệu vàng là phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường. </answer>
+		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn báo hiệu màu đỏ</tl> ở ngã tư <qt>có ý nghĩa gì</qt></question>
+		<answer>Tín hiệu đỏ là cấm đi;</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn báo hiệu màu xanh</tl> ở ngã tư <qt>có ý nghĩa gì</qt></question>
+		<answer>Tín hiệu xanh là được đi; </answer>
+		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn báo hiệu màu vàng</tl> ở ngã tư <qt>có ý nghĩa gì</qt></question>
+		<answer>Tín hiệu vàng là phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường. </answer>
+		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn đỏ</tl> ở ngã tư <qt>có ý nghĩa gì</qt></question>
+		<answer>Tín hiệu đỏ là cấm đi;</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn xanh</tl> ở ngã tư <qt>có ý nghĩa gì</qt></question>
+		<answer>Tín hiệu xanh là được đi; </answer>
+		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> gặp <tl>đèn xanh</tl> ở ngã tư <qt>phải làm gì</qt></question>
+		<answer>Tín hiệu xanh là được đi; </answer>
+		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> gặp <tl>đèn xanh</tl> ở ngã tư <qt>phải làm gì</qt></question>
+		<answer>Tín hiệu xanh là được đi; </answer>
+		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn vàng</tl> ở ngã tư <qt>có ý nghĩa gì</qt></question>
+		<answer>Tín hiệu vàng là phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường. </answer>
+		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> chuyển sang <tl>màu đỏ</tl> có <qt> vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<question><tv>ô tô</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> chuyển sang <tl>màu đỏ</tl> có <qt> vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<question><tv>xe gắn máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> chuyển sang <tl>màu đỏ</tl> có <qt> vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tv>xe đạp</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<question><tv>xe máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> chuyển sang <tl>màu đỏ</tl> có <qt> vi phạm luật không</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tv>xe gắn máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> <if2>chuyển sang màu đỏ</if2> có <qt> vi phạm luật không</qt></question>
+		<question><tv>ô tô</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> chuyển sang <tl>màu đỏ</tl> có <qt> vi phạm luật không</qt></question>
+		<answer>có</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> chuyển sang <tl>màu đỏ</tl> có <qt> vi phạm luật không</qt></question>
+		<answer>có</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe gắn máy</tv> <a>vượt qua vạch dừng</a> <if4>sau khi</if4> <tl>đèn báo hiệu</tl> chuyển sang <tl>màu đỏ</tl> có <qt> vi phạm luật không</qt></question>
 		<answer>có</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -643,17 +798,17 @@
 		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>xe <if4>chưa đi qua vạch dừng</if4> trong khi <tl>đèn báo hiệu</tl> <if2>chuyển màu vàng</if2> thì xe <qt>có được</qt> <a>đi tiếp</a> <qt>không</qt></question>
+		<question>xe <if4>chưa đi qua vạch dừng</if4> trong khi <tl>đèn báo hiệu</tl> chuyển <tl>màu vàng</tl> thì xe <qt>có được</qt> <a>đi tiếp</a> <qt>không</qt></question>
 		<answer>không</answer>
 		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tl>đèn báo hiệu</tl> <if2>nhấp nháy màu vàng</if2> xe <if4>đã đi quá vạch dừng</if4> thì <qt>có được</qt> <a>đi tiếp</a> hay <qt>không</qt></question>
+		<question><tl>đèn báo hiệu nhấp nháy màu vàng</tl> xe <if4>đã đi quá vạch dừng</if4> thì <qt>có được</qt> <a>đi tiếp</a> hay <qt>không</qt></question>
 		<answer>có nhưng phải giảm tốc độ</answer>
 		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tl>đèn báo hiệu</tl> <if2>nhấp nháy màu vàng</if2> xe <qt>có được</qt> <a>đi tiếp</a> hay <qt>không</qt></question>
+		<question><tl>đèn báo hiệu nhấp nháy màu vàng</tl> xe <qt>có được</qt> <a>đi tiếp</a> hay <qt>không</qt></question>
 		<answer>có nhưng phải giảm tốc độ</answer>
 		<base>điểm c khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -668,12 +823,17 @@
 		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>đợi đến khi <tl>đèn báo hiệu</tl> <qt>chuyển màu gì thì được đi</qt></question>
+		<question>đợi đến khi <tl>đèn báo hiệu</tl> chuyển <qt>màu gì thì được đi</qt></question>
 		<answer>màu xanh</answer>
 		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question><tl>đèn báo hiệu</tl> <if2>màu đỏ</if2> thì xe <qt>phải làm gì</qt></question>
+		<question>đợi đến khi <tl>đèn báo hiệu</tl> <qt>như thế nào</qt> thì xe được <a>đi</a></question>
+		<answer>màu xanh</answer>
+		<base>điểm a khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tl>đèn báo hiệu màu đỏ</tl> thì xe <qt>phải làm gì</qt></question>
 		<answer>dừng lại</answer>
 		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
 	</test>

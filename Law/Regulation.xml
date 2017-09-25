@@ -706,7 +706,12 @@
 		<base>điểm a khoản 1 điều 30 theo Luật số: 23/2008/QH12 _ điểm b khoản 1 điều 30 theo Luật số: 23/2008/QH12 _ điểm c khoản 1 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
-		<question>đi xe <tv>mô tô</tv> <qt>có</qt> cần <qt>phải</qt> <if3>đội mũ bảo hiểm</if3> <qt>không</qt></question>
+		<question>đi xe <tv>mô tô</tv> <qt>có cần</qt> phải <if3>đội mũ bảo hiểm</if3> <qt>không</qt></question>
+		<answer>có</answer>
+		<base>khoản 2 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question>đi xe <tv>mô tô</tv> <qt>có cần</qt> <if3>đội mũ bảo hiểm</if3> <qt>không</qt></question>
 		<answer>có</answer>
 		<base>khoản 2 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -951,7 +956,7 @@
 		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
 	<test>
-		<question><tv>ô tô</tv> <if1>27 chỗ ngồi</if1> khi đi <l>ngoài khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>90 km/</v> <qt>có bị phạt không</qt></question>
+		<question><tv>ô tô</tv> <if1>27 chỗ ngồi</if1> khi đi <l>ngoài khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>90 km/h</v> <qt>có bị phạt không</qt></question>
 		<answer>Ngoài khu vực đông dân cư _ xe ô tô chở người đến 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 90km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 80 km/h _ Xe ô tô chở người trên 30 chỗ (trừ xe buýt) _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 80 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 70 km/h</answer>
 		<base>điều 7 thông tư số: 91/2015/TT-BGTVT</base>
 	</test>
@@ -1034,5 +1039,45 @@
 		<question><tv>ô tô buýt</tv> khi đi <l>trong khu vực đông dân cư</l> có <sp>tốc độ</sp> <v>80 km/h</v> <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>Trong khu vực đông dân cư _ Ô tô buýt _ Đường đôi (có dải phân cách giữa); đường một chiều có từ 2 làn xe cơ giới trở lên: 60 km/h _ Đường hai chiều không có dải phân cách giữa; đường một chiều có 1 làn xe cơ giới: 50 km/h</answer>
 		<base>điều 6 thông tư số: 91/2015/TT-BGTVT</base>
+	</test>
+	<test>
+		<question><a>đi xe</a> <qt>có được</qt> <a>bốc đầu</a> <qt>không</qt></question>
+		<answer>không</answer>
+		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>đi xe bốc đầu</a> <qt>có bị phạt không</qt></question>
+		<answer>có</answer>
+		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>đi bốc đầu</a> <qt>có được không</qt></question>
+		<answer>không</answer>
+		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>đi bốc đầu</a> <qt>có bị phạt không</qt></question>
+		<answer>không</answer>
+		<base>điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi bốc đầu</a> <qt>có bị phạt không</qt></question>
+		<answer>không</answer>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12_điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <qt>có được</qt> <a>đi bốc đầu</a> <qt>không</qt></question>
+		<answer>không</answer>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12_điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe đạp máy</tv> <qt>có được</qt> <a>đi bốc đầu</a> <qt>không</qt></question>
+		<answer>không</answer>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12_điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe đạp máy</tv> <a>đi bốc đầu</a> <qt>có bị phạt không</qt></question>
+		<answer>không</answer>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12_điểm đ khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 </root>
