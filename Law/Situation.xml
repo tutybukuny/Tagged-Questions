@@ -36,6 +36,26 @@
 		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
+		<question><tv>xe máy</tv> <a>vượt bên phải xe khác</a> đang chạy phía <qt>có được không</qt></question>
+	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>vượt bên phải xe khác</a> đang chạy phía <qt>có được không</qt></question>
+	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe tải</tv> <a>vượt bên phải xe khác</a> đang chạy phía <qt>có được không</qt></question>
+	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>vượt bên phải xe khác</a> đang chạy phía <qt>có được không</qt></question>
+	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
 		<question>xe sau có thể <a>vượt bên phải xe khác</a> đang chạy phía trước trong <qt>khi nào</qt></question>
 	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
 		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>

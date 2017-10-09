@@ -356,7 +356,97 @@
 		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
+		<question><qt>khi nào</qt> thì được <a>vượt</a> <tv>ô tô</tv></question>
+		<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> thì được <a>vượt</a> <tv>xe máy</tv></question>
+		<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> thì được <a>vượt</a> <tv>xe tải</tv></question>
+		<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>như thế nào</qt> thì được <a>vượt xe khác</a></question>
+		<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>như thế nào</qt> thì được <a>vượt</a> <tv>ô tô</tv></question>
+		<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>như thế nào</qt> thì được <a>vượt</a> <tv>xe máy</tv></question>
+		<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>như thế nào</qt> thì được <a>vượt</a> <tv>xe tải</tv></question>
+		<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+		<base>khoản 2 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
 		<question><a>vượt xe khác</a> <qt>về phía bên nào</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>xe máy</tv> <qt>về phía bên nào</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>xe tải</tv> <qt>về phía bên nào</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>ô tô</tv> <qt>về phía bên nào</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt xe khác</a> <qt>có cần xi nhan không</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>xe máy</tv> <qt>có cần xi nhan không</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>xe tải</tv> <qt>có cần xi nhan không</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>ô tô</tv> <qt>có cần xi nhan không</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt xe khác</a> <qt>có cần báo trước không</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>xe máy</tv> <qt>có cần xi nhan báo trước không</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>xe tải</tv> <qt>có cần báo trước không</qt></question>
+		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
+		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><a>vượt</a> <tv>ô tô</tv> <qt>có cần báo trước không</qt></question>
 		<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được</answer>
 		<base>điểm a khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm b khoản 4 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 4 điều 14 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -367,6 +457,21 @@
 	</test>
 	<test>
 		<question><qt>trường hợp nào</qt> thì <a>không được vượt xe</a></question>
+		<answer>trên cầu hẹp có một làn xe; đường vòng, đầu dốc và các vị trí có tầm nhìn hạn chế; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</answer>
+		<base>điểm a khoản 5 điều 14 theo Luật số: 23/2008/QH12 _  điểm b khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm d khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm đ khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm e khoản 5 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>trường hợp nào</qt> thì <a>không được vượt</a> <tv>xe máy</tv></question>
+		<answer>trên cầu hẹp có một làn xe; đường vòng, đầu dốc và các vị trí có tầm nhìn hạn chế; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</answer>
+		<base>điểm a khoản 5 điều 14 theo Luật số: 23/2008/QH12 _  điểm b khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm d khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm đ khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm e khoản 5 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>trường hợp nào</qt> thì <a>không được vượt</a> <tv>ô tô</tv></question>
+		<answer>trên cầu hẹp có một làn xe; đường vòng, đầu dốc và các vị trí có tầm nhìn hạn chế; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</answer>
+		<base>điểm a khoản 5 điều 14 theo Luật số: 23/2008/QH12 _  điểm b khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm d khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm đ khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm e khoản 5 điều 14 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><qt>trường hợp nào</qt> thì <a>không được vượt</a> <tv>xe tải</tv></question>
 		<answer>trên cầu hẹp có một làn xe; đường vòng, đầu dốc và các vị trí có tầm nhìn hạn chế; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</answer>
 		<base>điểm a khoản 5 điều 14 theo Luật số: 23/2008/QH12 _  điểm b khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm c khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm d khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm đ khoản 5 điều 14 theo Luật số: 23/2008/QH12 _ điểm e khoản 5 điều 14 theo Luật số: 23/2008/QH12</base>
 	</test>
@@ -571,6 +676,26 @@
 		<base>khoản 2 điều 22 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
+		<question><tv>xe máy</tv> <qt>có được</qt> <a>vượt</a> <tl>đèn đỏ</tl> <qt>không</qt></question>
+		<answer>không</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>xe tải</tv> <qt>có được</qt> <a>vượt</a> <tl>đèn đỏ</tl> <qt>không</qt></question>
+		<answer>không</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <qt>có được</qt> <a>vượt</a> <tl>đèn đỏ</tl> <qt>không</qt></question>
+		<answer>không</answer>
+		<base>khoản 2 điều 22 theo Luật số: 23/2008/QH12 _ điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
+		<question>khi đi đường <qt>có được</qt> <a>vượt</a> <tl>đèn đỏ</tl> <qt>không</qt></question>
+		<answer>đối với xe ưu tiên thì được phép vượt đèn đỏ _ các xe khác phải dừng lại khi thấy đèn đỏ</answer>
+		<base>điểm b khoản 3 điều 10 theo Luật số: 23/2008/QH12</base>
+	</test>
+	<test>
 		<question><tv>xe cấp cứu</tv> <qt>có được</qt> <a>đi vào đường ngược chiều</a> <qt>không</qt></question>
 		<answer>có</answer>
 		<base>điểm c khoản 1 điều 22 theo Luật số: 23/2008/QH12</base>
@@ -763,27 +888,27 @@
 	<test>
 		<question><a>đi</a> <tv>xe đạp</tv> <l>lên vỉa hè</l> <qt>có vi phạm luật không</qt></question>
 		<answer>có</answer>
-		<base>khoản 1 điều 30 theo Luật số: 23/2008/QH12 _ điểm b khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm b khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>có được</qt> <a>đi</a> <tv>xe đạp</tv> <l>lên vỉa hè</l> <qt>không</qt></question>
 		<answer>không</answer>
-		<base>khoản 1 điều 30 theo Luật số: 23/2008/QH12 _ điểm b khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm b khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><tv>xe đạp</tv> <a>đi sang làn đường dành cho xe ô tô</a> <qt>có bị vi phạm luật không</qt></question>
 		<answer>có</answer>
-		<base>khoản 1 điều 30 theo Luật số: 23/2008/QH12 _ điểm b khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm b khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><qt>có được</qt> sử dụng <tv>xe đạp</tv> để <a>kéo xe khác</a> <qt>không</qt></question>
 		<answer>không</answer>
-		<base>khoản 1 điều 30 theo Luật số: 23/2008/QH12 _ điểm d khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm d khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><tv>xe đạp</tv> <a>kéo theo một xe đạp khác</a> đi trên đường <qt>có vi phạm luật giao thông không</qt></question>
 		<answer>có</answer>
-		<base>khoản 1 điều 30 theo Luật số: 23/2008/QH12 _ điểm d khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
+		<base>khoản 1 điều 31 theo Luật số: 23/2008/QH12 _ điểm d khoản 3 điều 30 theo Luật số: 23/2008/QH12</base>
 	</test>
 	<test>
 		<question><tp>người tập lái xe ô tô</tp> <qt>có được</qt> <if3>đi xe ô tô</if3> của mình trên đường <qt>không</qt></question>

@@ -801,12 +801,17 @@
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không đi đúng phần đường của mình</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><a>điều khiển</a> <tv>xe máy</tv> <a>không đi đúng phần đường</a> của mình thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><tv>xe máy</tv> <a>đi sai phần đường của mình</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>đi sai phần đường</a> của mình thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe máy</tv> <a>đi sai làn</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -851,7 +856,7 @@
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <a>đi ngược chiều</a> <l>đường một chiều</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>đi ngược chiều</a> <l>đường một chiều</l> thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
@@ -861,7 +866,7 @@
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
 	<test>
-		<question><a>điều khiển</a> <tv>xe máy</tv> <a>đi ngược chiều khi có biển cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt></question>
+		<question><tv>xe máy</tv> <a>đi ngược chiều</a> khi có biển cấm thì <qt>bị phạt bao nhiêu tiền</qt></question>
 		<answer>300.000 đồng đến 400.000 đồng</answer>
 		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
 	</test>
